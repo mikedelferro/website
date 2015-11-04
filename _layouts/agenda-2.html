@@ -530,9 +530,9 @@ function loaded() {
 {% for item in site.gigs %}
 
    <tr>
-       <td style="border-top: 1px solid #ccc; padding: 5px 20px 5px 0px;" >{{ item.date | date: "%d %b %Y" }}</td>
-       <td style="border-top: 1px solid #ccc; padding: 5px 20px 5px 0px;">{{ item.title }}</td>
-       <td style="border-top: 1px solid #ccc; padding: 5px 0px 5px 0px;">{{ item.location }}<br /><a href="{{ item.url }}" target="_blank">{{ item.venue }}</a></td>
+       <td style="border-top: 1px solid #ccc; padding: 5px 20px 5px 0px; white-space: nowrap;" >{{ item.date | date: "%d %b %Y" }}</td>
+       <td style="border-top: 1px solid #ccc; padding: 5px 20px 5px 0px; text-align: center; "><a href="{{ item.url }}" target="_blank">{{ item.venue }}</a><br />{{ item.title }}</td>
+       <td style="border-top: 1px solid #ccc; padding: 5px 0px 5px 0px; white-space: nowrap;">{{ item.location }}</td>
     </tr>
    
 {% endfor %}
