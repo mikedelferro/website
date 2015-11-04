@@ -617,7 +617,7 @@ $(document).ready(function() {
 {% for item in site.gigs %}
 
    <tr>
-       <td style="border-top: 1px solid #ccc; padding: 5px 20px 5px 0px; white-space: nowrap;" ><span style="font-weight: 600;">{{ item.date | date: "%a" }}</span><br />{{ item.date | date: "%d %b %Y" }}</td>
+       <td style="border-top: 1px solid #ccc; padding: 5px 20px 5px 0px; text-align: center; white-space: nowrap;" ><span style="font-weight: 600;">{{ item.date | date: "%a" }}</span><br />{{ item.date | date: "%d %b" }}</td>
        <td style="border-top: 1px solid #ccc; padding: 5px 20px 5px 0px; text-align: center; "><a href="{{ item.url }}" target="_blank" style="font-weight: 600; text-decoration: none;">{{ item.venue }}</a><br />{{ item.title }}</td>
        <td style="border-top: 1px solid #ccc; padding: 5px 0px 5px 0px; white-space: nowrap;">{{ item.location }}</td>
     </tr>
