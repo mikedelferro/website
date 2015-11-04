@@ -1,0 +1,796 @@
+<!-- 
+
+Template Information 
+______________________
+
+NAME: Dry
+PRODUCT: Website
+PURPOSE: Desktop
+SCALING: No
+CMS: Adobe Contribute, CloudCannon
+PLATFORM: WithoutCoding.com
+SUPPORTED: flyleft, flyright, flyup, flydown, home, back, menu, fadein, fadeout
+
+-->
+
+
+
+<!DOCTYPE html>
+<html class="main" lang="en"><!-- InstanceBegin template="" codeOutsideHTMLIsLocked="false" -->
+ 
+<!-- Mirrored from withoutcoding.com/editions/preview/33/bio-espanol by HTTrack Website Copier/3.x [XR&CO'2013], Tue, 03 Nov 2015 08:50:18 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<HEAD>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title> bio Espanol</title>
+  <!-- InstanceEndEditable -->
+  <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=1400">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <!--Link to mobile version -->
+<link rel="alternate" media="only screen and (max-width: 640px)" href="bio-espanol-2.html" >
+
+  <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+  <script type="text/javascript" src="js/modernizr.touch.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+          <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+          <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+    
+
+<style type="text/css">
+
+  * {
+    padding: 0;
+    margin: 0;
+  }
+  a {-webkit-tap-highlight-color: rgba(0,0,0,0);}
+  body, html {height: 100%;}
+  body {
+    font-size: 11px;
+    font-family: 'Arial', sans-serif;
+    background: white url('gif/circle_preloader_on_white.gif') center 50% no-repeat;
+    overflow: hidden;
+    overflow-y: scroll;
+  }
+  #innerinnerbody {position: absolute; width: 100%; min-height: 100%; overflow: hidden;}
+  #innerbody {position: absolute; width: 100%; height: 100%;}
+  #bg {width: 100%; height: 100%; overflow: hidden; position: fixed; z-index: -1;}
+
+  #container {
+    height: 830px;
+    width: 1200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -415px;
+    margin-left: -600px;
+  }
+  #page {
+    position: absolute;
+  }
+  #page ul {margin-left: 1.5em;}
+  #page ol {margin-left: 2em;}
+    /* background image is nodig om in IE 8 & 9 absolute a's klikbaar te laten zijn */
+  #page a {outline: none; background: url('png/empty.png'); color: inherit;}
+  .next, .prev, .menutoggle {
+    text-align: center;
+    width: 30px;
+    top: 50%;
+    cursor: pointer;
+    z-index: 99;
+    color: white;
+    background: rgba(0,0,0,1);
+    display: none;
+    padding: 20px 20px 20px 20px;
+  }
+  #prev {
+    left: 0px;
+  }
+  #next {
+    right: 75px;
+  }
+  #footer {
+    position: fixed;
+    right: 0;
+    width: 70px;
+    color: gray;
+    padding: 0;
+    height: 100%;
+    background: rgba(255,255,255,1);
+    z-index: 999;
+  }
+  #footermenu {
+    display: none; 
+    height: 100%;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    overflow: auto;
+    text-align: center;
+    background: rgb(20,20,20);
+    background: rgba(0,0,0,0.7);
+    z-index: 99;
+  }
+  #innerfootermenu {max-width: 1300px; display: inline-block; padding: 30px 0;}
+  #footermenu a {
+    display: inline-block;
+    background: #333;
+    text-decoration: none;
+    color: white;
+    margin: 20px 10px;
+    position: relative;
+    top: 20px;
+  }
+  #footermenu a:hover {}
+  #footermenu a:hover span.img {}
+  #footermenu a span.img {height: 140px; border: 3px solid #333;}
+  #footermenu a span {width: 290px; display: block; font-size: 16px; padding: 5px 0px 10px; text-align: center;}
+  #footermenu a span span {display: none; width: auto; height: auto; height: auto; padding: 0 0 10px; font-size: 13px;}
+  #footermenu a.selected {margin-top: 0px;}
+  #innerfooter {
+    margin: 0;
+    color: gray;
+    text-align: left;
+    position: absolute;
+    height: 100%;
+    width: 70px;
+    font-size: 25px;
+  }
+  #innerfooter a {text-align: center; margin-bottom: 1px; color: black; text-decoration: none; background: white; display: block;}
+  #innerfooter a#share {line-height: 70px; position: absolute; bottom: 70px; right: 0; width: 70px;}
+  #innerfooter #shareflyout {position: absolute; right: 70px; bottom: 70px; width: 280px; display: none; height: 70px; overflow: hidden; background: white;}
+  #innerfooter #shareflyout a {line-height: 70px; width: 70px; display: inline-block; margin-bottom: 0; word-wrap: nowrap;}
+  #innerfooter a.next, #innerfooter a.prev {background: #000; color: white;}
+  #innerfooter a.menutoggle {background: white;}
+  #innerfooter a:hover {background: #eee;}
+  #innerfooter a.prev:hover, #innerfooter a.next:hover {background: #111;}
+  #innerfooter #progress {
+    position: absolute; 
+    color: black;
+    font-size: 16px;
+    bottom: 0;
+    background: white;
+    height: 70px;
+    width: 70px;
+    display: block;
+    line-height: 75px; 
+    text-align: center;
+  }
+  #progress span {color: black; padding-right: 2px; font-weight: normal;}
+  #navbuttons {width: 70px; position: absolute; top: 50%; margin-top: -110px;}
+.innerpulsate {
+    border: 3px solid rgba(0,0,0,0.4);
+    border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+    position: absolute;
+  animation: pulsate 1.5s ease-out;
+  animation-iteration-count: infinite;
+    -webkit-animation: pulsate 1.5s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    -moz-animation: pulsate 1.5s ease-out;
+    -moz-animation-iteration-count: infinite; 
+    opacity: 0.0;
+    margin-left: -3px;
+    margin-top: -3px;
+}
+.white .innerpulsate {
+    border: 3px solid rgba(255,255,255,0.4);
+}
+.overflowhidden, .overflowhidden div {overflow: hidden!important;}
+.flyleft, .flyright, .flydown, .flyup {display: none;}
+.innerflyleft {position: absolute; display: none;}
+.innerflyright {position: absolute; display: none;}
+.innerflydown {position: absolute; display: none;}
+.innerflyup {position: absolute; display: none;}
+
+.innerfloating {
+    position: absolute;
+  animation: floating 3s  ease-in-out;
+    animation-iteration-count: infinite;
+  -moz-animation: floating 3s  ease-in-out;
+    -moz-animation-iteration-count: infinite;
+  -webkit-animation: floating 3s  ease-in-out;
+    -webkit-animation-iteration-count: infinite;
+}
+.boldorange b {color: #ed7957;}
+.italicred i, .boldred b {font-style: normal; color: #ff0000;}
+.back, .home, .menu {cursor: pointer;}
+.width180 img {width: 180px;}
+
+
+@-webkit-keyframes floating {
+    0% {-webkit-transform: scale(0.90, 0.90);}
+    50% {-webkit-transform: scale(1, 1);}   
+    100% {-webkit-transform: scale(0.90, 0.90);}           
+}
+@keyframes floating {
+    0% {transform: scale(0.90, 0.90); ms-transform: scale(0.90, 0.90);}
+  50% {transform: scale(1, 1); ms-transform: scale(1, 1);}   
+    100% {transform: scale(0.90, 0.90); ms-transform: scale(0.90, 0.90);}
+}
+@-moz-keyframes floating {
+    0% {-moz-transform: scale(0.90, 0.90);}
+    50% {-moz-transform: scale(1, 1);}   
+    100% {-moz-transform: scale(0.90, 0.90);}           
+}
+
+@-webkit-keyframes pulsate {
+    0% {-webkit-transform: scale(0.8, 0.8); opacity: 0.0;}
+    50% {opacity: 1;}
+    100% {-webkit-transform: scale(1.2, 1.2); opacity: 0.0;}
+}
+@keyframes pulsate {
+    0% {transform: scale(0.8, 0.8); opacity: 0.0;}
+    50% {opacity: 1;}
+    100% {transform: scale(1.2, 1.2); opacity: 0.0;}
+}
+@-moz-keyframes pulsate {
+    0% {-moz-transform: scale(0.8, 0.8); opacity: 0.0;}
+    50% {opacity: 1;}
+    100% {-moz-transform: scale(1.2, 1.2); opacity: 0.0;}
+}
+
+
+</style>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+
+
+
+$(document).ready(function() {
+  var iOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
+  var ua = navigator.userAgent;
+  var matches = ua.match(/^.*(iPad).*(OS\s[0-9]).*(Version)\/[.0-9]*\sMobile.*$/i);
+  if (iOS) $('body').addClass('ios');
+  if (matches) {
+    if (matches[2] === 'OS 7') {
+      if (ua.indexOf('Safari') != -1 && ua.indexOf('Chrome') == -1) {
+        $('body').addClass('ipad ios7 safari');
+      }
+    }
+  }
+
+  $('.sharelink').each( function() {
+    $(this).attr('href', $(this).attr('href') + encodeURIComponent(window.location.href));
+  });
+  
+  $('.next').click( function() {
+    el = $(this);
+    $("#innerbody, #bg").animate({
+        right: $("#innerbody, #bg").outerWidth(),
+        opacity: 0
+      }, 500, function() {
+        // Animation complete.
+      document.location.href=el.attr("href");
+    });
+    return false;
+  });
+  
+  $("#innerinnerbody").css('height',$("#page").height()+'px');
+
+  $('.prev').click( function(e) {
+    el = $(this);
+    $("#innerbody, #bg").animate({
+        left: $("#innerbody, #bg").outerWidth(),
+        opacity: 0
+      }, 500, function() {
+        // Animation complete.
+      document.location.href=el.attr("href");
+    });
+    return false;
+  });
+  $('.flyleft').each( function() {
+    $(this).css('display','block');
+    var targetleft = $(this).offset().left- ($(window).width()-$('#page').width())/2;
+    var startleft = $(window).width();
+    $(this).css('left',startleft+'px');
+    $(this).delay(500).animate({left: targetleft}, 700);
+  });
+
+  $('.flyright').each( function() {
+    $(this).css('display','block');
+    var targetleft = $(this).offset().left- ($(window).width()-$('#page').width())/2;
+    var startleft = - ($(window).width()-$('#page').width())/2-$(this).width();
+    $(this).css('left',startleft+'px');
+    $(this).delay(500).animate({left: targetleft}, 700);
+  });
+
+  $('.flydown').each( function() {
+    $(this).css('display','block');
+    var thiscontent = $(this).html();
+    $(this).html( "<div class='innerflydown' style='width: "+$(this).width()+"px; height:"+$(this).height()+"px;'>"+thiscontent+"</div>" );
+  });
+  $('.flyup').each( function() {
+    $(this).css('display','block');
+    var thiscontent = $(this).html();
+    $(this).html( "<div class='innerflyup' style='width: "+$(this).width()+"px; height:"+$(this).height()+"px;'>"+thiscontent+"</div>" );
+  });
+
+
+  $(".innerflyleft").each (function() {
+    $(this).css('left',$(this).parent().width()+'px');
+    $(this).css('display','block');
+    $(this).delay(500).animate({left: 0}, 700);
+  });
+  $(".innerflyright").each (function() {
+    $(this).css('right',$(this).parent().width()+'px');
+    $(this).css('display','block');
+    $(this).delay(500).animate({right: 0}, 700);
+  });
+  $(".innerflydown").each (function() {
+    $(this).css('bottom',$(this).parent().height()+'px');
+    $(this).css('display','block');
+    $(this).delay(500).animate({bottom: 0}, 700);
+  });
+  $(".innerflyup").each (function() {
+    $(this).css('top',$(this).parent().height()+'px');
+    $(this).css('display','block');
+    $(this).delay(500).animate({top: 0}, 700);
+  });
+  $(".fadeout").each (function() {
+    $(this).delay(500).fadeOut('slow');
+  }); 
+  $(".fadein").each (function() {
+    $(this).hide();
+    $(this).delay(500).fadeIn('slow');
+  });   
+  $('.menutoggle').click( function() {
+    $("#footermenu").fadeToggle();
+  });
+  
+  $('.pulsate').each( function() {
+    $(this).prepend( "<div class='innerpulsate' style='width: "+$(this).width()+"px; height:"+$(this).height()+"px;'></div>" );
+  });
+  
+  $('.innerpulsate').hide(0).delay(1200).show(0);
+
+  $('.floating').each( function() {
+    var thiscontent = $(this).html();
+    $(this).html( "<div class='innerfloating' style='width: "+$(this).width()+"px; height:"+$(this).height()+"px;'>"+thiscontent+"</div>");
+  });
+  $('#alert').click( function() {
+    $(this).hide();
+  });
+  $('.home').click( function() {
+    document.location.href='home.html';
+  });
+  $('.back').click( function() {
+     window.history.back();
+  });
+  $('.menu').click( function() {
+    document.location.href='menu.html';
+  });
+
+
+
+  $('.prev, .next, #innerfooter a').on('touchend', function(e) {
+    e.preventDefault();
+    if($(this).attr('href')) document.location.href=$(this).attr('href');
+    $(this).click();
+  });
+  $('#footermenu a').on('touchstart', function(e) {
+    e.preventDefault();
+    $("#page").hide();
+    if($(this).attr('href') && $(this).attr('target')!='_blank') document.location.href=$(this).attr('href');
+    $(this).click();
+  });
+  
+  $('#container a[target="_blank"]').addClass('external');
+  $('#container a').on('touchstart', function(e) {
+    //preventdefault werkt niet goed on touchend...
+    e.preventDefault();
+    if(!$(this).hasClass('pulsate')) $("#page").hide();
+    if(!$(this).hasClass('external')) document.location.href=$(this).attr('href');
+    else window.open($(this).attr('href'),'fox_new_window');
+  });
+
+  $('#share').click( function() {
+    $('#shareflyout').fadeToggle();
+    //$('#shareflyout').animate({width: 'toggle'});
+  });
+
+
+  // makes pages grow when too much content is entered in a WYSIWYG field
+  // requires .growpage on WYSIWYG field
+  $(".growpage").first().each(function() {
+    var pagegrow = 0;
+    if($(this)[0].offsetHeight < $(this)[0].scrollHeight) pagegrow = $(this)[0].scrollHeight - $(this)[0].offsetHeight;
+    $(this).css('height',$(this)[0].scrollHeight+'px');
+    $("#container").css('height',($("#container").height()+pagegrow)+'px');
+    $("#page").css('height',($("#page").height()+pagegrow)+'px');
+    $("#container").css('margin-top','-'+($("#container").height()/2)+'px');
+    // enables elements with .moveongrow to move along
+    $(".moveongrow").each(function() {
+      var offset = $(this).offset();
+      $(this).css('top',(offset.top+pagegrow)+'px');
+    });
+  });
+
+  //open all external links in a new window
+  $("#page a[href^='http://']").attr("target","_blank");
+  $("#page a[href^='https://']").attr("target","_blank");
+
+  $(window).resize();
+});
+
+  $(window).resize(function() {
+
+        //do redirect when window width is not big enough (as this is a desktop template)
+    if(window.screen.width<640 || $(window).width()<640) document.location.href='bio-espanol-2.html'; 
+    
+    $( "#bg, #innerbody, #footermenu").css('width',$(window).width()+"px");
+    $("#innerinnerbody").height(document.getElementById('page').getBoundingClientRect().height);
+
+ 
+    var widthdiff =  (document.getElementById('page').getBoundingClientRect().width - $(window).width())/2;
+    if(widthdiff>0)widthdiff=0;
+
+    var heightdiff = (document.getElementById('page').getBoundingClientRect().height - $(window).height())/2;
+    if(heightdiff>0) heightdiff=0;
+
+
+    $('.left, .right, .bottom, .top').each(function() {
+      $(this).appendTo('#innerbody');
+      $(this).css('margin-left',-(widthdiff)+'px');
+      $(this).css('margin-top',-(heightdiff)+'px');
+      $(this).css('position','fixed');
+    });
+    $( ".right").css('left',"auto");
+    $( ".right").css('right',"0px");
+    $( ".left").css('left',"0px");
+    $( ".left").css('margin-left',"0px");
+    $( ".bottom").css('top',"auto");
+    $( ".bottom").css('bottom',"0px");
+    $( ".top").css('top',"0px");
+    $( ".top").css('margin-top',"0px");
+
+    /* fullscreen */
+    
+    w = $(window).width();
+    h = $(window).height();
+    if (w/h > 16/9) {
+    	item_w = w;
+    	item_h = (9/16)*w;
+    	correction = "margin-top";
+    	correction_value = (-1*(item_h-h)/2);
+    } else {
+    	item_h = h;
+    	item_w = (16/9)*h;
+    	correction = "margin-left";
+    	correction_value = (-1*(item_w-w)/2);
+    }
+
+    $('.fullscreen').each(function() {
+      $(this).appendTo('#innerbody');
+      $(this).css('position','fixed');
+    });
+    $( ".fullscreen, .fullscreen iframe").css('height',item_h+"px");
+    $( ".fullscreen, .fullscreen iframe").css('width',item_w+"px");
+    $( ".fullscreen").css('left',"0px");
+    $( ".fullscreen, .fullscreen div").css('margin-left',"0px");
+    $( ".fullscreen").css('top',"0px");
+    $( ".fullscreen, .fullscreen div").css('margin-top',"0px");
+    $( ".fullscreen").css('z-index',"-1");
+    $( ".fullscreen").css(correction,correction_value+"px");
+
+    /* fullwidth */
+
+    $('.fullwidth').each(function() {
+      $(this).appendTo('#innerbody');
+      $(this).css('margin-top',-(heightdiff)+'px');
+    });
+    $('.fullwidth img, .fullwidth iframe').each(function() {
+        img_h = $(this).height();
+        img_w = $(this).width();
+	    w = $(window).width();
+	    h = $(this).parent().height();
+	    if (w/h > img_w/img_h) {
+	    	item_w = w;
+	    	item_h = (img_h/img_w)*w;
+	    	correction = "margin-top";
+	    	correction_value = (-1*(item_h-h)/2);
+	    } else {
+	    	item_h = h;
+	    	item_w = (img_w/img_h)*h;
+	    	correction = "margin-left";
+	    	correction_value = (-1*(item_w-w)/2);
+	    }      
+	    $(this).css('height',item_h);
+	    $(this).css('width',item_w);
+	    $(this).css('margin-left',"0px");
+	    $(this).css('margin-top',"0px");
+	    $(this).css(correction,correction_value+"px");
+    });
+    $( ".fullwidth").css('width',"100%");
+    $( ".fullwidth").css('left',"0px");
+    $( ".fullwidth").css('margin-left',"0px");
+    $( ".fullwidth").css('z-index',"-1");
+
+  });
+
+//]]>
+</script>
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-20130078-1', 'mikedelferro.com');
+ ga('send', 'pageview');
+
+</script>
+ </HEAD>
+ <BODY>
+ <div id="innerinnerbody">
+ <div id="innerbody">
+ <div id="bg" 
+   style="background: url('jpg/363.jpg') center center no-repeat; background-size: cover;"
+  >
+  </div>
+     <div id="container">
+
+		
+<div id="page" style="width: 1200px; height: 830px;"><div style="position: absolute; width: 1200px; height: 830px;">
+
+  
+
+
+    
+
+
+
+
+
+  
+    
+  
+
+
+  
+
+
+  
+  
+
+  
+
+
+  
+
+  
+
+  
+  
+    <div      
+    style="overflow: auto; position: absolute; 
+    text-align: left; 
+    left: 694px; 
+    top: 206px; 
+    width: 507px; 
+    height: 504px; 
+    color: rgb(255,255,255); 
+    font-size:18px;line-height:25px;letter-spacing:0px;text-align:left;;
+    overflow: hidden;
+    font-weight: 300; font-family: &#039;Open Sans&#039;, sans-serif;"
+    class="wysiwyg editable growpage"><!-- InstanceBeginEditable name="content1730" -->
+
+    <p>El Pianista Holandés Mike del Ferro es un compositor, pianista y arreglista altamente demandado en la escena internacional que compone e interpreta en un amplio abanico de estilos musicales.</p><p>Ha viajado intensamente por todo el mundo (mas que 100 paises), siempre buscando colaboraciones con músicos de culturas muy diferentes a la suya, lo que le ha proporcionado una mentalidad musical muy abierta, construyendo puentes musicales entre culturas que tradicionalmente no se habían llegado a tocar nunca. Ha sabido combinar los elementos de los respetados cánones de la música Occidental con la audacia de la improvisación jazzística, y al mismo tiempo rindiendo homenaje a las antiguas estructuras de la música tradicional de Asia, Sudamérica y África.<br />  <br />Inició sus estudios de piano clásico a la edad de 8 años; mas tarde se interesó al jazz estudiando Música Contemporánea en el Conservatorio de Ámsterdam donde se diplomó en el año 1990. En 1989 ganó el Primer Premio en el Rótterdam Jazz Piano Contest y en el mismo año ganó el 1er premio como solista en el Europe Jazz Contest de Bruselas y el 1er premio en el Karlovy Vary Jazzcontest en la Republica Checa.</p><p>Ha grabado docenas de álbumes, variando en géneros - desde Jazz tradicional a la Salsa - y ha arreglado música para el cine de animación, con Børge Ring, ganador del Oscar. Su reputación como solista, acompañante, compositor y arreglista lo llevaron rápidamente a trabajar a nivel internacional a través de cientos de conciertos y grabaciones con importantes músicos al más alto nivel. Entre estos: Toots Thielemans, Branford Marsalis, Jack DeJohnette, Randy Brecker, Oscar Castro Neves....Mike. del Ferro es además director del Programa de Jazz de la Asociación Cultural American Voices, por lo que viaja por todo el mundo, desde Latvia a Turkmenistán, Myanmar, Vietnam, Dubai, Colombia, Azerbaijan, Kazakhstan y Taiwán.</p>   
+
+    <!-- InstanceEndEditable --></div>
+
+        
+  
+
+
+    
+
+
+
+
+
+  
+    
+  
+
+
+  
+
+
+  
+  
+
+  
+
+
+  
+
+  
+
+  
+  
+    <div      
+    style="overflow: auto; position: absolute; 
+    text-align: left; 
+    left: 693px; 
+    top: 96px; 
+    width: 453px; 
+    height: 89px; 
+    color: rgb(255,255,255); 
+    font-size:59px;line-height:84px;letter-spacing:-1px;text-align:left;;
+    overflow: hidden;
+    font-weight: 700; font-family: &#039;Open Sans&#039;, sans-serif;"
+    class="wysiwyg "><!-- InstanceBeginEditable name="content1731" -->
+
+    bio   
+
+    <!-- InstanceEndEditable --></div>
+
+        
+  
+
+
+    
+
+
+
+
+
+  
+    
+  
+
+
+  
+
+
+  
+  
+
+  
+
+
+  
+
+  
+
+  
+  
+    <div      
+    style="overflow: auto; position: absolute; 
+    text-align: left; 
+    left: 936px; 
+    top: 130px; 
+    width: 227px; 
+    height: 40px; 
+    color: rgb(255,255,255); 
+    font-size:24px;line-height:33px;letter-spacing:0px;text-align:right;;
+    overflow: hidden;
+    font-weight: 700; font-family: &#039;Open Sans&#039;, sans-serif;"
+    class="wysiwyg "><!-- InstanceBeginEditable name="content1892" -->
+
+    select a language   
+
+    <!-- InstanceEndEditable --></div>
+
+        
+  
+
+
+    
+
+
+
+
+
+  
+    
+  
+
+
+  
+
+
+  
+  
+
+  
+
+
+  
+
+    <div style="overflow: hidden; position: absolute; left: 0px; top: 0px; 
+    width: 61px; height: 65px; font-size:14px;font-weight:300;line-height:1.4em;letter-spacing:0px;text-align:left    ; text-align: center;"
+    class="shape top left home"><i class="fa fa-bars" style="display: inline-block; font-size: 45.75px; line-height: 65px; color: rgb(255,255,255);"></i></div>
+  
+
+  
+      
+  
+
+
+    
+
+
+
+
+
+  
+    
+  
+
+
+  
+
+
+  
+  
+
+  
+
+
+  
+
+    <div style="overflow: hidden; position: absolute; left: 1167px; top: 128px; 
+    width: 45px; height: 45px; font-size:14px;font-weight:300;line-height:1.4em;letter-spacing:0px;text-align:left    ; text-align: center;"
+    class="shape "><i class="fa fa-caret-down" style="display: inline-block; font-size: 33.75px; line-height: 45px; color: rgb(255,255,255);"></i></div>
+  
+
+  
+      
+  
+
+
+    
+
+
+
+
+
+  
+    
+  
+
+
+      <a href="change-language.html" target="" style="display: block; cursor: pointer; position: absolute; 
+    left:   951px; 
+    top:    123px; 
+    width:  256px; 
+    height: 54px;" 
+    title="Select a language" class="pagelink "></a>
+  
+
+
+  
+  
+
+  
+
+
+  
+
+  
+
+  
+      
+  
+</div></div>
+
+    </div>
+</div>
+</div>
+
+
+
+
+
+</body><!-- InstanceEnd -->
+
+<!-- Mirrored from withoutcoding.com/editions/preview/33/bio-espanol by HTTrack Website Copier/3.x [XR&CO'2013], Tue, 03 Nov 2015 08:50:18 GMT -->
+</html>
