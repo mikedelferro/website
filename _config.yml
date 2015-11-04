@@ -24,3 +24,8 @@ gigs:
     location: 'Hilversum, NL'
     venue: MCO
     url: ''
+  - title: with Metropole Orkest
+    date: 2016-02-06T00:00:00.000Z
+    location: 'Zeist, NL'
+    venue: De Bovenkamer
+    url: ''
