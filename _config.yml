@@ -3,12 +3,12 @@ gigs:
     date: 2015-11-20T00:00:00.000Z
     location: 'Belgrade, Rs'
     venue: Keyboard days festival
-    url: ''
+    url:
   - title: with Jeroen Van Veen
     date: 2015-11-21T00:00:00.000Z
     location: 'Belgrade, Rs'
     venue: Keyboard days festival
-    url: ''
+    url:
   - title: with Jeroen Van Veen
     date: 2015-11-22T00:00:00.000Z
     location: 'Belgrade, Rs'
@@ -18,14 +18,14 @@ gigs:
     date: 2016-01-22T00:00:00.000Z
     location: 'Gothenburg, SE'
     venue: Jazz Club Nefertiti
-    url: ''
+    url:
   - title: with Metropole Orkest
     date: 2016-02-03T00:00:00.000Z
     location: 'Hilversum, NL'
     venue: Muziekcentrum Omroep
-    url: ''
+    url:
   - title: Mike del Ferro
     date: 2016-02-06T00:00:00.000Z
     location: 'Zeist, NL'
     venue: De Bovenkamer
-    url: ''
+    url:
