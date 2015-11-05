@@ -13,7 +13,7 @@ gigs:
     date: 2015-11-22T00:00:00.000Z
     location: 'Belgrade, Rs'
     venue: Pianofestival
-    url: ''
+    url:
   - title: with Trio del Ferro
     date: 2016-01-22T00:00:00.000Z
     location: 'Gothenburg, SE'
