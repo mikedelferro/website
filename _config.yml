@@ -1,11 +1,11 @@
 gigs:
   - title: Solo recital and piano duo with Jeroen Van Veen
-    date: 2015-11-22T00:00:00.000Z
+    date: 2015-11-22T07:00:00.000Z
     location: 'Belgrade, Rs'
     venue: Pianofestival
     url: www.keyboarddays.com
   - title: Mike del Ferro trio
-    date: 2016-01-22T00:00:00.000Z
+    date: 2016-01-22T08:00:00.000Z
     location: 'Gothenburg, SE'
     venue: Jazz Club Nefertiti
     url: ''
@@ -15,7 +15,7 @@ gigs:
     venue: Muziekcentrum Omroep
     url: ''
   - title: Mike del Ferro
-    date: 2016-02-06T00:00:00.000Z
+    date: 2016-02-06T08:00:00.000Z
     location: 'Zeist, NL'
     venue: De Bovenkamer
     url: ''
