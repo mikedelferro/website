@@ -5,6 +5,11 @@ gigs:
     venue: Keyboarddays
     url: www.keyboarddays.com
   - title: Mike del Ferro trio
+    date: 2016-02-06T08:00:00.000Z
+    location: 'Zeist, NL'
+    venue: De Bovenkamer
+    url: ''
+  - title: Mike del Ferro trio
     date: 2016-01-22T08:00:00.000Z
     location: 'Gothenburg, SE'
     venue: Jazz Club Nefertiti
@@ -14,8 +19,13 @@ gigs:
     location: 'Hilversum, NL'
     venue: Muziekcentrum Omroep
     url: ''
-  - title: Mike del Ferro trio
-    date: 2016-02-06T08:00:00.000Z
-    location: 'Zeist, NL'
-    venue: De Bovenkamer
-    url: ''
+  - title: Mike del Ferro with the Metropole orchestra
+    date: 2016-05-08T11:00:00.000Z
+    location: Amsterdam
+    venue: 'Concertgebouw, main hall ( 11am! )'
+    url: www.concertgebouw.nl
+  - title: Mike del Ferro with the Metropole orchestra
+    date: 2016-05-07T15:00:00.000Z
+    location: Hilversum
+    venue: 'MCO gebouw (after concert!)'
+    url: www.mcogebouw.nl
