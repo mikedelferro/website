@@ -9,6 +9,11 @@ gigs:
     location: 'Gothenburg, SE'
     venue: Jazz Club Nefertiti
     url: ''
+  - title: 'Piano duo Mike del Ferro & Jeroen van Veen'
+    date: 2016-01-27T20:00:00.000Z
+    location: Amsterdam (NL)
+    venue: Splendor
+    url: www.splendoramsterdam.com
   - title: CD recordings with Metropole Orchestra
     date: 2016-02-03T10:00:00.000Z
     location: 'Hilversum, NL'
@@ -29,3 +34,8 @@ gigs:
     location: Amsterdam (NL)
     venue: 'Concertgebouw, main hall ( 11am! )'
     url: www.concertgebouw.nl
+  - title: 'Piano duo Mike del Ferro & Jeroen van Veen'
+    date: 2016-01-27T20:00:00.000Z
+    location: Amsterdam (NL)
+    venue: Splendor
+    url: www.splendoramsterdam.com
