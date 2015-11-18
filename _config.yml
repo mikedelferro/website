@@ -1,6 +1,6 @@
 gigs:
   - title: Solo recital and piano duo with Jeroen Van Veen
-    date: 2015-11-22T07:00:00.000Z
+    date: 2015-11-22T19:00:00.000Z
     location: 'Belgrade, Rs'
     venue: Keyboarddays
     url: www.keyboarddays.com
@@ -39,3 +39,13 @@ gigs:
     location: Amsterdam (NL)
     venue: 'Concertgebouw, main hall ( 11am! )'
     url: www.concertgebouw.nl
+  - title: Mike del Ferro and Mike Boddé pianoduo
+    date: 2016-04-15T20:00:00.000Z
+    location: Amsterdam (NL)
+    venue: De Kleine Komedie
+    url: www.dekleinekomedie.nl
+  - title: Mike del Ferro and Mike Boddé pianoduo
+    date: 2016-04-16T20:00:00.000Z
+    location: Amsterdam (NL)
+    venue: De Kleine Komedie
+    url: www.dekleinekomedie.nl
