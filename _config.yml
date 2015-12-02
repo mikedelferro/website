@@ -29,21 +29,11 @@ gigs:
     location: 'Zeist, NL'
     venue: De Bovenkamer
     url: ''
-  - title: 'Mike del Ferro and the Brasilia Symphonic orchestra, opera meets Jazz'
+  - title: 'Mike del Ferro and the Brasilia Symphonic orchestra, Opera meets Jazz'
     date: 2016-03-08T20:00:00.000Z
     location: Brasilia (B)
     venue: TBA
     url: ''
-  - title: Mike del Ferro with the Metropole Orchestra
-    date: 2016-05-07T15:00:00.000Z
-    location: Hilversum
-    venue: 'MCO gebouw (afternoon concert!)'
-    url: www.mcogebouw.nl
-  - title: Mike del Ferro with the Metropole orchestra
-    date: 2016-05-08T11:00:00.000Z
-    location: Amsterdam (NL)
-    venue: 'Concertgebouw, main hall ( 11am! )'
-    url: www.concertgebouw.nl
   - title: Mike del Ferro and Mike Boddé pianoduo
     date: 2016-04-15T20:00:00.000Z
     location: Amsterdam (NL)
@@ -54,3 +44,13 @@ gigs:
     location: Amsterdam (NL)
     venue: De Kleine Komedie
     url: www.dekleinekomedie.nl
+  - title: Mike del Ferro with the Metropole Orchestra
+    date: 2016-05-07T15:00:00.000Z
+    location: Hilversum
+    venue: 'MCO gebouw (afternoon concert!)'
+    url: www.mcogebouw.nl
+  - title: Mike del Ferro with the Metropole orchestra
+    date: 2016-05-08T11:00:00.000Z
+    location: Amsterdam (NL)
+    venue: 'Concertgebouw, main hall ( 11am! )'
+    url: www.concertgebouw.nl
