@@ -1,4 +1,9 @@
 gigs:
+  - title: 'December 2015: only private concerts'
+    date: ''
+    location: ''
+    venue: ''
+    url: ''
   - title: Mike del Ferro and Oene van Geel
     date: 2016-01-03T14:00:00.000Z
     location: Amsterdam (NL)
@@ -44,6 +49,11 @@ gigs:
     location: Amsterdam (NL)
     venue: De Kleine Komedie
     url: www.dekleinekomedie.nl
+  - title: Kuwait Jazz festival
+    date: 2016-04-28T20:00:00.000Z
+    location: TBA
+    venue: Kuwait City
+    url: ''
   - title: Mike del Ferro with the Metropole Orchestra
     date: 2016-05-07T15:00:00.000Z
     location: Hilversum
