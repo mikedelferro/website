@@ -19,16 +19,16 @@ gigs:
     location: 'Hilversum, NL'
     venue: Muziekcentrum Omroep
     url: ''
-  - title: Mike del Ferro / Palle Danielson / Anders Kjellberg
-    date: 2016-02-12T08:00:00.000Z
-    location: 'Gothenburg, SE'
-    venue: Jazz Club Nefertiti
-    url: ''
   - title: 'Mike del Ferro "opera meets jazz"'
     date: 2016-02-06T20:00:00.000Z
     location: De Rode Hoed
     venue: Amsterdam
     url: 'http://www.rodehoed.nl'
+  - title: Mike del Ferro / Palle Danielson / Anders Kjellberg
+    date: 2016-02-12T08:00:00.000Z
+    location: 'Gothenburg, SE'
+    venue: Jazz Club Nefertiti
+    url: ''
   - title: Mike del Ferro trio
     date: 2016-02-16T20:00:00.000Z
     location: Amsterdam (NL)
