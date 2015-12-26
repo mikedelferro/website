@@ -28,7 +28,7 @@ gigs:
     date: 2016-02-06T20:00:00.000Z
     location: De Rode Hoed
     venue: Amsterdam
-    url: ''
+    url: 'http://www.rodehoed.nl'
   - title: Mike del Ferro trio
     date: 2016-02-16T20:00:00.000Z
     location: Amsterdam (NL)
@@ -59,11 +59,6 @@ gigs:
     location: TBA
     venue: Kuwait City
     url: ''
-  - title: Mike del Ferro with the Metropole Orchestra
-    date: 2016-05-07T15:00:00.000Z
-    location: Hilversum
-    venue: 'MCO gebouw (afternoon concert!)'
-    url: www.mcogebouw.nl
   - title: Mike del Ferro with the Metropole orchestra
     date: 2016-05-08T11:00:00.000Z
     location: Amsterdam (NL)
