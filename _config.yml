@@ -1,14 +1,9 @@
 gigs:
-  - title: Mike del Ferro and Oene van Geel
-    date: 2016-01-03T14:00:00.000Z
-    location: Amsterdam (NL)
-    venue: Muziekgebouw
-    url: www.muziekgebouw.nl
-  - title: 'Clinic "selfmanagement and networking for musicians"'
-    date: 2016-01-13T14:00:00.000Z
-    location: Amsterdam (NL)
-    venue: Lloyd Hotel
-    url: 'http://www.musicmotion.nl'
+  - title: Solo recital (private
+    date: 2016-01-08T17:00:00.000Z
+    location: Warsaw (Poland)
+    venue: ''
+    url: ''
   - title: 'Piano duo Mike del Ferro & Jeroen van Veen'
     date: 2016-01-27T20:00:00.000Z
     location: Amsterdam (NL)
@@ -69,3 +64,8 @@ gigs:
     location: Utrecht
     venue: Dom Tower
     url: ''
+  - title: 'Piano Duo Mike Boddé & Mike del Ferro'
+    date: 2017-03-10T20:00:00.000Z
+    location: Rotterdam
+    venue: De Doelen
+    url: www.dedoelen.nl
