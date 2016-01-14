@@ -1,9 +1,4 @@
 gigs:
-  - title: Solo recital (private)
-    date: 2016-01-08T17:00:00.000Z
-    location: Warsaw (Poland)
-    venue: ''
-    url: ''
   - title: 'Piano duo Mike del Ferro & Jeroen van Veen'
     date: 2016-01-27T20:00:00.000Z
     location: Amsterdam (NL)
@@ -25,10 +20,10 @@ gigs:
     venue: Jazz Club Nefertiti
     url: ''
   - title: Mike del Ferro trio
-    date: 2016-02-16T20:00:00.000Z
-    location: Amsterdam (NL)
-    venue: Estrada theatre
-    url: ''
+    date: 2016-02-16T19:00:00.000Z
+    location: Moscow
+    venue: Estrada Theatre
+    url: 'http://www.teatr-estrada.ru/index.php/component/content/article?id=142'
   - title: Lecture
     date: 2016-02-18T17:00:00.000Z
     location: Tilburg (NL)
