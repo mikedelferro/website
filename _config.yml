@@ -29,8 +29,8 @@ gigs:
     location: Moscow
     venue: Estrada Theatre
     url: 'http://www.teatr-estrada.ru/index.php/component/content/article?id=142'
-  - title: Lecture
-    date: 2016-02-18T17:00:00.000Z
+  - title: 'Lecture: "selfmanagement and networking for musicians"'
+    date: 2016-02-18T19:15:00.000Z
     location: Tilburg (NL)
     venue: Fontys Hogeschool
     url: ''
@@ -41,8 +41,8 @@ gigs:
     url: 'https://www.facebook.com/CineBrasilia1960/'
   - title: Mike del Ferro
     date: 2016-03-10T20:00:00.000Z
-    location: Ceilandia (Brasil)
-    venue: SESC
+    location: Ceilândia (Brasil)
+    venue: SESC-Teatro Newton Rossi
     url: ''
   - title: Mike del Ferro and Mike Boddé pianoduo plus video artist
     date: 2016-04-15T20:00:00.000Z
