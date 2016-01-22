@@ -4,11 +4,16 @@ gigs:
     location: Amsterdam (NL)
     venue: Splendor
     url: www.splendoramsterdam.com
-  - title: CD recordings with Metropole Orchestra
+  - title: 'CD recordings with Metropole Orchestra, 2-4 february'
     date: 2016-02-03T10:00:00.000Z
     location: 'Hilversum, NL'
     venue: Muziekcentrum Omroep
     url: ''
+  - title: Mike del Ferro trio
+    date: 2016-02-05T20:00:00.000Z
+    location: Zeist
+    venue: De Bovenkamer
+    url: www.henkhupkes.nl
   - title: 'Mike del Ferro "opera meets jazz"'
     date: 2016-02-06T20:00:00.000Z
     location: De Rode Hoed
@@ -29,17 +34,22 @@ gigs:
     location: Tilburg (NL)
     venue: Fontys Hogeschool
     url: ''
-  - title: 'Mike del Ferro and the Brasilia Symphonic orchestra, Opera meets Jazz'
-    date: 2016-03-08T20:00:00.000Z
+  - title: 'Mike del Ferro and the Brasilia Symphony orchestra,'
+    date: 2016-03-08T19:00:00.000Z
     location: Brasilia (B)
-    venue: TBA
+    venue: Cine Brasilia
+    url: 'https://www.facebook.com/CineBrasilia1960/'
+  - title: Mike del Ferro
+    date: 2016-03-10T20:00:00.000Z
+    location: Ceilandia (Brasil)
+    venue: SESC
     url: ''
-  - title: Mike del Ferro and Mike Boddé pianoduo
+  - title: Mike del Ferro and Mike Boddé pianoduo plus video artist
     date: 2016-04-15T20:00:00.000Z
     location: Amsterdam (NL)
     venue: De Kleine Komedie
     url: www.dekleinekomedie.nl
-  - title: Mike del Ferro and Mike Boddé pianoduo
+  - title: Mike del Ferro and Mike Boddé pianoduo plus video artist
     date: 2016-04-16T20:00:00.000Z
     location: Amsterdam (NL)
     venue: De Kleine Komedie
@@ -54,13 +64,13 @@ gigs:
     location: Amsterdam (NL)
     venue: 'Concertgebouw, main hall ( 11am! )'
     url: www.concertgebouw.nl
+  - title: 'Mike del Ferro / Claron McFadden, stings and horns Metropole'
+    date: 2016-06-09T20:00:00.000Z
+    location: 'Terneuzen, Zeeland Jazzfestival'
+    venue: Scheldetheater
+    url: ''
   - title: Mike del Ferro / Jeroen van Veen/ Malgosia Fiebig
     date: 2016-08-22T20:00:00.000Z
     location: Utrecht
     venue: Dom Tower
     url: ''
-  - title: 'Piano Duo Mike Boddé & Mike del Ferro'
-    date: 2017-03-10T20:00:00.000Z
-    location: Rotterdam
-    venue: De Doelen
-    url: www.dedoelen.nl
