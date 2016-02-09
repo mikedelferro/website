@@ -1,34 +1,9 @@
 gigs:
-  - title: 'Piano duo Mike del Ferro & Jeroen van Veen'
-    date: 2016-01-27T20:00:00.000Z
-    location: Amsterdam (NL)
-    venue: Splendor
-    url: 'http://splendoramsterdam.com/mike-del-ferro-en-jeroen-van-veen-2/'
-  - title: 'CD recordings with Metropole Orchestra, 2-4 february'
-    date: 2016-02-03T10:00:00.000Z
-    location: 'Hilversum, NL'
-    venue: Muziekcentrum Omroep
-    url: ''
-  - title: Mike del Ferro trio
-    date: 2016-02-05T20:00:00.000Z
-    location: Zeist
-    venue: De Bovenkamer
-    url: www.henkhupkes.nl
-  - title: 'Mike del Ferro "opera meets jazz"'
-    date: 2016-02-06T20:00:00.000Z
-    location: Amsterdam
-    venue: De rode hoed
-    url: 'http://www.rodehoed.nl'
   - title: Mike del Ferro / Palle Danielson / Anders Kjellberg
     date: 2016-02-12T19:00:00.000Z
     location: 'Gothenburg, SE'
     venue: Jazz Club Nefertiti
     url: 'http://www.nefertiti.se/arrangemang/del-ferro-danielsson-kjellberg-2016/'
-  - title: Mike del Ferro trio
-    date: 2016-02-16T19:00:00.000Z
-    location: Moscow
-    venue: Estrada Theatre
-    url: 'http://www.teatr-estrada.ru/index.php/component/content/article?id=142'
   - title: 'Lecture: "selfmanagement and networking for musicians"'
     date: 2016-02-18T19:15:00.000Z
     location: Tilburg (NL)
@@ -39,6 +14,11 @@ gigs:
     location: Brasilia (B)
     venue: Cine Brasilia
     url: 'https://www.facebook.com/CineBrasilia1960/'
+  - title: Mike del Ferro trio with Marcio Bahia and Andre Vasconcellos
+    date: 2016-03-19T20:00:00.000Z
+    location: Belo Horizonte - Brazil
+    venue: Cafe con letras
+    url: ''
   - title: Mike del Ferro
     date: 2016-03-10T20:00:00.000Z
     location: Ceilândia (Brasil)
@@ -68,6 +48,11 @@ gigs:
     date: 2016-06-09T20:00:00.000Z
     location: 'Terneuzen, Zeeland Jazzfestival'
     venue: Scheldetheater
+    url: ''
+  - title: The music of Queen Mike del Ferro / Jeroen van Veen/ Malgosia Fiebig
+    date: 2016-06-11T20:00:00.000Z
+    location: Brugge
+    venue: Tower
     url: ''
   - title: Mike del Ferro / Jeroen van Veen/ Malgosia Fiebig
     date: 2016-08-22T20:00:00.000Z
