@@ -22,7 +22,7 @@ gigs:
   - title: Mike del Ferro trio with Marcio Bahia and Andre Vasconcellos
     date: 2016-03-19T20:00:00.000Z
     location: Belo Horizonte - Brazil
-    venue: Cafe con letras
+    venue: Cafe com letras
     url: ''
   - title: Mike del Ferro trio
     date: 2016-03-28T20:00:00.000Z
@@ -68,4 +68,9 @@ gigs:
     date: 2016-08-22T20:00:00.000Z
     location: Utrecht
     venue: Dom Tower
+    url: ''
+  - title: Mike del Ferro /Marcio Bahia
+    date: 2016-03-20T20:00:00.000Z
+    location: Belo Horizonte-Brazil
+    venue: Cafe com letras
     url: ''
