@@ -614,7 +614,7 @@ $(document).ready(function() {
     class="wysiwyg growpage"><!-- InstanceBeginEditable name="content971" -->
 
 <table cellpadding="0" cellspacing="0" style="border-bottom: 1px solid #ccc; width: 100%;">
-{% assign sorted = (site.gigs | sort: 'date') | reversed %}
+{% assign sorted = (site.gigs | sort: 'date') %}
 {% for item in sorted %}
 
    <tr {% if item.url!='' %}style="cursor: pointer;" onclick="window.open('{{ item.url }}');"{% endif %}>
