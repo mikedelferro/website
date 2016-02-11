@@ -1,14 +1,14 @@
 gigs:
-  - title: Mike del Ferro / Palle Danielson / Anders Kjellberg
-    date: 2016-02-12T19:00:00.000Z
-    location: 'Gothenburg, SE'
-    venue: Jazz Club Nefertiti
-    url: 'http://www.nefertiti.se/arrangemang/del-ferro-danielsson-kjellberg-2016/'
   - title: 'Lecture: "selfmanagement and networking for musicians"'
     date: 2016-02-18T19:15:00.000Z
     location: Tilburg (NL)
     venue: Fontys Hogeschool
     url: ''
+  - title: Mike del Ferro / Palle Danielson / Anders Kjellberg
+    date: 2016-02-12T19:00:00.000Z
+    location: 'Gothenburg, SE'
+    venue: Jazz Club Nefertiti
+    url: 'http://www.nefertiti.se/arrangemang/del-ferro-danielsson-kjellberg-2016/'
   - title: 'Mike del Ferro and the Brasilia Symphony orchestra,'
     date: 2016-03-08T19:00:00.000Z
     location: Brasilia (B)
