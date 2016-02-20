@@ -620,7 +620,7 @@ $(document).ready(function() {
    <tr {% if item.url!='' %}style="cursor: pointer;" onclick="window.open('{{ item.url }}');"{% endif %}>
        <td style="border-top: 1px solid #ccc; padding: 5px 20px 5px 0px; text-align: left; white-space: nowrap;" >{{ item.date | date: "%d %b" }}</td>
        <td style="border-top: 1px solid #ccc; padding: 5px 20px 5px 0px; text-align: center; "><span style="font-weight: 600;">{{ item.venue }}</span><br />{{ item.title }}</td>
-       <td style="border-top: 1px solid #ccc; padding: 5px 0px 5px 0px; text-align: right; white-space: nowrap;">{{ item.location }}</td>
+       <td style="border-top: 1px solid #ccc; padding: 5px 0px 5px 0px; text-align: right;">{{ item.location }}</td>
     </tr>
    
 {% endfor %}
