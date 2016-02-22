@@ -3,7 +3,7 @@ gigs:
     date: 2016-03-12T19:15:00.000Z
     location: Teatro de Câmara of Cidade das Artes
     venue: Rio de Janeiro-Brazil
-    url: 
+    url: ''
   - title: 'South America tour, Brazil, Argentina, Colombia'
     date: 2016-03-03T00:00:00.000Z
     location: ''
@@ -33,12 +33,12 @@ gigs:
     date: 2016-04-15T20:00:00.000Z
     location: De Kleine Komedie
     venue: Amsterdam (NL)
-    url: http://www.dekleinekomedie.nl
+    url: 'http://www.dekleinekomedie.nl'
   - title: Mike del Ferro and Mike Boddé pianoduo/video artist Mirthe Dokter
     date: 2016-04-16T20:00:00.000Z
     location: De Kleine Komedie
     venue: Amsterdam (NL)
-    url: http://www.dekleinekomedie.nl
+    url: 'http://www.dekleinekomedie.nl'
   - title: Kuwait Jazz festival
     date: 2016-04-28T20:00:00.000Z
     location: TBA
@@ -48,12 +48,12 @@ gigs:
     date: 2016-05-08T11:00:00.000Z
     location: 'Concertgebouw, main hall ( 11am! )'
     venue: Amsterdam (NL)
-    url: http://www.concertgebouw.nl
+    url: 'http://www.concertgebouw.nl'
   - title: 'Mike del Ferro trio & Claron McFadden'
     date: 2016-05-13T20:00:00.000Z
     location: Beauforthuis
     venue: Austerlitz (Zeist/NL)
-    url: http://www.beauforthuis.nl
+    url: 'http://www.beauforthuis.nl'
   - title: 'Mike del Ferro / Claron McFadden, stings and horns Metropole'
     date: 2016-06-09T20:00:00.000Z
     location: Scheldetheater
@@ -73,4 +73,9 @@ gigs:
     date: 2016-03-23T21:00:00.000Z
     location: Cocina de Culturas
     venue: Cordoba (Argentina)
+    url: ''
+  - title: Masterclass and Concert
+    date: 2016-03-04T16:00:00.000Z
+    location: TBA
+    venue: Goiana
     url: ''
