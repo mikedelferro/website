@@ -74,8 +74,48 @@ gigs:
     location: Cocina de Culturas
     venue: Cordoba (Argentina)
     url: ''
-  - title: Masterclass and Concert
+  - title: Masterclass
     date: 2016-03-04T16:00:00.000Z
-    location: TBA
+    location: Escola Ivana Bontempo
     venue: Goiana (Brazil)
+    url: ''
+  - title: Guest with Fabiano Chagas trio
+    date: 2016-03-04T21:00:00.000Z
+    location: Barrica
+    venue: Goiana (Brazil)
+    url: ''
+  - title: Masterclass
+    date: 2016-03-09T14:00:00.000Z
+    location: UNB University
+    venue: Brasilia (Brazil)
+    url: ''
+  - title: Masterclass
+    date: 2016-03-10T10:00:00.000Z
+    location: UNB University
+    venue: Brasilia (Brazil)
+    url: ''
+  - title: Masterclass
+    date: 2016-03-10T10:00:00.000Z
+    location: UNB University
+    venue: Brasilia (Brazil)
+    url: ''
+  - title: Masterclass
+    date: 2016-03-16T16:00:00.000Z
+    location: Federal University
+    venue: Rio de Janeiro (Brazil)
+    url: ''
+  - title: 'Mike del Ferro trio & Ricardo Cavalli'
+    date: 2016-03-22T21:00:00.000Z
+    location: tba
+    venue: Bahia Blanca (Argentina)
+    url: ''
+  - title: Mike del Ferro trio
+    date: 2016-03-23T21:00:00.000Z
+    location: Cocina de cultura
+    venue: Cordoba  (Argentina)
+    url: ''
+  - title: 'Mike del Ferro trio & Ricardo Cavalli'
+    date: 2016-03-25T21:00:00.000Z
+    location: Thelonious
+    venue: Buenos Aires  (Argentina)
     url: ''
