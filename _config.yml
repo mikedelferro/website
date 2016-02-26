@@ -1,9 +1,9 @@
 gigs:
   - title: Mike del Ferro/Marcio Bahia/Andre Vasconcellos
     date: 2016-03-12T19:15:00.000Z
-    location: Teatro de Câmara of Cidade das Artes
-    venue: Rio de Janeiro-Brazil
-    url: ''
+    location: Pinho Brasil
+    venue: Rio de Janeiro (Brazil)
+    url: 'https://www.facebook.com/pinhobrasilprojetos/'
   - title: 'with the Brasilia Symphony orchestra,'
     date: 2016-03-08T19:00:00.000Z
     location: Teatro Pedro Calmon
@@ -134,3 +134,8 @@ gigs:
     location: Café com Letras Savassi
     venue: Belo Horizonte (Brazil)
     url: ''
+  - title: Mike del Ferro/Marcio Bahia/Andre Vasconcellos
+    date: 2016-03-20T20:00:00.000Z
+    location: CCBB Rio de Janeiro
+    venue: Rio de Janeiro (Brazil)
+    url: 'https://www.facebook.com/ccbb.rj/'
