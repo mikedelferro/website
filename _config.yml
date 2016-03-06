@@ -64,16 +64,16 @@ gigs:
     location: Dom Tower
     venue: Utrecht (NL)
     url: ''
-  - title: Masterclass
-    date: 2016-03-04T16:00:00.000Z
-    location: Escola Ivana Bontempo
-    venue: Goiana (Brazil)
-    url: ''
-  - title: Guest with Fabiano Chagas trio
-    date: 2016-03-04T21:00:00.000Z
-    location: Barrica
-    venue: Goiana (Brazil)
-    url: ''
+  - title: 'Mike del Ferro & Pekka Pylkannen'
+    date: 2016-10-29T20:00:00.000Z
+    location: Birdseye
+    venue: Basel (CH)
+    url: www.birdseye.ch
+  - title: 'Mike del Ferro trio & Claron McFadden'
+    date: 2017-01-06T20:00:00.000Z
+    location: De Toonzaal
+    venue: Den Bosch (NL)
+    url: www.detoonzaal.nl
   - title: Masterclass
     date: 2016-03-09T14:00:00.000Z
     location: UNB University
@@ -84,11 +84,11 @@ gigs:
     location: UNB University
     venue: Brasilia (Brazil)
     url: ''
-  - title: Masterclass
-    date: 2016-03-10T10:00:00.000Z
-    location: UNB University
-    venue: Brasilia (Brazil)
-    url: ''
+  - title: 'Mike del Ferro & Pekka Pylkannen'
+    date: 2016-10-28T20:00:00.000Z
+    location: Birds Eye
+    venue: Basel (CH)
+    url: www.birdseye.ch
   - title: Masterclass
     date: 2016-03-16T16:00:00.000Z
     location: Federal University
@@ -110,8 +110,8 @@ gigs:
     venue: Buenos Aires  (Argentina)
     url: ''
   - title: 'Mike del Ferro trio & orchestra'
-    date: 2016-05-27T21:00:00.000Z
-    location: Conservatiory Auditorium
+    date: 2016-05-27T20:00:00.000Z
+    location: Concert hall of National Radio
     venue: Kiev (Ukraine)
     url: ''
   - title: Canto Ostinato for 10 pianists at Festival Classique
