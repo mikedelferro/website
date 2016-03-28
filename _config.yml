@@ -100,14 +100,14 @@ gigs:
     venue: Basel-Switserland
     url: ''
   - title: Mike del Ferro - live TV Podium Witteman
-    date: 2016-03-23T21:00:00.000Z
-    location: Cocina de cultura
-    venue: Cordoba  (Argentina)
+    date: 2016-04-10T18:00:00.000Z
+    location: ''
+    venue: Dutch National Television
     url: ''
-  - title: 'Mike del Ferro trio & Ricardo Cavalli'
-    date: 2016-03-25T21:00:00.000Z
-    location: Thelonious
-    venue: Buenos Aires  (Argentina)
+  - title: Canto Ostinato meets Jazz (with Jeroen and Sandra van Veen)
+    date: 2016-06-17T20:00:00.000Z
+    location: TBA
+    venue: Shikodra-Albania
     url: ''
   - title: 'Mike del Ferro trio & orchestra'
     date: 2016-05-27T20:00:00.000Z
@@ -129,23 +129,18 @@ gigs:
     location: Universidad de Antioquia
     venue: Medellin (Colombia)
     url: ''
-  - title: Mike del Ferro/Marcio Bahia
-    date: 2016-03-20T20:00:00.000Z
-    location: Café com Letras Savassi
-    venue: Belo Horizonte (Brazil)
+  - title: Mike del Ferro trio
+    date: 2017-01-14T20:00:00.000Z
+    location: 10/14 Club
+    venue: Warszaw-Poland
     url: ''
-  - title: Mike del Ferro/Marcio Bahia/Andre Vasconcellos
-    date: 2016-03-20T20:00:00.000Z
-    location: CCBB Rio de Janeiro
-    venue: Rio de Janeiro (Brazil)
-    url: 'https://www.facebook.com/ccbb.rj/'
-  - title: Mike del Ferro/Marcio Bahia/Andre Vasconcellos
-    date: 2016-03-18T21:30:00.000Z
-    location: Triboz
-    venue: Rio de Janeiro (Brazil)
+  - title: Mike del Ferro trio
+    date: 2017-01-17T20:00:00.000Z
+    location: TBA
+    venue: Katowice-Poland
     url: ''
-  - title: Mike del Ferro/Marcio Bahia/Andre Vasconcellos
-    date: 2016-03-13T17:00:00.000Z
-    location: Centro Cultural Banco do Brasil  (Sala 26)
-    venue: Rio de Janeiro (Brazil)
-    url: ''
+  - title: Mike del Ferro / Mike Boddé pianoduo
+    date: 2017-02-10T20:30:00.000Z
+    location: De Doelen
+    venue: Rotterdam-NL
+    url: www.dedoelen.nl
