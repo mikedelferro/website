@@ -1,19 +1,9 @@
 gigs:
-  - title: 'Mike del Ferro, solo recital'
-    date: 2016-03-29T18:00:00.000Z
-    location: Teatro Universario Camilo Torres restrepo
-    venue: Medellin-Colombia
-    url: ''
-  - title: 'Mike del Ferro, masterclass'
-    date: 2016-03-29T09:00:00.000Z
-    location: EAFIT
-    venue: Medellin-Colombia
-    url: ''
-  - title: Mike del Ferro trio
-    date: 2016-03-30T20:00:00.000Z
-    location: Zorba
-    venue: Medellin-Colombia
-    url: ''
+  - title: 'Mike del Ferro & Claron McFadden'
+    date: 2016-06-10T20:00:00.000Z
+    location: De Steenakker
+    venue: Haps (NL)
+    url: www.desteenakker.nl
   - title: 'Mike del Ferro trio, lecture and concert'
     date: 2016-04-02T16:00:00.000Z
     location: Edificio Lugo (calle 6)
