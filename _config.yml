@@ -4,10 +4,10 @@ gigs:
     location: De Steenakker
     venue: Haps (NL)
     url: www.desteenakker.nl
-  - title: 'Mike del Ferro trio, lecture and concert'
-    date: 2016-04-02T16:00:00.000Z
-    location: Edificio Lugo (calle 6)
-    venue: Medellin-Colombia
+  - title: 'Mike del Ferro & Jeroen van Veen'
+    date: 2016-06-03T16:00:00.000Z
+    location: Mafra
+    venue: Lisbon-Portugal
     url: ''
   - title: Mike del Ferro / Lupa Santiago
     date: 2016-04-07T21:00:00.000Z
@@ -69,11 +69,6 @@ gigs:
     location: Souza Lima
     venue: Sao Paulo-Brazil
     url: 'https://www.facebook.com/events/100309520364785/'
-  - title: "Mike del Ferro / Lupa Santiago 5'"
-    date: 2016-04-06T21:00:00.000Z
-    location: Madeleine
-    venue: Sao Paulo-Brazil
-    url: 'R. Aspicuelta, 201 - Vila Madalena, São Paulo'
   - title: 'Mike del Ferro & Pekka Pylkannen'
     date: 2016-10-28T20:00:00.000Z
     location: Birds Eye
@@ -113,11 +108,6 @@ gigs:
     date: 2016-06-17T20:00:00.000Z
     location: Opera House
     venue: Tirana (Albania)
-    url: ''
-  - title: Solo recital
-    date: 2016-03-29T20:00:00.000Z
-    location: Universidad de Antioquia
-    venue: Medellin (Colombia)
     url: ''
   - title: Mike del Ferro trio
     date: 2017-01-14T20:00:00.000Z
