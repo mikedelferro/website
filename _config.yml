@@ -9,21 +9,6 @@ gigs:
     location: Mafra
     venue: Lisbon-Portugal
     url: ''
-  - title: Mike del Ferro / Lupa Santiago
-    date: 2016-04-07T21:00:00.000Z
-    location: Jazz B
-    venue: Sao Paulo-Brazil
-    url: 'https://www.facebook.com/club.JazzB/photos/gm.1665884860344064/1081078078610514/?type=3&theater'
-  - title: Mike del Ferro and Mike Boddé pianoduo/video artist Mirthe Dokter
-    date: 2016-04-15T20:00:00.000Z
-    location: De Kleine Komedie
-    venue: Amsterdam (NL)
-    url: 'http://www.dekleinekomedie.nl'
-  - title: Mike del Ferro and Mike Boddé pianoduo/video artist Mirthe Dokter
-    date: 2016-04-16T20:00:00.000Z
-    location: De Kleine Komedie
-    venue: Amsterdam (NL)
-    url: 'http://www.dekleinekomedie.nl'
   - title: Kuwait Jazz festival
     date: 2016-04-28T20:00:00.000Z
     location: TBA
@@ -64,40 +49,20 @@ gigs:
     location: De Toonzaal
     venue: Den Bosch (NL)
     url: www.detoonzaal.nl
-  - title: Masterclass
-    date: 2016-04-07T15:00:00.000Z
-    location: Souza Lima
-    venue: Sao Paulo-Brazil
-    url: 'https://www.facebook.com/events/100309520364785/'
   - title: 'Mike del Ferro & Pekka Pylkannen'
     date: 2016-10-28T20:00:00.000Z
     location: Birds Eye
     venue: Basel (CH)
     url: www.birdseye.ch
-  - title: "Mike del Ferro / Lupa Santiago 5'"
-    date: 2016-04-08T20:00:00.000Z
-    location: Casa do Musica
-    venue: Avare-Sao Paulo-Brazil
-    url: ''
   - title: '"networking and selfmanagement for musicians"'
     date: 2016-10-27T15:00:00.000Z
     location: Jazzschule
     venue: Basel-Switserland
     url: ''
-  - title: Mike del Ferro - live TV Podium Witteman
-    date: 2016-04-10T18:00:00.000Z
-    location: ''
-    venue: Dutch National Television
-    url: ''
   - title: Canto Ostinato meets Jazz (with Jeroen and Sandra van Veen)
     date: 2016-06-18T20:00:00.000Z
     location: TBA
     venue: Shikodra-Albania
-    url: ''
-  - title: 'Mike del Ferro trio & orchestra'
-    date: 2016-05-27T20:00:00.000Z
-    location: Concert hall of National Radio
-    venue: Kiev (Ukraine)
     url: ''
   - title: Canto Ostinato for 10 pianists at Festival Classique
     date: 2016-06-12T16:00:00.000Z
@@ -124,3 +89,8 @@ gigs:
     location: De Doelen
     venue: Rotterdam-NL
     url: www.dedoelen.nl
+  - title: Mike del Ferro / Jeroen van Veen / Malgosia Fiebig
+    date: 2016-06-11T20:00:00.000Z
+    location: Cathedral
+    venue: Brugge-Belgium
+    url: ''
