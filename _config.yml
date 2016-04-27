@@ -11,7 +11,7 @@ gigs:
     url: ''
   - title: Kuwait Jazz festival
     date: 2016-04-28T20:00:00.000Z
-    location: TBA
+    location: Hilton Hotel
     venue: Kuwait
     url: ''
   - title: Mike del Ferro with the Metropole orchestra
@@ -93,4 +93,9 @@ gigs:
     date: 2016-06-11T20:00:00.000Z
     location: Cathedral
     venue: Brugge-Belgium
+    url: ''
+  - title: 'Mike del Ferro & Claron McFadden'
+    date: 2016-11-04T20:00:00.000Z
+    location: TBA
+    venue: Hilversum (NL)
     url: ''
