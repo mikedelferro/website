@@ -1,18 +1,13 @@
 gigs:
   - title: 'Mike del Ferro & Claron McFadden'
-    date: 2016-06-10T20:00:00.000Z
+    date: 2016-06-10T20:15:00.000Z
     location: De Steenakker
     venue: Haps (NL)
-    url: www.desteenakker.nl
+    url: 'http://www.desteenakker.nl/mike-del-ferro-en-claron-mcfadden/'
   - title: 'Mike del Ferro & Jeroen van Veen'
     date: 2016-06-03T16:00:00.000Z
     location: Mafra
     venue: Lisbon-Portugal
-    url: ''
-  - title: Kuwait Jazz festival
-    date: 2016-04-28T20:00:00.000Z
-    location: Hilton Hotel
-    venue: Kuwait
     url: ''
   - title: Mike del Ferro with the Metropole orchestra
     date: 2016-05-08T11:00:00.000Z
