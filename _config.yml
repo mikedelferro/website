@@ -5,15 +5,15 @@ gigs:
     venue: Haps (NL)
     url: 'http://www.desteenakker.nl/mike-del-ferro-en-claron-mcfadden/'
   - title: 'Mike del Ferro & Jeroen van Veen'
-    date: 2016-06-03T16:00:00.000Z
+    date: 2016-06-07T16:00:00.000Z
     location: Mafra
     venue: Lisbon-Portugal
     url: ''
-  - title: 'Mike del Ferro trio & Claron McFadden'
-    date: 2016-05-13T20:00:00.000Z
-    location: Beauforthuis
-    venue: Austerlitz (Zeist/NL)
-    url: 'http://www.beauforthuis.nl'
+  - title: 'Duo Mike Boddé & Mike del Ferro'
+    date: 2016-06-22T20:00:00.000Z
+    location: Splendor
+    venue: Amsterdam
+    url: www.splendoramsterdam.com
   - title: 'Mike del Ferro / Claron McFadden, stings and horns Metropole'
     date: 2016-06-09T20:00:00.000Z
     location: Scheldetheater
@@ -89,3 +89,8 @@ gigs:
     location: TBA
     venue: Hilversum (NL)
     url: ''
+  - title: 'Mike del Ferro & Jeroen van Veen'
+    date: 2016-06-26T20:00:00.000Z
+    location: Tenclub
+    venue: Amsterdam
+    url: 'https://www.facebook.com/onbehalfoftenclub/?fref=ts'
