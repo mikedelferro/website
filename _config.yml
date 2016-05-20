@@ -79,11 +79,11 @@ gigs:
     location: De Doelen
     venue: Rotterdam-NL
     url: www.dedoelen.nl
-  - title: Mike del Ferro / Jeroen van Veen / Malgosia Fiebig
-    date: 2016-06-11T20:00:00.000Z
-    location: Cathedral
-    venue: Brugge-Belgium
-    url: ''
+  - title: Mike del Ferro / Claron McFadden - late night opera
+    date: 2016-05-28T22:00:00.000Z
+    location: Rotterdamse Schouwburg
+    venue: Rotterdam
+    url: 'https://www.operadagenrotterdam.nl/programma/voorstellingen/late-night-songbar'
   - title: 'Mike del Ferro & Claron McFadden'
     date: 2016-11-04T20:00:00.000Z
     location: TBA
