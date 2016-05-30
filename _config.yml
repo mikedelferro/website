@@ -4,11 +4,11 @@ gigs:
     location: De Steenakker
     venue: Haps (NL)
     url: 'http://www.desteenakker.nl/mike-del-ferro-en-claron-mcfadden/'
-  - title: 'Mike del Ferro & Jeroen van Veen'
+  - title: 'Mike del Ferro & Jeroen van Veen, private concert'
     date: 2016-06-07T16:00:00.000Z
     location: Mafra
     venue: Lisbon-Portugal
-    url: ''
+    url:
   - title: 'Duo Mike Boddé & Mike del Ferro'
     date: 2016-06-22T20:00:00.000Z
     location: Splendor
@@ -18,17 +18,17 @@ gigs:
     date: 2016-06-09T20:00:00.000Z
     location: Scheldetheater
     venue: Terneuzen (NL)
-    url: ''
+    url: 'http://www.zeelandjazz.nl/home/programma/terneuzen/donderdag/opera-meets-jazz'
   - title: The music of Queen Mike del Ferro / Jeroen van Veen/ Malgosia Fiebig
     date: 2016-06-11T20:00:00.000Z
     location: Cathedral
     venue: Brugge (Belgium)
-    url: ''
+    url:
   - title: Mike del Ferro / Jeroen van Veen/ Malgosia Fiebig
     date: 2016-08-22T20:00:00.000Z
     location: Dom Tower
     venue: Utrecht (NL)
-    url: ''
+    url:
   - title: 'Mike del Ferro & Pekka Pylkannen'
     date: 2016-10-29T20:00:00.000Z
     location: Birdseye
@@ -45,50 +45,50 @@ gigs:
     venue: Basel (CH)
     url: www.birdseye.ch
   - title: '"networking and selfmanagement for musicians"'
-    date: 2016-10-27T15:00:00.000Z
+    date: 2016-10-26T14:30:00.000Z
     location: Jazzschule
     venue: Basel-Switserland
-    url: ''
-  - title: Canto Ostinato meets Jazz (with Jeroen and Sandra van Veen)
-    date: 2016-06-18T20:00:00.000Z
-    location: TBA
-    venue: Shikodra-Albania
-    url: ''
-  - title: Canto Ostinato for 10 pianists at Festival Classique
-    date: 2016-06-12T16:00:00.000Z
-    location: tba
-    venue: The Hague (NL)
-    url: ''
+    url:
   - title: Canto Ostinato meets Jazz (with Jeroen and Sandra van Veen)
     date: 2016-06-17T20:00:00.000Z
+    location: TBA
+    venue: Shikodra-Albania
+    url:
+  - title: Canto Ostinato for 10 pianists at Festival Classique
+    date: 2016-06-12T16:00:00.000Z
+    location: Kurhaus
+    venue: Scheveningen- The Hague (NL)
+    url: 'http://www.festivalclassique.nl/nl/agenda-en-kaarten/37/canto-ostinato/'
+  - title: Canto Ostinato meets Jazz (with Jeroen and Sandra van Veen)
+    date: 2016-06-16T20:30:00.000Z
     location: Opera House
     venue: Tirana (Albania)
-    url: ''
+    url:
   - title: Mike del Ferro trio
     date: 2017-01-14T20:00:00.000Z
     location: 10/14 Club
     venue: Warszaw-Poland
-    url: ''
+    url:
   - title: Mike del Ferro trio
     date: 2017-01-17T20:00:00.000Z
     location: TBA
     venue: Katowice-Poland
-    url: ''
+    url:
   - title: Mike del Ferro / Mike Boddé pianoduo
     date: 2017-02-10T20:30:00.000Z
     location: De Doelen
     venue: Rotterdam-NL
     url: www.dedoelen.nl
-  - title: Mike del Ferro / Claron McFadden - late night opera
-    date: 2016-05-28T22:00:00.000Z
-    location: Rotterdamse Schouwburg
-    venue: Rotterdam
-    url: 'https://www.operadagenrotterdam.nl/programma/voorstellingen/late-night-songbar'
+  - title: Mike del Ferro / Claron McFadden - opera meets jazz
+    date: 2017-01-07T20:00:00.000Z
+    location: Splendor
+    venue: Amsterdam
+    url: www.splendoramsterdam.com
   - title: 'Mike del Ferro & Claron McFadden'
     date: 2016-11-04T20:00:00.000Z
-    location: TBA
+    location: De Morgenster
     venue: Hilversum (NL)
-    url: ''
+    url: 'http://www.seinconcerten.nl/'
   - title: 'Mike del Ferro & Jeroen van Veen'
     date: 2016-06-26T20:00:00.000Z
     location: Tenclub
