@@ -1,27 +1,12 @@
 gigs:
-  - title: 'Mike del Ferro & Claron McFadden'
-    date: 2016-06-10T20:15:00.000Z
-    location: De Steenakker
-    venue: Haps (NL)
-    url: 'http://www.desteenakker.nl/mike-del-ferro-en-claron-mcfadden/'
-  - title: 'Mike del Ferro & Jeroen van Veen, private concert'
-    date: 2016-06-07T16:00:00.000Z
-    location: Mafra
-    venue: Lisbon-Portugal
-    url:
   - title: 'Duo Mike Boddé & Mike del Ferro'
     date: 2016-06-22T20:00:00.000Z
     location: Splendor
     venue: Amsterdam
     url: www.splendoramsterdam.com
-  - title: 'Mike del Ferro / Claron McFadden, stings and horns Metropole'
-    date: 2016-06-09T20:00:00.000Z
-    location: Scheldetheater
-    venue: Terneuzen (NL)
-    url: 'http://www.zeelandjazz.nl/home/programma/terneuzen/donderdag/opera-meets-jazz'
   - title: The music of Queen Mike del Ferro / Jeroen van Veen/ Malgosia Fiebig
     date: 2016-06-11T20:00:00.000Z
-    location: Cathedral
+    location: Belfort
     venue: Brugge (Belgium)
     url:
   - title: Mike del Ferro / Jeroen van Veen/ Malgosia Fiebig
@@ -90,7 +75,17 @@ gigs:
     venue: Hilversum (NL)
     url: 'http://www.seinconcerten.nl/'
   - title: 'Mike del Ferro & Jeroen van Veen'
-    date: 2016-06-26T20:00:00.000Z
+    date: 2016-06-26T19:00:00.000Z
     location: Tenclub
     venue: Amsterdam
     url: 'https://www.facebook.com/onbehalfoftenclub/?fref=ts'
+  - title: 'Mike del Ferro, Mola Sylla, Pernell Saturnino and Christian Galvez'
+    date: 2016-08-01T19:00:00.000Z
+    location: Flores Festival
+    venue: 'Medellin, Colombia'
+    url:
+  - title: Piano duo Mike Boddé and Mike del Ferro
+    date: 2016-07-07T20:00:00.000Z
+    location: Noord Zie Jazz
+    venue: Rotterdam
+    url: 'http://www.noordziejazz.nl/#Bergsingelkerk'
