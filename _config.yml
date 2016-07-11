@@ -59,11 +59,11 @@ gigs:
     location: Flores Festival- Parque Cultural Nocturno
     venue: 'Medellin, Colombia'
     url:
-  - title: Piano duo Mike Boddé and Mike del Ferro
-    date: 2016-07-07T20:00:00.000Z
-    location: Noord Zie Jazz
-    venue: Rotterdam
-    url: 'http://www.noordziejazz.nl/#Bergsingelkerk'
+  - title: Mike del Ferro trio feat. Christian Galvez
+    date: 2016-08-03T20:00:00.000Z
+    location: TBA
+    venue: Santiago de Chile
+    url:
   - title: 'Who is the Bossa (with José Koning, Nelson faria and Daniel Pezzoti)'
     date: 2016-10-21T20:00:00.000Z
     location: Ruïnekerk
@@ -78,4 +78,14 @@ gigs:
     date: 2016-09-11T13:30:00.000Z
     location: tba
     venue: Culemborg (NL)
+    url:
+  - title: Mike del Ferro trio
+    date: 2016-07-22T20:00:00.000Z
+    location: TBA
+    venue: 'Bogota, Colombia'
+    url:
+  - title: Mike del Ferro trio
+    date: 2016-07-23T20:00:00.000Z
+    location: TBA
+    venue: 'Bogota, Colombia'
     url:
