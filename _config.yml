@@ -79,10 +79,10 @@ gigs:
     location: tba
     venue: Culemborg (NL)
     url:
-  - title: Mike del Ferro trio
-    date: 2016-07-22T20:00:00.000Z
-    location: 'B&L PIANO PUB CR. 4A # 66-03'
-    venue: 'Bogota, Colombia'
+  - title: 'Mike del Ferro & Claron McFadden'
+    date: 2016-11-05T20:00:00.000Z
+    location: Tenclub
+    venue: Amsterdam (NL)
     url:
   - title: Mike del Ferro trio
     date: 2016-07-23T21:30:00.000Z
@@ -99,3 +99,28 @@ gigs:
     location: Splendor
     venue: Amsterdam (NL)
     url: www.splendoramsterdam.com
+  - title: Mike del Ferro trio
+    date: 2016-08-05T21:00:00.000Z
+    location: Jazzcorner
+    venue: Santiago de Chile
+    url:
+  - title: Mike del Ferro trio
+    date: 2016-08-06T21:00:00.000Z
+    location: Jazzcorner
+    venue: Santiago de Chile
+    url:
+  - title: Mike del Ferro trio
+    date: 2016-11-01T20:00:00.000Z
+    location: Jazzclub
+    venue: Vorden (NL)
+    url:
+  - title: Mike del Ferro trio
+    date: 2016-12-11T22:00:00.000Z
+    location: Jazzclub
+    venue: Zuthpen (NL)
+    url:
+  - title: Duo with Kim Hoorweg
+    date: 2016-09-18T15:00:00.000Z
+    location: TBA
+    venue: Culemborg (NL)
+    url:
