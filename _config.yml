@@ -3,12 +3,12 @@ gigs:
     date: 2016-08-12T20:00:00.000Z
     location: Radar beyond music festival
     venue: 'Varna, Bulgaria'
-    url:
+    url: 'https://www.facebook.com/radarfestivalbeyondmusic/?fref=ts'
   - title: Mike del Ferro / Jeroen van Veen/ Malgosia Fiebig
     date: 2016-08-22T20:00:00.000Z
     location: Dom Tower
     venue: Utrecht (NL)
-    url:
+    url: 'http://www.domtoren.nl/event/zomeravondconcerten-stadsbeiaardier'
   - title: 'Mike del Ferro & Pekka Pylkannen'
     date: 2016-10-29T20:00:00.000Z
     location: Birdseye
@@ -54,16 +54,11 @@ gigs:
     location: De Morgenster
     venue: Hilversum (NL)
     url: 'http://www.seinconcerten.nl/'
-  - title: 'Mike del Ferro, Mola Sylla, Pernell Saturnino and Christian Galvez'
-    date: 2016-08-01T19:00:00.000Z
-    location: Flores Festival- Parque Cultural Nocturno
-    venue: 'Medellin, Colombia'
-    url:
   - title: Mike del Ferro trio feat. Christian Galvez y Alejandro Espinosa
-    date: 2016-08-03T20:00:00.000Z
+    date: 2016-08-04T20:00:00.000Z
     location: 'Universidad Central, Aula Magna'
     venue: Santiago de Chile
-    url:
+    url: 'http://www.ucentral.cl/mike-del-ferro-trio-en-universidad-central/prontus_ucentral2012/2016-07-27/093143.html'
   - title: 'Who is the Bossa (with José Koning, Nelson faria and Daniel Pezzoti)'
     date: 2016-10-21T20:00:00.000Z
     location: Ruïnekerk
@@ -83,16 +78,6 @@ gigs:
     date: 2016-11-05T20:00:00.000Z
     location: Tenclub
     venue: Amsterdam (NL)
-    url:
-  - title: Mike del Ferro trio
-    date: 2016-07-23T21:30:00.000Z
-    location: 'MATIK-MATIK CR. 11 # 67-20 9:30 PM $10.000'
-    venue: 'Bogota, Colombia'
-    url:
-  - title: Mike del Ferro trio
-    date: 2016-07-28T20:00:00.000Z
-    location: la Pascasia
-    venue: Medellin (Colombia)
     url:
   - title: Mike del Ferro- solo recital
     date: 2016-11-03T20:30:00.000Z
