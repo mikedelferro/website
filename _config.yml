@@ -64,7 +64,7 @@ gigs:
     location: Ruïnekerk
     venue: Bergen (NL)
     url:
-  - title: 'Who is the Bossa (with José Koning, Nelson faria and Daniel Pezzoti)'
+  - title: 'Who is the Bossa (with José Koning, Nelson Faria and Daniel Pezzoti)'
     date: 2016-10-22T20:00:00.000Z
     location: 'Porgy & Bess'
     venue: Terneuzen (NL)
@@ -109,3 +109,13 @@ gigs:
     location: de Gelderlandfabriek
     venue: Culemborg (NL)
     url: 'https://www.facebook.com/events/1566075027035665/'
+  - title: 'Who is the Bossa (with José Koning, Nelson Faria and Daniel Pezzoti)'
+    date: 2016-10-23T14:00:00.000Z
+    location: Berkhout
+    venue: Kerk
+    url:
+  - title: 'Who is the Bossa (with José Koning, Nelson Faria and Daniel Pezzoti)'
+    date: 2016-10-23T20:00:00.000Z
+    location: Splendor
+    venue: Amsterdam (NL)
+    url: www.splendoramsterdam.com
