@@ -54,11 +54,6 @@ gigs:
     location: De Morgenster
     venue: Hilversum (NL)
     url: 'http://www.seinconcerten.nl/'
-  - title: Mike del Ferro trio feat. Christian Galvez y Alejandro Espinosa
-    date: 2016-08-04T20:00:00.000Z
-    location: 'Universidad Central, Aula Magna'
-    venue: Santiago de Chile
-    url: 'http://www.ucentral.cl/mike-del-ferro-trio-en-universidad-central/prontus_ucentral2012/2016-07-27/093143.html'
   - title: 'Who is the Bossa (with José Koning, Nelson faria and Daniel Pezzoti)'
     date: 2016-10-21T20:00:00.000Z
     location: Ruïnekerk
@@ -84,16 +79,6 @@ gigs:
     location: Splendor
     venue: Amsterdam (NL)
     url: www.splendoramsterdam.com
-  - title: Mike del Ferro trio
-    date: 2016-08-05T21:00:00.000Z
-    location: Jazzcorner
-    venue: Santiago de Chile
-    url:
-  - title: Mike del Ferro trio
-    date: 2016-08-06T21:00:00.000Z
-    location: Jazzcorner
-    venue: Santiago de Chile
-    url:
   - title: Mike del Ferro trio
     date: 2016-11-01T20:00:00.000Z
     location: Jazzclub
