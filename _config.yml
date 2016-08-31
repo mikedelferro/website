@@ -1,9 +1,4 @@
 gigs:
-  - title: Mike del Ferro / Jeroen van Veen/ Malgosia Fiebig
-    date: 2016-08-22T20:00:00.000Z
-    location: Dom Tower
-    venue: Utrecht (NL)
-    url: 'http://www.domtoren.nl/event/zomeravondconcerten-stadsbeiaardier'
   - title: 'Mike del Ferro & Pekka Pylkannen'
     date: 2016-10-29T20:00:00.000Z
     location: Birdseye
@@ -99,3 +94,13 @@ gigs:
     location: Splendor
     venue: Amsterdam (NL)
     url: www.splendoramsterdam.com
+  - title: Clinic Selfmanagement and Networking for Musicians
+    date: 2016-09-14T11:00:00.000Z
+    location: Fontys Hogeschool
+    venue: Tilburg (NL)
+    url:
+  - title: only private concerts until mid october
+    date: 2016-09-18T00:00:00.000Z
+    location:
+    venue:
+    url:
