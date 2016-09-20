@@ -54,10 +54,10 @@ gigs:
     location: 'Porgy & Bess'
     venue: Terneuzen (NL)
     url:
-  - title: 'Solo recital, pianowandeling Culemborg'
-    date: 2016-09-11T13:30:00.000Z
-    location: De Fransche School
-    venue: Culemborg (NL)
+  - title: Mike del Ferro trio
+    date: 2016-10-08T20:30:00.000Z
+    location: Fenix Music Factory
+    venue: Rotterdam
     url:
   - title: 'Mike del Ferro & Claron McFadden'
     date: 2016-11-05T20:00:00.000Z
@@ -79,11 +79,6 @@ gigs:
     location: Jazzclub
     venue: Zuthpen (NL)
     url:
-  - title: Duo with Kim Hoorweg
-    date: 2016-09-18T14:30:00.000Z
-    location: de Gelderlandfabriek
-    venue: Culemborg (NL)
-    url: 'https://www.facebook.com/events/1566075027035665/'
   - title: 'Who is the Bossa (with José Koning, Nelson Faria and Daniel Pezzoti)'
     date: 2016-10-23T14:00:00.000Z
     location: Berkhout
@@ -94,13 +89,8 @@ gigs:
     location: Splendor
     venue: Amsterdam (NL)
     url: www.splendoramsterdam.com
-  - title: Clinic Selfmanagement and Networking for Musicians
-    date: 2016-09-14T11:00:00.000Z
-    location: Fontys Hogeschool
-    venue: Tilburg (NL)
-    url:
-  - title: only private concerts until 20 october
-    date: 2016-09-19T00:00:00.000Z
-    location:
-    venue:
-    url:
+  - title: 'Mike del Ferro & Claron McFadden'
+    date: 2016-11-20T14:30:00.000Z
+    location: De Roode bioscoop
+    venue: Amsterdam (NL)
+    url: 'http://www.roodebioscoop.nl/Roode-Zondagen/467-CLARON-MCFADDEN-en-MIKE-DEL-FERRO/1338'
