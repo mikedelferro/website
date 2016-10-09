@@ -48,16 +48,16 @@ gigs:
     date: 2016-10-21 20:00:00
     location: Ruïnekerk
     venue: Bergen (NL)
-    url:
+    url: 'http://www.ruinekerk.nl/agenda/'
   - title: 'Who is the Bossa (with José Koning, Nelson Faria and Daniel Pezzoti)'
     date: 2016-10-22 20:00:00
     location: 'Porgy & Bess'
     venue: Terneuzen (NL)
     url:
-  - title: Mike del Ferro trio
-    date: 2016-10-08 20:30:00
-    location: Fenix Music Factory
-    venue: Rotterdam
+  - title: Mike del Ferro
+    date: 2016-12-10 20:30:00
+    location: TBA
+    venue: Antwerp (B)
     url:
   - title: 'Mike del Ferro & Claron McFadden'
     date: 2016-11-05 20:00:00
@@ -82,7 +82,7 @@ gigs:
   - title: 'Who is the Bossa (with José Koning, Nelson Faria and Daniel Pezzoti)'
     date: 2016-10-23 14:00:00
     location: Berkhout
-    venue: Kerk
+    venue: Berkhouter Kerk
     url:
   - title: 'Who is the Bossa (with José Koning, Nelson Faria and Daniel Pezzoti)'
     date: 2016-10-23 20:00:00
@@ -116,7 +116,7 @@ gigs:
     url:
   - title: 'Tour Sweden, jan 31-feb 8 more details soon'
     date: 2017-01-31 15:00:00
-    location:
+    location: Sweden
     venue:
     url:
   - title: Mike del Ferro trio
