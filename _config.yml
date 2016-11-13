@@ -1,19 +1,9 @@
 gigs:
-  - title: 'Mike del Ferro & Pekka Pylkannen'
-    date: 2016-10-29 20:00:00
-    location: Birdseye
-    venue: Basel (CH)
-    url: www.birdseye.ch
   - title: 'Mike del Ferro trio & Claron McFadden'
     date: 2017-01-06 20:00:00
     location: De Toonzaal
     venue: Den Bosch (NL)
     url: www.detoonzaal.nl
-  - title: 'Mike del Ferro & Pekka Pylkannen'
-    date: 2016-10-28 20:00:00
-    location: Birds Eye
-    venue: Basel (CH)
-    url: www.birdseye.ch
   - title: Mike del Ferro trio
     date: 2017-01-14 20:00:00
     location: 10/14 Club
@@ -34,30 +24,10 @@ gigs:
     location: Splendor
     venue: Amsterdam
     url: www.splendoramsterdam.com
-  - title: 'Mike del Ferro & Claron McFadden'
-    date: 2016-11-04 20:00:00
-    location: De Morgenster
-    venue: Hilversum (NL)
-    url: 'http://www.seinconcerten.nl/'
   - title: Mike del Ferro
     date: 2016-12-10 20:30:00
     location: TBA
     venue: Antwerp (B)
-    url:
-  - title: 'Mike del Ferro & Claron McFadden'
-    date: 2016-11-05 20:00:00
-    location: Tenclub
-    venue: Amsterdam (NL)
-    url:
-  - title: Mike del Ferro- solo recital
-    date: 2016-11-03 20:30:00
-    location: Splendor
-    venue: Amsterdam (NL)
-    url: www.splendoramsterdam.com
-  - title: Mike del Ferro trio
-    date: 2016-11-01 22:00:00
-    location: Luxor theater
-    venue: Zuthpen (NL)
     url:
   - title: Mike del Ferro trio
     date: 2016-12-11 22:00:00
@@ -65,7 +35,7 @@ gigs:
     venue: Vorden (NL)
     url:
   - title: 'Mike del Ferro & Claron McFadden'
-    date: 2016-11-20 14:30:00
+    date: 2016-11-20 16:00:00
     location: De Roode bioscoop
     venue: Amsterdam (NL)
     url: 'http://www.roodebioscoop.nl/Roode-Zondagen/467-CLARON-MCFADDEN-en-MIKE-DEL-FERRO/1338'
@@ -94,3 +64,18 @@ gigs:
     location: Jazzclub
     venue: Valkenswaard (NL)
     url:
+  - title: 'Artist in Residence, Luzern Jazzschool Switzerland j, January 18-20'
+    date: 2017-01-18 00:00:00
+    location:
+    venue:
+    url:
+  - title: 'Mike del Ferro & Claron McFadden'
+    date: 2017-03-26 15:00:00
+    location: De Steenakker
+    venue: Haps (Nijmegen)
+    url: 'http://www.desteenakker.nl/zondag-26-maart-2017-mike-del-ferro-en-claron-mcfadden/'
+  - title: 'Mike del Ferro & Claron McFadden'
+    date: 2017-05-20 08:00:00
+    location: Tindall Villa
+    venue: Bussum (NL)
+    url: 'http://www.tindal.nl/Tindal/20170520.html'
