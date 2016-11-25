@@ -19,7 +19,7 @@ gigs:
     location: De Doelen
     venue: Rotterdam-NL
     url: www.dedoelen.nl
-  - title: Mike del Ferro / Claron McFadden - opera meets jazz
+  - title: Mike del Ferro trio / Claron McFadden - opera meets jazz
     date: 2017-01-07 20:00:00
     location: Splendor
     venue: Amsterdam
@@ -30,24 +30,14 @@ gigs:
     venue: Antwerp (B)
     url:
   - title: Mike del Ferro trio
-    date: 2016-12-11 22:00:00
+    date: 2016-12-11 15:00:00
     location: Jazzclub
     venue: Vorden (NL)
     url:
-  - title: 'Mike del Ferro & Claron McFadden'
-    date: 2016-11-20 16:00:00
-    location: De Roode bioscoop
-    venue: Amsterdam (NL)
-    url: 'http://www.roodebioscoop.nl/Roode-Zondagen/467-CLARON-MCFADDEN-en-MIKE-DEL-FERRO/1338'
-  - title: Duo Mike Boddé and Mike del Ferro (Mike Kwadraat)
-    date: 2016-11-22 19:00:00
-    location: Pianino Theater
-    venue: Den Haag (NL)
-    url: 'http://www.pianinotheater.nl/styled-10/concerten.html'
-  - title: Duo with Leoni Jansen
-    date: 2016-12-17 20:00:00
-    location: Brocope Theater
-    venue: Oldeberkoop (Friesland/NL)
+  - title: Havana Jazz festival
+    date: 2016-12-15 20:00:00
+    location: Cuba
+    venue: Havana
     url:
   - title: Mike del Ferro trio with Niladri Kumar and Deborah Carter
     date: 2017-01-09 19:00:00
@@ -79,3 +69,13 @@ gigs:
     location: Tindall Villa
     venue: Bussum (NL)
     url: 'http://www.tindal.nl/Tindal/20170520.html'
+  - title: '4 pianists/4 grand pianos!'
+    date: 2017-01-22 17:30:00
+    location: Beauforthuis
+    venue: Austerlitz (Zeist) NL
+    url: www.beauforthuis.nl
+  - title:
+    date:
+    location:
+    venue:
+    url:
