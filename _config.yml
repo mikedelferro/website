@@ -15,7 +15,7 @@ gigs:
     venue: Katowice-Poland
     url: 'http://www.nospr.org.pl/en/concerts/627/wtorkowy-klub-jazzowy-mike-del-ferro-trio-feat-ceumar'
   - title: Mike del Ferro / Mike Boddé pianoduo
-    date: 2017-02-10 20:30:00
+    date: 2017-03-10 20:30:00
     location: De Doelen
     venue: Rotterdam-NL
     url: www.dedoelen.nl
@@ -74,8 +74,8 @@ gigs:
     location: Beauforthuis
     venue: Austerlitz (Zeist) NL
     url: www.beauforthuis.nl
-  - title:
-    date:
-    location:
-    venue:
-    url:
+  - title: 'Duo Mike Boddé & Mike del Ferro, Mike kwadraat'
+    date: 2017-01-26 20:00:00
+    location: Beauforthuis
+    venue: Austerlitz (Zeist) NL
+    url: www.beauforthuis.nl
