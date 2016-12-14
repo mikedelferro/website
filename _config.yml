@@ -69,3 +69,13 @@ gigs:
     location: Beauforthuis
     venue: Austerlitz (Zeist) NL
     url: www.beauforthuis.nl
+  - title: Haiti Jazz Festival Mike del Ferro trio
+    date: 2017-03-04 09:00:00
+    location: Quartier Latin
+    venue: 'Port au Prince, Haïti'
+    url: 'http://papjazzhaiti.org/'
+  - title: Haiti Jazz Festival-Mike del Ferro trio
+    date: 2017-03-06 00:00:00
+    location: University Quisqueya
+    venue: 'Port au Prince, Haïti'
+    url: 'http://papjazzhaiti.org/'
