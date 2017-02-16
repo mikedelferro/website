@@ -4,16 +4,6 @@ gigs:
     location: De Doelen
     venue: Rotterdam-NL
     url: www.dedoelen.nl
-  - title: Tour Pakistan -Feb 16-25
-    date: 2017-02-16 20:00:00
-    location: tba
-    venue: Pakistan
-    url:
-  - title: 'Tour Sweden, jan 31-feb 8 more details soon'
-    date: 2017-01-31 15:00:00
-    location: Sweden
-    venue:
-    url:
   - title: Mike del Ferro trio
     date: 2017-03-12 15:00:00
     location: Jazzclub
@@ -29,11 +19,6 @@ gigs:
     location: Tindall Villa
     venue: Bussum (NL)
     url: 'http://www.tindal.nl/Tindal/20170520.html'
-  - title: 'Duo Mike Boddé & Mike del Ferro, Mike kwadraat'
-    date: 2017-01-26 20:00:00
-    location: Beauforthuis
-    venue: Austerlitz (Zeist) NL
-    url: www.beauforthuis.nl
   - title: Haiti Jazz Festival Mike del Ferro trio
     date: 2017-03-04 09:00:00
     location: Quartier Latin
@@ -54,3 +39,13 @@ gigs:
     location: TBA
     venue: Leiden
     url: 'http://rgbfest.nl/#home'
+  - title: 'Jeroen van Veen & Mike del Ferro piano duo'
+    date: 2017-05-26 20:00:00
+    location: Pianino theater ( in the Moof building)
+    venue: Den Haag
+    url:
+  - title:
+    date:
+    location:
+    venue:
+    url:
