@@ -1,14 +1,4 @@
 gigs:
-  - title: Mike del Ferro / Mike Boddé pianoduo
-    date: 2017-03-10 20:30:00
-    location: De Doelen
-    venue: Rotterdam-NL
-    url: www.dedoelen.nl
-  - title: Mike del Ferro trio
-    date: 2017-03-12 15:00:00
-    location: Jazzclub
-    venue: Valkenswaard (NL)
-    url:
   - title: 'Mike del Ferro & Claron McFadden'
     date: 2017-03-26 15:00:00
     location: De Steenakker
@@ -19,16 +9,6 @@ gigs:
     location: Tindall Villa
     venue: Bussum (NL)
     url: 'http://www.tindal.nl/Tindal/20170520.html'
-  - title: Haiti Jazz Festival Mike del Ferro trio
-    date: 2017-03-04 09:00:00
-    location: Quartier Latin
-    venue: 'Port au Prince, Haïti'
-    url: 'http://papjazzhaiti.org/'
-  - title: Haiti Jazz Festival-Mike del Ferro trio
-    date: 2017-03-06 00:00:00
-    location: University Quisqueya
-    venue: 'Port au Prince, Haïti'
-    url: 'http://papjazzhaiti.org/'
   - title: 'Mike Boddé & Mike del Ferro, Mike Kwadraat'
     date: 2017-08-21 08:00:00
     location: Concertgebouw
@@ -36,18 +16,13 @@ gigs:
     url: www.concertgebouw.nl
   - title: 'Mike Boddé & Mike del Ferro, Mike Kwadraat'
     date: 2017-03-16 20:00:00
-    location: TBA
+    location: Boisotkade 10
     venue: Leiden
     url: 'http://rgbfest.nl/#home'
   - title: 'Jeroen van Veen & Mike del Ferro piano duo'
     date: 2017-05-26 20:00:00
     location: Pianino theater ( in the Moof building)
     venue: Den Haag
-    url:
-  - title: Canto Ostinato meets Jazz
-    date: 2017-06-16 20:00:00
-    location: Tenclub
-    venue: Amsterdam
     url:
   - title: 'Duo Remy van Kesteren & Mike del Ferro'
     date: 2017-04-14 20:30:00
@@ -99,3 +74,8 @@ gigs:
     location: 'Lelystad, more details will follow'
     venue:
     url:
+  - title: 'Clinic "Networking and Selfmanagement for Musicians" by Mike del Ferro'
+    date: 2017-04-06 02:00:00
+    location: Amsterdam
+    venue: Splendor
+    url: www.facebook.com/mikedelferro3
