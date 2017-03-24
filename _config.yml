@@ -1,6 +1,6 @@
 gigs:
   - title: 'Mike del Ferro & Claron McFadden'
-    date: 2017-03-26 15:00:00
+    date: 2017-03-26 16:00:00
     location: De Steenakker
     venue: Haps (Nijmegen)
     url: 'http://www.desteenakker.nl/zondag-26-maart-2017-mike-del-ferro-en-claron-mcfadden/'
@@ -14,11 +14,6 @@ gigs:
     location: Concertgebouw
     venue: Amsterdam
     url: www.concertgebouw.nl
-  - title: 'Mike Boddé & Mike del Ferro, Mike Kwadraat'
-    date: 2017-03-16 20:00:00
-    location: Boisotkade 10
-    venue: Leiden
-    url: 'http://rgbfest.nl/#home'
   - title: 'Jeroen van Veen & Mike del Ferro piano duo'
     date: 2017-05-26 20:00:00
     location: Pianino theater ( in the Moof building)
@@ -79,3 +74,8 @@ gigs:
     location: Amsterdam
     venue: Splendor
     url: www.facebook.com/mikedelferro3
+  - title: 'Mike del Ferro, solo recital'
+    date: 2017-04-09 16:00:00
+    location: Den Haag (the Hague)
+    venue: Universal center for Sufism
+    url:
