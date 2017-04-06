@@ -36,13 +36,13 @@ gigs:
     url:
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-02 20:00:00
-    location: 'Eindhoven, more details soon'
-    venue:
+    location: Eindhoven
+    venue: Muziekgebouw
     url:
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
-    date: 2018-02-08 00:00:00
-    location: 'Nijmegen, more details will follow'
-    venue:
+    date: 2018-02-08 20:00:00
+    location: 'Nijmegen,'
+    venue: De Vereeniging
     url:
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-16 20:00:00
@@ -64,11 +64,6 @@ gigs:
     location: 'Lelystad, more details will follow'
     venue:
     url:
-  - title: 'Clinic "Networking and Selfmanagement for Musicians" by Mike del Ferro'
-    date: 2017-04-06 14:00:00
-    location: Amsterdam
-    venue: Splendor
-    url: www.facebook.com/mikedelferro3
   - title: 'Mike del Ferro, solo recital'
     date: 2017-04-09 16:00:00
     location: Den Haag (the Hague)
@@ -78,4 +73,9 @@ gigs:
     date: 2017-06-16 08:00:00
     location: Amsterdam
     venue: Tenclub
+    url:
+  - title: Mike del Ferro trio
+    date: 2017-07-14 20:00:00
+    location: 'Krakow, Poland'
+    venue: International Jazz festival
     url:
