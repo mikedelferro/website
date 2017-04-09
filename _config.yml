@@ -64,11 +64,6 @@ gigs:
     location: 'Lelystad, more details will follow'
     venue:
     url:
-  - title: 'Mike del Ferro, solo recital'
-    date: 2017-04-09 16:00:00
-    location: Den Haag (the Hague)
-    venue: Universal center for Sufism
-    url:
   - title: Canto Ostinato meets Jazz with Jeroen van Veen and friends
     date: 2017-06-16 08:00:00
     location: Amsterdam
@@ -79,3 +74,8 @@ gigs:
     location: 'Krakow, Poland'
     venue: International Jazz festival
     url:
+  - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
+    date: 2018-03-28 08:00:00
+    location: Gouda (NL)
+    venue: De Goudse Schouwburg
+    url: 'https://www.goudseschouwburg.nl/voorstellingen/2710/Mike_Kwadraat/Mike_Bodde_Mike_Del_Ferro/'
