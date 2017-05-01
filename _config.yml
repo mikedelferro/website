@@ -14,21 +14,16 @@ gigs:
     location: Pianino theater ( in the Moof building)
     venue: Den Haag
     url: 'https://www.facebook.com/pianinotheater/?ref=ts&fref=ts'
-  - title: 'Duo Remy van Kesteren & Mike del Ferro'
-    date: 2017-04-14 20:30:00
-    location: Splendor
-    venue: Amsterdam
-    url: 'http://splendoramsterdam.com/mike-del-ferro-remy-van-kesteren/'
   - title: Mike del Ferro trio
     date: 2017-07-15 20:00:00
     location: 'Krakow Jazzfestival, Poland'
     venue: Krakow
     url:
   - title: 'Duo Jeroen van Veen & Mike del Ferro (morning concert!)'
-    date: 2017-07-30 00:00:00
+    date: 2017-07-30 11:00:00
     location: Kasteeltuin Middachten
     venue: Rheden (NL)
-    url:
+    url: 'http://www.middachten.nl/zomerconcerten-in-de-tuin/'
   - title: with Jeroen van Veen
     date: 2017-09-29 20:00:00
     location: Breda
@@ -79,3 +74,8 @@ gigs:
     location: Gouda (NL)
     venue: De Goudse Schouwburg
     url: 'https://www.goudseschouwburg.nl/voorstellingen/2710/Mike_Kwadraat/Mike_Bodde_Mike_Del_Ferro/'
+  - title: Guest with Fabiano Chagas
+    date: 2017-05-05 20:00:00
+    location: Amsterdam (NL)
+    venue: Munganga theater
+    url: 'https://munganga.nl/mini2/programma/3815'
