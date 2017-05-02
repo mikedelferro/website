@@ -80,7 +80,7 @@ gigs:
     venue: Munganga theater
     url: 'https://munganga.nl/mini2/programma/3815'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2017-03-09 20:00:00
+    date: 2018-03-09 20:00:00
     location: Drachten
     venue:
     url:
@@ -123,4 +123,9 @@ gigs:
     date: 2018-04-20 20:00:00
     location: Dordrecht
     venue:
+    url:
+  - title: Mike del Ferro with many International Musicians
+    date: 2017-09-12 00:00:00
+    location: 'Jaffa Jazzfestival, Israel'
+    venue: Israel
     url:
