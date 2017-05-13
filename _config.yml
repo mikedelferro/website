@@ -124,3 +124,18 @@ gigs:
     location:
     venue:
     url:
+  - title: 'Mike del Ferro & Friends'
+    date: 2017-09-28 20:30:00
+    location: Amsterdam
+    venue: Munganga theatre
+    url: www.munganga.nl
+  - title: 'Mike del Ferro & Claron McFadden'
+    date: 2017-05-24 22:30:00
+    location: Opium Live radio 4
+    venue:
+    url:
+  - title: 'Duo Mike Boddé and Mike del Ferro-Mike Kwadraat, CD Recordings'
+    date: 2017-06-19 00:00:00
+    location: Rotterdam
+    venue: De Doelen
+    url:
