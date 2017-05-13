@@ -59,11 +59,6 @@ gigs:
     location: 'Lelystad, more details will follow'
     venue:
     url:
-  - title: Canto Ostinato meets Jazz with Jeroen van Veen and friends
-    date: 2017-06-16 08:00:00
-    location: Amsterdam
-    venue: Tenclub
-    url:
   - title: Mike del Ferro trio
     date: 2017-07-14 20:00:00
     location: 'Krakow, Poland'
@@ -74,11 +69,6 @@ gigs:
     location: Gouda (NL)
     venue: De Goudse Schouwburg
     url: 'https://www.goudseschouwburg.nl/voorstellingen/2710/Mike_Kwadraat/Mike_Bodde_Mike_Del_Ferro/'
-  - title: Guest with Fabiano Chagas
-    date: 2017-05-05 20:00:00
-    location: Amsterdam (NL)
-    venue: Munganga theater
-    url: 'https://munganga.nl/mini2/programma/3815'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-09 20:00:00
     location: Drachten
