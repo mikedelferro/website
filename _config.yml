@@ -133,9 +133,14 @@ gigs:
     date: 2017-05-24 22:30:00
     location: Opium Live radio 4
     venue:
-    url:
+    url: www.radio4.nl
   - title: 'Duo Mike Boddé and Mike del Ferro-Mike Kwadraat, CD Recordings'
     date: 2017-06-19 00:00:00
     location: Rotterdam
     venue: De Doelen
     url:
+  - title: Duo Mike Boddé and Mike del Ferro-Mike Kwadraat
+    date: 2018-03-10 20:00:00
+    location: Paradox
+    venue: Tilburg (NL)
+    url: www.paradoxtilburg.nl
