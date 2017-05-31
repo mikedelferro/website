@@ -1,19 +1,19 @@
 gigs:
-  - title: "Tribute to Mike's father, Leonard del Ferro"
-    date: 2017-05-28 15:00:00
-    location: Elsrijk Openluchttheater
-    venue: Amstelveen (NL)
-    url: 'https://www.facebook.com/Openluchttheaterelsrijk1'
+  - title: 'Tour and recordings South Africa, more details soon'
+    date: 2017-08-22 15:00:00
+    location:
+    venue: South Africa
+    url:
   - title: 'Mike Boddé & Mike del Ferro, Mike Kwadraat'
     date: 2017-08-21 08:00:00
     location: Concertgebouw
     venue: Amsterdam
     url: www.concertgebouw.nl
-  - title: 'Jeroen van Veen & Mike del Ferro piano duo'
-    date: 2017-05-26 20:00:00
-    location: Pianino theater ( in the Moof building)
-    venue: Den Haag
-    url: 'https://www.facebook.com/pianinotheater/?ref=ts&fref=ts'
+  - title: 'Tour Albania, Jazzfestival in 4 cities, more details soon'
+    date: 2017-07-20 20:00:00
+    location:
+    venue:
+    url:
   - title: Mike del Ferro trio
     date: 2017-07-15 20:00:00
     location: 'Krakow Jazzfestival, Poland'
@@ -30,35 +30,35 @@ gigs:
     venue: Orgelstorm festival
     url:
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
-    date: 2018-02-02 20:00:00
+    date: 2018-02-02 20:15:00
     location: Eindhoven
-    venue: Muziekgebouw
-    url:
+    venue: Muziekgebouw Frits Philips
+    url: www.muziekgebouweindhoven.nl
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
-    date: 2018-02-08 20:00:00
+    date: 2018-02-08 20:15:00
     location: 'Nijmegen,'
     venue: De Vereeniging
-    url:
+    url: www.stadsschouwburgendevereeniging.nl
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-16 20:00:00
-    location: 'Leeuwarden, more details will follow'
-    venue:
-    url:
+    location: Leeuwarden
+    venue: De Harmonie
+    url: www.harmonie.nl
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
-    date: 2018-02-20 20:00:00
-    location: 'Heiloo, more details will follow'
-    venue:
-    url:
+    date: 2018-02-20 20:15:00
+    location: Heiloo
+    venue: De Beun
+    url: www.theaterdebeun.nl
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
-    date: 2018-02-23 20:00:00
-    location: 'Zoetermeer, more details will follow'
-    venue:
-    url:
+    date: 2018-02-23 20:30:00
+    location: Zoetermeer
+    venue: Stadstheater
+    url: www.stadstheater.nl
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
-    date: 2018-02-24 20:00:00
-    location: 'Lelystad, more details will follow'
-    venue:
-    url:
+    date: 2018-02-24 20:30:00
+    location: Lelystad
+    venue: Agora theater
+    url: www.agora-lelystad.nl
   - title: Mike del Ferro trio
     date: 2017-07-14 20:00:00
     location: 'Krakow, Poland'
@@ -70,50 +70,50 @@ gigs:
     venue: De Goudse Schouwburg
     url: 'https://www.goudseschouwburg.nl/voorstellingen/2710/Mike_Kwadraat/Mike_Bodde_Mike_Del_Ferro/'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-03-09 20:00:00
+    date: 2018-03-09 20:30:00
     location: Drachten
-    venue:
-    url:
+    venue: De Lawei
+    url: www.lawei.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-03-16 20:00:00
+    date: 2018-03-16 20:15:00
     location: Laren
-    venue:
-    url:
+    venue: Singer
+    url: www.singerlaren.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-03-23 00:00:00
+    date: 2018-03-23 20:15:00
     location: Woerden
-    venue:
-    url:
+    venue: Het Klooster / Theater
+    url: www.kloosterwoerden.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-03-28 00:00:00
+    date: 2018-03-28 08:30:00
     location: Gouda
-    venue:
-    url:
+    venue: Goudse Schouwburg
+    url: www.goudseschouwburg.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-03-30 20:00:00
+    date: 2018-03-30 20:30:00
     location: Amstelveen
-    venue:
-    url:
+    venue: Griffioen Theater
+    url: www.griffioen.vu.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-03-31 20:00:00
+    date: 2018-03-31 20:30:00
     location: Heerlen
-    venue:
-    url:
+    venue: Parkstad Theater
+    url: www.parkstadlimburgtheaters.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-04-04 20:00:00
+    date: 2018-04-04 20:15:00
     location: Delft
-    venue:
-    url:
+    venue: De Veste
+    url: www.theaterdeveste.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-04-07 20:00:00
     location: Zwolle
-    venue:
-    url:
+    venue: Schouwburg Odeon
+    url: www.zwolsetheaters.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-04-20 20:00:00
+    date: 2018-04-20 20:30:00
     location: Dordrecht
-    venue:
-    url:
+    venue: Energiehuis
+    url: www.kunstmin.nl
   - title: Mike del Ferro with many International Musicians
     date: 2017-09-12 00:00:00
     location: 'Jaffa Jazzfestival, Israel'
@@ -129,11 +129,6 @@ gigs:
     location: Amsterdam
     venue: Munganga theatre
     url: www.munganga.nl
-  - title: 'Mike del Ferro & Claron McFadden'
-    date: 2017-05-24 22:30:00
-    location: Opium Live radio 4
-    venue:
-    url: www.radio4.nl
   - title: 'Duo Mike Boddé and Mike del Ferro-Mike Kwadraat, CD Recordings'
     date: 2017-06-19 00:00:00
     location: Rotterdam
