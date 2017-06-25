@@ -9,16 +9,16 @@ gigs:
     location: Concertgebouw
     venue: Amsterdam
     url: www.concertgebouw.nl
-  - title: 'Tour Albania, Jazzfestival in 4 cities, more details soon'
+  - title: 'Mike del Ferro & Ermal Rodi'
     date: 2017-07-20 20:00:00
-    location:
-    venue:
+    location: Tirana (Albania International Jazzfestival)
+    venue: Rogner
     url:
   - title: Mike del Ferro trio
     date: 2017-07-15 20:00:00
-    location: 'Krakow Jazzfestival, Poland'
-    venue: Krakow
-    url:
+    location: 'Krakau Jazzfestival, Poland'
+    venue: Piwnica Pod Baranami
+    url: 'http://www.cracjazz.com/pl/piwnica-pod-baranami-program/'
   - title: 'Duo Jeroen van Veen & Mike del Ferro (morning concert!)'
     date: 2017-07-30 11:30:00
     location: Kasteeltuin Middachten
@@ -109,7 +109,7 @@ gigs:
     location: Dordrecht (NL)
     venue: Energiehuis
     url: www.kunstmin.nl
-  - title: Mike del Ferro with many International Musicians
+  - title: 'Mike del Ferro with International Musicians, 12-16 September'
     date: 2017-09-12 00:00:00
     location: 'Jaffa Jazzfestival, Israel'
     venue: Israel
@@ -124,18 +124,53 @@ gigs:
     location: Amsterdam
     venue: Munganga theatre
     url: www.munganga.nl
-  - title: 'Duo Mike Boddé and Mike del Ferro-Mike Kwadraat, CD Recordings'
-    date: 2017-06-19 00:00:00
-    location: Rotterdam (NL)
-    venue: De Doelen
-    url:
+  - title: Duo Jeroen van Veen and Mike del Ferro
+    date: 2017-07-31 20:00:00
+    location: Austerlitz (Zeist)
+    venue: Beauforthuis
+    url: www.beauforthuis.nl
   - title: Duo Mike Boddé and Mike del Ferro-Mike Kwadraat
     date: 2018-03-10 20:00:00
     location: Tilburg (NL)
     venue: Paradox
     url: www.paradoxtilburg.nl
   - title: Mike del Ferro and friends
-    date: 2017-10-07 20:00:00
+    date: 2017-10-07 20:30:00
     location: Amsterdam (NL)
     venue: Splendor
     url: www.splendoramsterdam.com
+  - title: 'Mike del Ferro & Ermal Rodi'
+    date: 2017-07-25 20:00:00
+    location: Taraca e Bashkise (Albania International Jazzfestival)
+    venue:
+    url:
+  - title: 'Mike del Ferro & Ermal Rodi'
+    date: 2017-07-21 00:00:00
+    location: Fier  (Albania International Jazzfestival)
+    venue: Apolloni
+    url:
+  - title: 'Mike del Ferro & Ermal Rodi'
+    date: 2017-07-23 20:00:00
+    location: Vlore  (Albania International Jazzfestival)
+    venue:
+    url:
+  - title: 'Duo Jeroen van Veen & Mike del Ferro'
+    date: 2017-12-09 20:00:00
+    location: Amsterdam
+    venue: Ostade Theater
+    url:
+  - title: 'Mike del Ferro & Jeroen van Veen'
+    date: 2017-11-16 20:00:00
+    location: Amsterdam
+    venue: Roode Bioscoop
+    url: www.roodebioscoop.nl
+  - title: 'Mike del Ferro & Mike Boddé'
+    date: 2017-11-17 20:00:00
+    location: Amsterdam
+    venue: Roode Bioscoop
+    url: www.roodebioscoop.nl
+  - title: 'Mike del Ferro & Remy van Kesteren'
+    date: 2017-11-18 20:00:00
+    location: Amsterdam
+    venue: Roode Bioscoop
+    url: www.roodebioscoop.nl
