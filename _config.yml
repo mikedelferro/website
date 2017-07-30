@@ -1,14 +1,9 @@
 gigs:
   - title: 'Mike Boddé & Mike del Ferro, Mike Kwadraat'
-    date: 2017-08-21 08:00:00
+    date: 2017-08-21 20:00:00
     location: Concertgebouw
     venue: Amsterdam
     url: www.concertgebouw.nl
-  - title: 'Duo Jeroen van Veen & Mike del Ferro (morning concert!)'
-    date: 2017-07-30 11:30:00
-    location: Kasteeltuin Middachten
-    venue: Rheden (NL)
-    url: 'http://www.middachten.nl/zomerconcerten-in-de-tuin/'
   - title: with Jeroen van Veen
     date: 2017-09-28 20:00:00
     location: Breda (NL)
@@ -143,4 +138,9 @@ gigs:
     date: 2017-09-03 16:00:00
     location: Amstelveen
     venue: TBA
+    url:
+  - title: 'South Africa, Masterclasses, Concerts and Recordings, more details soon'
+    date: 2017-12-13 00:00:00
+    location:
+    venue:
     url:
