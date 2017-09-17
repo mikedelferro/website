@@ -1,9 +1,10 @@
 gigs:
-  - title: 'with Jeroen van Veen, Aart Bergwerff'
+  - title: 'with Jeroen van Veen, Sandra van Veen  and Aart Bergwerff'
     date: 2017-09-28 20:00:00
     location: Breda (NL)
     venue: Orgelstorm festival
-    url:
+    url: >-
+      http://www.grotekerkbreda.nl/activiteiten/internationaal-orgelfestival-breda-7/
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-02 20:15:00
     location: Eindhoven (NL)
@@ -79,25 +80,25 @@ gigs:
     location: Dordrecht (NL)
     venue: Energiehuis
     url: www.kunstmin.nl
-  - title: 'Mike del Ferro with International Musicians, 12-16 September'
-    date: 2017-09-12 00:00:00
-    location: 'Jaffa Jazzfestival, Israel'
-    venue: Israel
+  - title: Duo with Jeroen van Veen
+    date: 2017-10-06 20:00:00
+    location: Tenclub
+    venue: Amsterdam
+    url: 'https://www.facebook.com/onbehalfoftenclub/'
+  - title: Mike del Ferro trio with Jeroen Vierdag & Sebastiaan Kaptein
+    date: 2017-11-23 08:00:00
+    location: New Combo
+    venue: 'Fukuoka, Japan'
     url:
-  - title: 'Mike del Ferro trio Japan tour, more details soon'
-    date: 2017-11-24 00:00:00
-    location:
-    venue:
-    url:
-  - title: Mike del Ferro trio
+  - title: Mike del Ferro trio and special guest Nazguliya from Kazakhstan
     date: 2017-09-29 20:30:00
     location: Amsterdam
     venue: Munganga theatre
     url: www.munganga.nl
-  - title: Mike del Ferro trio
-    date: 2018-02-18 15:00:00
-    location: Vorden (NL)
-    venue: Jazzclub
+  - title: Mike del Ferro trio with Jeroen Vierdag & Sebastiaan Kaptein
+    date: 2017-11-24 20:00:00
+    location: 'Nagasaki, Japan'
+    venue: Hirado Cityhall
     url:
   - title: Duo Mike Boddé and Mike del Ferro-Mike Kwadraat
     date: 2018-03-10 20:00:00
@@ -129,11 +130,11 @@ gigs:
     location: Amsterdam
     venue: Roode Bioscoop
     url: www.roodebioscoop.nl
-  - title: 'Mike del Ferro, solo'
-    date: 2017-09-03 16:00:00
-    location: Amstelveen
-    venue: Jazz at IL
-    url: 'https://www.facebook.com/jazzatil'
+  - title: Mike del Ferro trio with Jeroen Vierdag & Sebastiaan Kaptein
+    date: 2017-11-29 20:00:00
+    location: 'Tokyo, Japan'
+    venue: Haretara
+    url:
   - title: 'South Africa, Masterclasses, Concerts and Recordings, more details soon'
     date: 2017-12-13 00:00:00
     location:
@@ -148,4 +149,24 @@ gigs:
     date: 2017-10-21 16:00:00
     location: Amsterdam
     venue: Cacao Museum
+    url:
+  - title: Mike del Ferro trio with Jeroen Vierdag & Sebastiaan Kaptein
+    date: 2017-11-28 20:00:00
+    location: 'Fukuroi, Japan'
+    venue: Mamselle
+    url:
+  - title: Mike del Ferro trio with Jeroen Vierdag & Sebastiaan Kaptein
+    date: 2017-11-30 00:00:00
+    location: 'Koga, Japan'
+    venue: Up
+    url:
+  - title: Mike del Ferro trio with guest
+    date: 2017-12-10 16:00:00
+    location: Den Ilp (NL)
+    venue:
+    url:
+  - title: Mike del Ferro trio
+    date: 2018-03-25 15:00:00
+    location: Laren (NL)
+    venue: Rosa Spier
     url:
