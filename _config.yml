@@ -1,10 +1,4 @@
 gigs:
-  - title: 'with Jeroen van Veen, Sandra van Veen  and Aart Bergwerff'
-    date: 2017-09-28 20:00:00
-    location: Breda (NL)
-    venue: Orgelstorm festival
-    url: >-
-      http://www.grotekerkbreda.nl/activiteiten/internationaal-orgelfestival-breda-7/
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-02 20:15:00
     location: Eindhoven (NL)
@@ -90,11 +84,11 @@ gigs:
     location: New Combo
     venue: 'Fukuoka, Japan'
     url:
-  - title: Mike del Ferro trio and special guest Nazguliya from Kazakhstan
-    date: 2017-09-29 20:30:00
+  - title: 'Mike del Ferro , guest with Nelson Lateef'
+    date: 2017-10-19 20:30:00
     location: Amsterdam
-    venue: Munganga theatre
-    url: www.munganga.nl
+    venue: Roode Bioscoop
+    url: www.roodebioscoop.nl
   - title: Mike del Ferro trio with Jeroen Vierdag & Sebastiaan Kaptein
     date: 2017-11-24 20:00:00
     location: 'Nagasaki, Japan'
@@ -105,11 +99,6 @@ gigs:
     location: Tilburg (NL)
     venue: Paradox
     url: www.paradoxtilburg.nl
-  - title: 'Mike del Ferro, solo & with Friedel Mitas'
-    date: 2017-09-30 20:30:00
-    location: Amsterdam (NL)
-    venue: Splendor
-    url: www.splendoramsterdam.com
   - title: Duo Jeroen van Veen & Mike del Ferro
     date: 2017-12-09 20:00:00
     location: Amsterdam
@@ -139,11 +128,6 @@ gigs:
     date: 2017-12-13 00:00:00
     location:
     venue:
-    url:
-  - title: Mike del Ferro trio with Surprise guest
-    date: 2017-10-01 16:00:00
-    location:
-    venue: Den Ilp (NL)
     url:
   - title: Solo recital
     date: 2017-10-21 16:00:00
