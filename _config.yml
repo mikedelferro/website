@@ -1,151 +1,141 @@
 gigs:
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-02 20:15:00
-    location: Eindhoven (NL)
-    venue: Muziekgebouw Frits Philips
+    location: Muziekgebouw Frits Philips
+    venue: Eindhoven (NL)
     url: www.muziekgebouweindhoven.nl
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-08 20:15:00
-    location: Nijmegen (NL)
-    venue: De Vereeniging
+    location: De Vereeniging
+    venue: Nijmegen (NL)
     url: www.stadsschouwburgendevereeniging.nl
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-16 20:00:00
-    location: Leeuwarden (NL)
-    venue: De Harmonie
+    location: De Harmonie
+    venue: Leeuwarden (NL)
     url: www.harmonie.nl
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-20 20:15:00
-    location: Heiloo (NL)
-    venue: De Beun
+    location: De Beun
+    venue: Heiloo
     url: www.theaterdebeun.nl
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-23 20:30:00
-    location: Zoetermeer (NL)
-    venue: Stadstheater
+    location: Stadstheater
+    venue: Heiloo
     url: www.stadstheater.nl
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-24 20:30:00
-    location: Lelystad (NL)
-    venue: Agora theater
+    location: Agora theater
+    venue: Lelystad
     url: www.agora-lelystad.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-09 20:30:00
-    location: Drachten (NL)
-    venue: De Lawei
+    location: De Lawei
+    venue: Drachten
     url: www.lawei.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-16 20:15:00
-    location: Laren (NL)
-    venue: Singer
+    location: Singer
+    venue: Laren (NL)
     url: www.singerlaren.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-23 20:15:00
-    location: Woerden (NL)
-    venue: Het Klooster / Theater
+    location: Het Klooster / Theater
+    venue: Woerden (NL)
     url: www.kloosterwoerden.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-28 08:30:00
-    location: Gouda (NL)
-    venue: Goudse Schouwburg
+    location: Goudse Schouwburg
+    venue: Gouda (NL)
     url: www.goudseschouwburg.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-30 20:30:00
-    location: Amstelveen (NL)
-    venue: Griffioen Theater
+    location: Griffioen Theater
+    venue: Amstelveen
     url: www.griffioen.vu.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-31 20:30:00
-    location: Heerlen (NL)
-    venue: Parkstad Theater
+    location: Parkstad Theater
+    venue: Heerlen (NL)
     url: www.parkstadlimburgtheaters.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-04-04 20:15:00
-    location: Delft (NL)
-    venue: De Veste
+    location: De Veste
+    venue: Delft (NL)
     url: www.theaterdeveste.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-04-07 20:00:00
-    location: Zwolle (NL)
-    venue: Schouwburg Odeon
+    location: Schouwburg Odeon
+    venue: Zwolle (NL)
     url: www.zwolsetheaters.nl
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-04-20 20:30:00
-    location: Dordrecht (NL)
-    venue: Energiehuis
+    location: Energiehuis
+    venue: Dordrecht
     url: www.kunstmin.nl
   - title: Mike del Ferro trio with Jeroen Vierdag & Sebastiaan Kaptein
     date: 2017-11-23 08:00:00
     location: New Combo
     venue: 'Fukuoka, Japan'
     url:
-  - title: 'Mike del Ferro , guest with Nelson Lateef'
-    date: 2017-10-19 20:30:00
-    location: Amsterdam
-    venue: Roode Bioscoop
-    url: www.roodebioscoop.nl
+  - title: Mike del Ferro and Wim Dijkgraaf
+    date: 2018-01-21 00:00:00
+    location: Plus etage
+    venue: Baarle Nassau
+    url:
   - title: Mike del Ferro trio with Jeroen Vierdag & Sebastiaan Kaptein
     date: 2017-11-24 20:00:00
-    location: 'Nagasaki, Japan'
-    venue: Hirado Cityhall
+    location: Hirado Cityhall
+    venue: Nagasaki (Japan)
     url:
   - title: Duo Mike Boddé and Mike del Ferro-Mike Kwadraat
     date: 2018-03-10 20:00:00
-    location: Tilburg (NL)
-    venue: Paradox
+    location: Paradox
+    venue: Tilburg
     url: www.paradoxtilburg.nl
   - title: Duo Jeroen van Veen & Mike del Ferro
     date: 2017-12-09 20:00:00
-    location: Amsterdam
-    venue: Ostade Theater
+    location: Ostade Theater
+    venue: Amsterdam
     url:
   - title: Mike del Ferro & Jeroen van Veen
     date: 2017-11-16 20:00:00
-    location: Amsterdam
-    venue: Roode Bioscoop
+    location: Roode Bioscoop
+    venue: Amsterdam
     url: www.roodebioscoop.nl
   - title: Mike del Ferro & Mike Boddé
     date: 2017-11-17 20:00:00
-    location: Amsterdam
-    venue: Roode Bioscoop
+    location: Roode Bioscoop
+    venue: Amsterdam
     url: www.roodebioscoop.nl
   - title: Mike del Ferro & Remy van Kesteren
     date: 2017-11-18 20:00:00
-    location: Amsterdam
-    venue: Roode Bioscoop
+    location: Roode Bioscoop
+    venue: Amsterdam
     url: www.roodebioscoop.nl
   - title: Mike del Ferro trio with Jeroen Vierdag & Sebastiaan Kaptein
     date: 2017-11-29 20:00:00
-    location: 'Tokyo, Japan'
-    venue: Haretara
+    location: Haretara
+    venue: Tokyo (Japan)
     url:
   - title: 'South Africa, Masterclasses, Concerts and Recordings, more details soon'
     date: 2017-12-13 00:00:00
     location:
-    venue:
-    url:
-  - title: Solo recital
-    date: 2017-10-21 16:00:00
-    location: Amsterdam
-    venue: Cacao Museum
+    venue: South Africa
     url:
   - title: Mike del Ferro trio with Jeroen Vierdag & Sebastiaan Kaptein
     date: 2017-11-28 20:00:00
-    location: 'Fukuroi, Japan'
-    venue: Mamselle
+    location: Mamselle
+    venue: Fukuroi (Japan)
     url:
   - title: Mike del Ferro trio with Jeroen Vierdag & Sebastiaan Kaptein
     date: 2017-11-30 00:00:00
-    location: 'Koga, Japan'
-    venue: Up
-    url:
-  - title: Mike del Ferro trio with guest
-    date: 2017-12-10 16:00:00
-    location: Den Ilp (NL)
-    venue:
+    location: Up
+    venue: Koga (Japan)
     url:
   - title: Mike del Ferro trio
     date: 2018-03-25 15:00:00
-    location: Laren (NL)
-    venue: Rosa Spier
+    location: Rosa Spier Huis
+    venue: Rosa Spier Huis
     url:
