@@ -109,11 +109,9 @@ gigs:
     location: Request
     venue: Kobe (Japan)
     url: 'https://www.facebook.com/dai.murata.3'
-  - title: >-
-      Mike del Ferro , Mbuso Khoza and the KZN Heritage Choir (afternoon
-      concert!)
-    date: 2018-01-07 14:00:00
-    location: Albania Jazz festival- Jazz meets Bernstein
+  - title: Jazz meets Bernstein
+    date: 2018-07-24 20:00:00
+    location: Albania Jazz festival
     venue: Tirana
     url:
   - title: Mike del Ferro & Mike Boddé - Mike Kwadraat
