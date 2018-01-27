@@ -79,11 +79,11 @@ gigs:
     location: Tenshodo Kobe Kasugano
     venue: Kobe (Japan)
     url: 'http://www.kobetenshodo.com'
-  - title: Mike del Ferro and Wim Dijkgraaf (afternoon!)
-    date: 2018-01-21 14:00:00
-    location: Plus etage
-    venue: Baarle Nassau
-    url: 'http://www.plusetage.nl/'
+  - title: With Eleanor McEvoy - St.Patrick's Irish music Festival
+    date: 2018-03-17 20:00:00
+    location: Splendor
+    venue: Amsterdam (NL)
+    url: 'http://www.splendoramsterdam.com'
   - title: Mike del Ferro trio with Shota Ishikawa & Sebastiaan Kaptein
     date: 2018-03-03 17:00:00
     location: Kobe Modern Jazzclub
@@ -94,12 +94,12 @@ gigs:
     location: Paradox
     venue: Tilburg
     url: www.paradoxtilburg.nl
-  - title: Mike del Ferro & Mbuso Khoza
-    date: 2018-01-05 19:00:00
-    location: Headroom
-    venue: Durban (South Africa)
-    url: 'https://www.facebook.com/events/146881809300816/'
-  - title: 'Mike del Ferro & friends, more details soon'
+  - title: Mike del Ferro & Svenja Staats
+    date: 2018-06-10 15:00:00
+    location: TBA
+    venue: TBA
+    url:
+  - title: 'Mike del Ferro & Kora Master Zoumara Diarra,'
     date: 2018-02-17 20:30:00
     location: Munganga
     venue: Amsterdam
@@ -113,19 +113,14 @@ gigs:
       Mike del Ferro , Mbuso Khoza and the KZN Heritage Choir (afternoon
       concert!)
     date: 2018-01-07 14:00:00
-    location: Kwadukuzu Town Hall
-    venue: Durban (South Africa)
-    url: 'http://www.isupportdoyou.com/'
-  - title: Mike del Ferro trio & Trijntje Oosterhuis
-    date: 2018-01-20 20:30:00
-    location: Splendor
-    venue: Amsterdam (NL)
-    url: www.splendoramsterdam.com
-  - title: Recordings with Mbuso Khoza and the KZN Heritage Choir
-    date: 2018-01-08 00:00:00
-    location: SABC Studios
-    venue: Durban (South Africa)
+    location: Albania Jazz festival- Jazz meets Bernstein
+    venue: Tirana
     url:
+  - title: Mike del Ferro & Mike Boddé - Mike Kwadraat
+    date: 2018-11-17 20:30:00
+    location: Porgy & Bess
+    venue: Terneuzen (NL)
+    url: www.porgyenbess.nl
   - title: Mike del Ferro trio
     date: 2018-03-20 20:00:00
     location: Luxor theater
@@ -135,19 +130,15 @@ gigs:
     date: 2018-03-25 15:00:00
     location: Rosa Spier Huis
     venue: Laren (NL Noord Holland)
-    url:
-  - title: Guest appearance with Flamenco Masters Jaco Abel & Julian Heredia
-    date: 2018-01-19 20:30:00
-    location: Munganga
-    venue: Amsterdam (NL)
-    url:
+    url: 'http://rosaspierhuis.nl'
   - title: Canto Ostinato meets Jazz with Sandra & Jeroen van Veen
     date: 2018-02-03 20:00:00
     location: Pernissimo
     venue: Pernis (NL)
     url: www.pernissimo.org
-  - title: Mike del Ferro trio (afternoon!)
+  - title: Mike del Ferro trio (with Uli Wetzlaff & Sebastian Netta
     date: 2018-02-04 16:00:00
-    location: TBA
+    location: Cinema Filmtheater
     venue: Münster (Germany)
-    url:
+    url: >-
+      https://mapdance.com/fr/Events/Munster-Jazz-Piano-im-4tel-Mike-DelFerro-Meisterpianist-aus-Amsterdam-4000439475991
