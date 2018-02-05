@@ -1,9 +1,9 @@
 gigs:
-  - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
-    date: 2018-02-02 20:15:00
-    location: Muziekgebouw Frits Philips
-    venue: Eindhoven (NL)
-    url: www.muziekgebouweindhoven.nl
+  - title: 'Mike del Ferro and Friends, Sunday Afternoon at Splendor'
+    date: 2018-03-18 16:00:00
+    location: Splendor
+    venue: Amsterdam (NL)
+    url: www.splendoramsterdam.com
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-08 20:15:00
     location: De Vereeniging
@@ -130,13 +130,12 @@ gigs:
     venue: Laren (NL Noord Holland)
     url: 'http://rosaspierhuis.nl'
   - title: Canto Ostinato meets Jazz with Sandra & Jeroen van Veen
-    date: 2018-02-03 20:00:00
-    location: Pernissimo
-    venue: Pernis (NL)
-    url: www.pernissimo.org
-  - title: Mike del Ferro trio (with Uli Wetzlaff & Sebastian Netta
-    date: 2018-02-04 16:00:00
-    location: Cinema Filmtheater
-    venue: Münster (Germany)
-    url: >-
-      https://mapdance.com/fr/Events/Munster-Jazz-Piano-im-4tel-Mike-DelFerro-Meisterpianist-aus-Amsterdam-4000439475991
+    date: 2018-11-20 22:00:00
+    location: Luxor
+    venue: Zuthpen (NL)
+    url: 'https://www.facebook.com/jazzinluxor'
+  - title: Mike del Ferro-Jazz meets Bernstein
+    date: 2018-07-28 20:00:00
+    location: TBA
+    venue: Tirana (Albania)
+    url:
