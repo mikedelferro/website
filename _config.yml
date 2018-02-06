@@ -8,72 +8,72 @@ gigs:
     date: 2018-02-08 20:15:00
     location: De Vereeniging
     venue: Nijmegen (NL)
-    url: www.stadsschouwburgendevereeniging.nl
+    url: 'http://www.stadsschouwburgendevereeniging.nl'
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-16 20:00:00
     location: De Harmonie
     venue: Leeuwarden (NL)
-    url: www.harmonie.nl
+    url: 'http://www.harmonie.nl'
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-20 20:15:00
     location: De Beun
     venue: Heiloo
-    url: www.theaterdebeun.nl
+    url: 'http://www.theaterdebeun.nl'
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-23 20:30:00
     location: Stadstheater
     venue: Zoetermeer
-    url: www.stadstheater.nl
+    url: 'http://www.stadstheater.nl'
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-24 20:30:00
     location: Agora theater
     venue: Lelystad
-    url: www.agora-lelystad.nl
+    url: 'http://www.agora-lelystad.nl'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-09 20:30:00
     location: De Lawei
     venue: Drachten
-    url: www.lawei.nl
+    url: 'http://www.lawei.nl'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-16 20:15:00
     location: Singer
     venue: Laren (NL)
-    url: www.singerlaren.nl
+    url: 'http://www.singerlaren.nl'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-23 20:15:00
     location: Het Klooster / Theater
     venue: Woerden (NL)
-    url: www.kloosterwoerden.nl
+    url: 'http://www.kloosterwoerden.nl'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-28 08:30:00
     location: Goudse Schouwburg
     venue: Gouda (NL)
-    url: www.goudseschouwburg.nl
+    url: 'http://www.goudseschouwburg.nl'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-30 20:30:00
     location: Griffioen Theater
     venue: Amstelveen
-    url: www.griffioen.vu.nl
+    url: 'http://www.griffioen.vu.nl'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-31 20:30:00
     location: Parkstad Theater
     venue: Heerlen (NL)
-    url: www.parkstadlimburgtheaters.nl
+    url: 'http://www.parkstadlimburgtheaters.nl'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-04-04 20:15:00
     location: De Veste
     venue: Delft (NL)
-    url: www.theaterdeveste.nl
+    url: 'http://www.theaterdeveste.nl'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-04-07 20:00:00
     location: Schouwburg Odeon
     venue: Zwolle (NL)
-    url: www.zwolsetheaters.nl
+    url: 'http://www.zwolsetheaters.nl'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-04-20 20:30:00
     location: Energiehuis
     venue: Dordrecht
-    url: www.kunstmin.nl
+    url: 'http://www.kunstmin.nl'
   - title: Mike del Ferro trio with Shota Ishikawa & Sebastiaan Kaptein
     date: 2018-03-02 19:00:00
     location: Tenshodo Kobe Kasugano
@@ -93,7 +93,7 @@ gigs:
     date: 2018-03-10 20:00:00
     location: Paradox
     venue: Tilburg
-    url: www.paradoxtilburg.nl
+    url: 'http://www.paradoxtilburg.nl'
   - title: Mike del Ferro & Svenja Staats
     date: 2018-06-10 15:00:00
     location: TBA
@@ -103,7 +103,7 @@ gigs:
     date: 2018-02-17 20:30:00
     location: Munganga
     venue: Amsterdam
-    url: www.munganga.nl
+    url: 'http://www.munganga.nl'
   - title: Mike del Ferro trio with Shota Ishikawa & Sebastiaan Kaptein
     date: 2018-03-04 19:30:00
     location: Request
@@ -118,7 +118,7 @@ gigs:
     date: 2018-11-17 20:30:00
     location: Porgy & Bess
     venue: Terneuzen (NL)
-    url: www.porgyenbess.nl
+    url: 'http://www.porgyenbess.nl'
   - title: Mike del Ferro trio
     date: 2018-03-20 20:00:00
     location: Luxor theater
@@ -132,7 +132,7 @@ gigs:
   - title: Canto Ostinato meets Jazz with Sandra & Jeroen van Veen
     date: 2018-11-20 22:00:00
     location: Luxor
-    venue: Zuthpen (NL)
+    venue: Zutphen (NL)
     url: 'https://www.facebook.com/jazzinluxor'
   - title: Mike del Ferro-Jazz meets Bernstein
     date: 2018-07-28 20:00:00
