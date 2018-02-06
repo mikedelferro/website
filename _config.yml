@@ -3,7 +3,7 @@ gigs:
     date: 2018-03-18 16:00:00
     location: Splendor
     venue: Amsterdam (NL)
-    url: www.splendoramsterdam.com
+    url: 'http://www.splendoramsterdam.com'
   - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
     date: 2018-02-08 20:15:00
     location: De Vereeniging
