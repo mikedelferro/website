@@ -1,6 +1,8 @@
 gigs:
-  - title: 'Mike del Ferro and Friends, Sunday Afternoon at Splendor'
-    date: 2018-03-18 16:00:00
+  - title: >-
+      Mike del Ferro and Friends, Sunday Afternoon at Splendor, special guest
+      Kim Hoorweg
+    date: 2018-04-15 16:00:00
     location: Splendor
     venue: Amsterdam (NL)
     url: 'http://www.splendoramsterdam.com'
@@ -9,31 +11,21 @@ gigs:
     location: Domtoren
     venue: Utrecht (NL)
     url: 'http://www.klokkenspelvereniging.nl'
-  - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
-    date: 2018-02-16 20:00:00
-    location: De Harmonie
-    venue: Leeuwarden (NL)
-    url: 'http://www.harmonie.nl'
-  - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
-    date: 2018-02-20 20:15:00
-    location: De Beun
-    venue: Heiloo
-    url: 'http://www.theaterdebeun.nl'
-  - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
-    date: 2018-02-23 20:30:00
-    location: Stadstheater
-    venue: Zoetermeer
-    url: 'http://www.stadstheater.nl'
-  - title: 'Duo Mike Bodde & Mike del Ferro, Mike kwadraat'
-    date: 2018-02-24 20:30:00
-    location: Agora theater
-    venue: Lelystad
-    url: 'http://www.agora-lelystad.nl'
-  - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-03-09 20:30:00
-    location: De Lawei
-    venue: Drachten
-    url: 'http://www.lawei.nl'
+  - title: Harp festival with Sitar Master Niladri Kumar
+    date: 2018-05-13 15:15:00
+    location: Tivoli Vredenburg
+    venue: Utrecht
+    url: 'http://harpfestival.nl/nl/'
+  - title: 'Lisbon Jazz school, artist in residence'
+    date: 2018-04-11 13:30:00
+    location: tba
+    venue: 'Lisbon, Portugal'
+    url:
+  - title: 'Sunday afternoon Jazz sessions , guest TBA'
+    date: 2018-05-06 16:00:00
+    location: Splendor
+    venue: Amsterdam (NL)
+    url: 'http://www.splendoramsterdam.com'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-16 20:15:00
     location: Singer
@@ -74,41 +66,16 @@ gigs:
     location: Energiehuis
     venue: Dordrecht
     url: 'http://www.kunstmin.nl'
-  - title: Mike del Ferro trio with Shota Ishikawa & Sebastiaan Kaptein
-    date: 2018-03-02 19:00:00
-    location: Tenshodo Kobe Kasugano
-    venue: Kobe (Japan)
-    url: 'http://www.kobetenshodo.com'
   - title: With Eleanor McEvoy - St.Patrick's Irish music Festival
     date: 2018-03-17 20:00:00
     location: Splendor
     venue: Amsterdam (NL)
     url: 'http://www.splendoramsterdam.com'
-  - title: Mike del Ferro trio with Shota Ishikawa & Sebastiaan Kaptein
-    date: 2018-03-03 17:00:00
-    location: Kobe Modern Jazzclub
-    venue: Kobe (Japan)
-    url: 'https://www.facebook.com/events/1224373214331517/'
-  - title: Duo Mike Boddé and Mike del Ferro-Mike Kwadraat
-    date: 2018-03-10 20:00:00
-    location: Paradox
-    venue: Tilburg
-    url: 'http://www.paradoxtilburg.nl'
   - title: Mike del Ferro & Svenja Staats
     date: 2018-06-10 15:00:00
     location: TBA
     venue: TBA
     url:
-  - title: 'Mike del Ferro & Kora Master Zoumara Diarra,'
-    date: 2018-02-17 20:30:00
-    location: Munganga
-    venue: Amsterdam
-    url: 'http://www.munganga.nl'
-  - title: Mike del Ferro trio with Shota Ishikawa & Sebastiaan Kaptein
-    date: 2018-03-04 19:30:00
-    location: Request
-    venue: Kobe (Japan)
-    url: 'https://www.facebook.com/dai.murata.3'
   - title: Jazz meets Bernstein
     date: 2018-07-24 20:00:00
     location: Albania Jazz festival
@@ -129,7 +96,7 @@ gigs:
     location: Rosa Spier Huis
     venue: Laren (NL Noord Holland)
     url: 'http://rosaspierhuis.nl'
-  - title: Canto Ostinato meets Jazz with Sandra & Jeroen van Veen
+  - title: Mike del Ferro & Mike Boddé - Mike Kwadraat
     date: 2018-11-20 22:00:00
     location: Luxor
     venue: Zutphen (NL)
@@ -139,11 +106,6 @@ gigs:
     location: TBA
     venue: Tirana (Albania)
     url:
-  - title: 'Sunday afternoon Jazz, Mike del Ferro and Friends, more details soon'
-    date: 2018-04-15 16:00:00
-    location: Splendor
-    venue: Amsterdam (NL)
-    url: 'https://www.splendoramsterdam.com'
   - title: 'Sunday afternoon Jazz, Mike del Ferro and Friends, more details soon'
     date: 2018-05-13 16:00:00
     location: Amsterdam (NL
