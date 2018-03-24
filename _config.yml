@@ -17,7 +17,7 @@ gigs:
     venue: Utrecht
     url: 'http://harpfestival.nl/nl/'
   - title: 'Lisbon Jazz school, artist in residence , 11 & 12 April'
-    date: 2018-04-11 13:30:00
+    date: 2018-04-11 10:30:00
     location: tba
     venue: 'Lisbon, Portugal'
     url:
@@ -31,11 +31,11 @@ gigs:
     location: Blijburg
     venue: Amsterdam (NL)
     url: 'http://www.blijburg.nl'
-  - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-03-23 20:15:00
-    location: Het Klooster / Theater
-    venue: Woerden (NL)
-    url: 'http://www.kloosterwoerden.nl'
+  - title: Mike del Ferro trio & Zoumana Diarra from Mali (afternoon concert!)
+    date: 2018-05-20 15:15:00
+    location: Ruigoord
+    venue: Amsterdam  (NL)
+    url: 'http://www.ruigoord.nl'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-28 08:30:00
     location: Goudse Schouwburg
@@ -66,7 +66,7 @@ gigs:
     location: Energiehuis
     venue: Dordrecht
     url: 'http://www.kunstmin.nl'
-  - title: Solo concert
+  - title: Mike del Ferro Solo Concert
     date: 2018-05-19 20:00:00
     location: Munganga
     venue: Amsterdam (NL)
@@ -111,3 +111,8 @@ gigs:
     location: Het Klavier
     venue: Vorden (NL)
     url: 'https://www.het-klavier.nl'
+  - title: Mike del Ferro & Judith Scholten "my name is" theatre production
+    date: 2018-05-26 11:30:00
+    location: Opera dagen
+    venue: Rotterdam
+    url: 'https://www.operadagenrotterdam.nl'
