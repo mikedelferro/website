@@ -17,8 +17,8 @@ gigs:
     venue: Utrecht
     url: 'http://harpfestival.nl/nl/'
   - title: 'Lisbon Jazz school, artist in residence , 11 & 12 April'
-    date: 2018-04-11 10:30:00
-    location: tba
+    date: 2018-04-11 10:00:00
+    location: ESML University
     venue: 'Lisbon, Portugal'
     url:
   - title: 'Sunday afternoon Jazz sessions , guest TBA'
@@ -27,7 +27,7 @@ gigs:
     venue: Amsterdam (NL)
     url: 'http://www.splendoramsterdam.com'
   - title: Mike del Ferro trio
-    date: 2018-04-01 15:15:00
+    date: 2018-04-01 16:30:00
     location: Blijburg
     venue: Amsterdam (NL)
     url: 'http://www.blijburg.nl'
@@ -36,11 +36,6 @@ gigs:
     location: Ruigoord
     venue: Amsterdam  (NL)
     url: 'http://www.ruigoord.nl'
-  - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-03-28 08:30:00
-    location: Goudse Schouwburg
-    venue: Gouda (NL)
-    url: 'http://www.goudseschouwburg.nl'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-03-30 20:30:00
     location: Griffioen Theater
@@ -86,16 +81,6 @@ gigs:
     location: Porgy & Bess
     venue: Terneuzen (NL)
     url: 'http://www.porgyenbess.nl'
-  - title: Mike del Ferro trio
-    date: 2018-03-20 20:00:00
-    location: Luxor theater
-    venue: Zutphen (NL)
-    url: 'https://www.facebook.com/jazzinluxor'
-  - title: Mike del Ferro trio (afternoon concert!)
-    date: 2018-03-25 15:00:00
-    location: Rosa Spier Huis
-    venue: Laren (NL Noord Holland)
-    url: 'http://rosaspierhuis.nl'
   - title: Mike del Ferro & Mike Boddé - Mike Kwadraat
     date: 2018-11-20 22:00:00
     location: Luxor
