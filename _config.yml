@@ -1,56 +1,39 @@
 gigs:
-  - title: >-
-      Mike del Ferro and Friends, Sunday Afternoon at Splendor, special guest
-      Kim Hoorweg
-    date: 2018-04-15 16:00:00
-    location: Splendor
-    venue: Amsterdam (NL)
-    url: 'http://www.splendoramsterdam.com'
+  - title: 'Mike del Ferro, Tony Lakatos, Sebastian Netta and Uli Wentzlaff'
+    date: 2018-06-03 16:00:00
+    location: TBA
+    venue: Münster (Germany)
+    url:
   - title: 'Summer evening up in the Dom tower, Utrecht'
     date: 2018-08-20 20:00:00
     location: Domtoren
     venue: Utrecht (NL)
     url: 'http://www.klokkenspelvereniging.nl'
   - title: Harp festival with Sitar Master Niladri Kumar
-    date: 2018-05-13 15:15:00
+    date: 2018-05-13 16:00:00
     location: Tivoli Vredenburg
     venue: Utrecht
     url: 'http://harpfestival.nl/nl/'
-  - title: 'Lisbon Jazz school, artist in residence , 11 & 12 April'
-    date: 2018-04-11 10:00:00
-    location: ESML University
-    venue: 'Lisbon, Portugal'
+  - title: Mike Boddé & Mike del Ferro
+    date: 2018-12-21 20:00:00
+    location: Lantaren Venster
+    venue: Rotterdam (NL)
+    url: 'http://www.lantarenvenster.nl'
+  - title: 'Jazz meets Bernstein, Mike del Ferro trio with Deborah Carter'
+    date: 2018-07-01 16:00:00
+    location: TBA
+    venue: Bishkek (Kyrgistan)
     url:
-  - title: 'Sunday afternoon Jazz sessions , guest TBA'
-    date: 2018-05-06 16:00:00
+  - title: Solo performance at Pianists evening in Amsterdam
+    date: 2018-06-06 20:00:00
     location: Splendor
-    venue: Amsterdam (NL)
-    url: 'http://www.splendoramsterdam.com'
-  - title: Mike del Ferro trio & Zoumana Diarra from Mali (afternoon concert!)
-    date: 2018-05-20 15:15:00
-    location: Ruigoord
     venue: Amsterdam  (NL)
-    url: 'http://www.ruigoord.nl'
+    url: 'http://www.splendoramsterdam.com'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-05-08 20:30:00
     location: Griffioen Theater
     venue: Amstelveen
     url: 'http://www.griffioen.vu.nl'
-  - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-04-04 20:15:00
-    location: De Veste
-    venue: Delft (NL)
-    url: 'http://www.theaterdeveste.nl'
-  - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-04-07 20:00:00
-    location: Schouwburg Odeon
-    venue: Zwolle (NL)
-    url: 'http://www.zwolsetheaters.nl'
-  - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-04-20 20:30:00
-    location: Energiehuis
-    venue: Dordrecht
-    url: 'http://www.kunstmin.nl'
   - title: Mike del Ferro Solo Concert
     date: 2018-05-19 20:00:00
     location: Munganga
@@ -71,23 +54,8 @@ gigs:
     location: Porgy & Bess
     venue: Terneuzen (NL)
     url: 'http://www.porgyenbess.nl'
-  - title: Mike del Ferro & Mike Boddé - Mike Kwadraat
-    date: 2018-11-20 22:00:00
-    location: Luxor
-    venue: Zutphen (NL)
-    url: 'https://www.facebook.com/jazzinluxor'
   - title: Mike del Ferro-Jazz meets Bernstein
     date: 2018-07-28 20:00:00
     location: TBA
     venue: Tirana (Albania)
     url:
-  - title: Solo recital (afternoon!)
-    date: 2018-04-21 15:30:00
-    location: Het Klavier
-    venue: Vorden (NL)
-    url: 'https://www.het-klavier.nl'
-  - title: Mike del Ferro & Judith Scholten "my name is" theatre production
-    date: 2018-05-26 11:30:00
-    location: Opera dagen
-    venue: Rotterdam
-    url: 'https://www.operadagenrotterdam.nl'
