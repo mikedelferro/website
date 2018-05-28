@@ -1,19 +1,19 @@
 gigs:
   - title: 'Mike del Ferro, Tony Lakatos, Sebastian Netta and Uli Wentzlaff'
     date: 2018-06-03 16:00:00
-    location: TBA
+    location: muensterland studios.
     venue: Münster (Germany)
-    url:
-  - title: 'Summer evening up in the Dom tower, Utrecht'
+    url: 'http://www.muensterlandstudios.de'
+  - title: 'Summer evening up in the Dom tower, Utrecht with the music of Sting'
     date: 2018-08-20 20:00:00
     location: Domtoren
     venue: Utrecht (NL)
     url: 'http://www.klokkenspelvereniging.nl'
-  - title: Harp festival with Sitar Master Niladri Kumar
-    date: 2018-05-13 16:00:00
+  - title: 'Canto Ostinato meets Jazz, Mike del Ferro & Jeroen van Veen'
+    date: 2018-06-09 20:00:00
     location: Tivoli Vredenburg
     venue: Utrecht
-    url: 'http://harpfestival.nl/nl/'
+    url: 'https://www.facebook.com/events/1479100408868491/'
   - title: Mike Boddé & Mike del Ferro
     date: 2018-12-21 20:00:00
     location: Lantaren Venster
@@ -29,16 +29,16 @@ gigs:
     location: Splendor
     venue: Amsterdam  (NL)
     url: 'http://www.splendoramsterdam.com'
-  - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-05-08 20:30:00
-    location: Griffioen Theater
-    venue: Amstelveen
-    url: 'http://www.griffioen.vu.nl'
-  - title: Mike del Ferro Solo Concert
-    date: 2018-05-19 20:00:00
-    location: Munganga
-    venue: Amsterdam (NL)
-    url: 'http://www.munganga.nl'
+  - title: Mike del Ferro trio
+    date: 2018-06-16 15:30:00
+    location: TBA
+    venue: Zeeland
+    url:
+  - title: Mike del Ferro wit members of the Rotterdam Philharmonic
+    date: 2018-06-21 20:00:00
+    location: TBA
+    venue: Paris (F)
+    url:
   - title: Mike del Ferro & Svenja Staats
     date: 2018-06-10 15:00:00
     location: Ambassador hotel
