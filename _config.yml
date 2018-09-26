@@ -1,10 +1,10 @@
 gigs:
-  - title: Mike del Ferro solo recital
-    date: 2018-09-24 19:00:00
-    location: Rene van Beeck's stage
-    venue: Amsterdam (NL)
+  - title: Yoga & Soundscapes in the early morning 7am!! With André Heuvelman
+    date: 2018-10-21 07:00:00
+    location:
+    venue: Rotterdam (NL)
     url: >-
-      https://www.facebook.com/René-van-Beeck-pianos-vleugels-podium-229411223771915/?timeline_context_item_type=intro_card_work&timeline_context_item_source=1092073354&fref=tag
+      http://www.rotterdamsphilharmonisch.nl/nl/concerten/andré-heuvelman-yoga-soundscapes
   - title: Mike Boddé & Mike del Ferro
     date: 2018-12-21 20:00:00
     location: Lantaren Venster
@@ -16,25 +16,26 @@ gigs:
     venue: Amsterdam (NL)
     url: 'https://www.splendoramsterdam.com'
   - title: Masterclass
-    date: 2018-11-14 10:00:00
+    date: 2018-11-14 15:00:00
     location: Jazz Schule
     venue: Basel (CH)
     url:
-  - title: Mike del Ferro & Kim Hoorweg
-    date: 2018-07-25 20:00:00
-    location: Albania Jazz festival
-    venue: Tirana (Albania)
-    url:
+  - title: Mike del Ferro & Mike Boddé & Mystery Guest
+    date: 2018-10-13 20:00:00
+    location: Pianoduo festival - Amstelkerk
+    venue: Amsterdam (NL)
+    url: 'https://www.pianoduofestival.nl'
   - title: Mike del Ferro & Mike Boddé - Mike Kwadraat
     date: 2018-11-17 20:30:00
     location: Porgy & Bess
     venue: Terneuzen (NL)
     url: 'http://www.porgyenbess.nl'
-  - title: Mike del Ferro. Masterclass
-    date: 2018-07-28 20:00:00
-    location: TBA
-    venue: Tirana (Albania)
-    url:
+  - title: 'Mike del Ferro, Rogerio Boccato, Hermine Deurloo, Joris Teepe'
+    date: 2018-10-30 20:00:00
+    location: De Oosterpoort
+    venue: Groningen (NL)
+    url: >-
+      https://www.de-oosterpoort.nl/programma/joris-teepe-presents-nyctg-rogerio-boccato-30-oktober/
   - title: 'Mike Boddé & Mike del Ferro, Mike Kwadraat'
     date: 2018-12-21 20:00:00
     location: Lantaren Venster
