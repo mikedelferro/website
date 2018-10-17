@@ -45,12 +45,13 @@ gigs:
     date: 2019-01-11 20:00:00
     location: Meervaart
     venue: Amsterdam (NL)
-    url:
+    url: >-
+      https://www.meervaart.nl/theater/programma/details/3876/mike-del-ferro-trio-e.a./new-belcanto:-opera-meets-jazz
   - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-03 20:00:00
     location: De Flint
     venue: Amersfoort (NL
-    url:
+    url: 'https://www.ntk.nl/voorstelling/new-belcanto-opera-meets-jazz'
   - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-04 20:00:00
     location: De Vereeniging
