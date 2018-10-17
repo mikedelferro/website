@@ -24,7 +24,7 @@ gigs:
     date: 2018-11-30 20:30:00
     location: Splendor
     venue: Amsterdam (NL)
-    url: 'https://www.splendoramsterdam.com'
+    url: 'https://www.facebook.com/events/344345936136996/'
   - title: Mike del Ferro & Mike Boddé - Mike Kwadraat
     date: 2018-11-17 20:30:00
     location: Porgy & Bess
@@ -41,44 +41,32 @@ gigs:
     location: Lantaren Venster
     venue: Rotterdam (NL)
     url: 'https://www.lantarenvenster.nl/programma/mike-kwadraat/'
-  - title: >-
-      Opera meets Jazz! With members of the Metropole orchestra & Claron
-      McFadden
+  - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-11 20:00:00
     location: Meervaart
     venue: Amsterdam (NL)
     url:
-  - title: >-
-      Opera meets Jazz! With members of the Metropole orchestra & Claron
-      McFadden
+  - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-03 20:00:00
     location: De Flint
     venue: Amersfoort (NL
     url:
-  - title: >-
-      Opera meets Jazz! With members of the Metropole orchestra & Claron
-      McFadden
+  - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-04 20:00:00
     location: De Vereeniging
     venue: Nijmegen (NL)
     url:
-  - title: >-
-      Opera meets Jazz! With members of the Metropole orchestra & Claron
-      McFadden
+  - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-05 20:00:00
     location: Theater
     venue: Hoorn (NL)
     url:
-  - title: >-
-      Opera meets Jazz! With members of the Metropole orchestra & Claron
-      McFadden
+  - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-09 20:00:00
     location: Nieuwe Luxor
     venue: Rotterdam (NL)
     url:
-  - title: >-
-      Opera meets Jazz! With members of the Metropole orchestra & Claron
-      McFadden
+  - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-10 20:00:00
     location: Theater
     venue: Enschede (NL)
@@ -100,7 +88,7 @@ gigs:
     url: 'https://www.tivolivredenburg.nl/agenda/mike-kwadraat-16-11-2018/'
   - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
     date: 2018-11-20 22:00:00
-    location: The Tower
+    location: Jazz at the the Tower
     venue: Zutphen (NL)
     url: 'https://www.facebook.com/jazzatthetower/'
   - title: with Michael Moore
@@ -133,3 +121,8 @@ gigs:
     location: USA
     venue:
     url:
+  - title: with Michael Moore
+    date: 2018-12-01 20:00:00
+    location: Splendor
+    venue: Amsterdam
+    url: 'https://www.splendoramsterdam.com'
