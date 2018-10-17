@@ -1,7 +1,7 @@
 gigs:
   - title: Yoga & Soundscapes in the early morning 7am!! With André Heuvelman
     date: 2018-10-21 07:00:00
-    location:
+    location: Gebouw De Rotterdam
     venue: Rotterdam (NL)
     url: >-
       http://www.rotterdamsphilharmonisch.nl/nl/concerten/andré-heuvelman-yoga-soundscapes
@@ -20,11 +20,11 @@ gigs:
     location: Jazz Schule
     venue: Basel (CH)
     url:
-  - title: Mike del Ferro & Mike Boddé & Mystery Guest
-    date: 2018-10-13 20:00:00
-    location: Pianoduo festival - Amstelkerk
+  - title: 'The Magic of Nomads from Kazachstan, with Mike del Ferro'
+    date: 2018-11-30 20:30:00
+    location: Splendor
     venue: Amsterdam (NL)
-    url: 'https://www.pianoduofestival.nl'
+    url: 'https://www.splendoramsterdam.com'
   - title: Mike del Ferro & Mike Boddé - Mike Kwadraat
     date: 2018-11-17 20:30:00
     location: Porgy & Bess
