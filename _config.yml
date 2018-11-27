@@ -1,34 +1,19 @@
 gigs:
-  - title: 'Mike Boddé & Mike del Ferro, Mike Kwadraat'
-    date: 2018-11-24 20:30:00
-    location: Splendor
-    venue: Amsterdam (NL)
-    url: 'https://www.splendoramsterdam.com'
   - title: 'Tour Japan, May 2019, more details soon'
     date: 2019-05-12 20:00:00
     location:
     venue: Japan
     url:
-  - title: Mike del Ferro trio & David Linx
+  - title: Mike del Ferro & David Linx
     date: 2018-12-15 20:30:00
     location: Splendor
     venue: Amsterdam (NL)
     url: 'https://www.splendoramsterdam.com'
-  - title: Masterclass
-    date: 2018-11-14 15:00:00
-    location: Jazz Schule
-    venue: Basel (CH)
-    url:
   - title: 'The Magic of Nomads from Kazachstan, with Mike del Ferro'
     date: 2018-11-30 20:30:00
     location: Splendor
     venue: Amsterdam (NL)
     url: 'https://www.facebook.com/events/344345936136996/'
-  - title: Mike del Ferro & Mike Boddé - Mike Kwadraat
-    date: 2018-11-17 20:30:00
-    location: Porgy & Bess
-    venue: Terneuzen (NL)
-    url: 'http://www.porgyenbess.nl'
   - title: Mike del Ferro & Maya friedman
     date: 2019-02-16 20:30:00
     location: Munganga
@@ -43,8 +28,7 @@ gigs:
     date: 2019-01-11 20:00:00
     location: Meervaart
     venue: Amsterdam (NL)
-    url: >-
-      https://www.meervaart.nl/theater/programma/details/3876/mike-del-ferro-trio-e.a./new-belcanto:-opera-meets-jazz
+    url: 'https://www.ntk.nl/voorstelling/new-belcanto-opera-meets-jazz'
   - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-03 20:00:00
     location: De Flint
@@ -54,25 +38,22 @@ gigs:
     date: 2019-01-04 20:00:00
     location: De Vereeniging
     venue: Nijmegen (NL)
-    url: >-
-      https://www.stadsschouwburgendevereeniging.nl/programma/4110/Mike_del_Ferro_Trio_ft_Claron_McFadden_i_s_m_musici_uit_het_Metropole_Orkest/New_Belcanto_Opera_Meets_Jazz
+    url: 'https://www.ntk.nl/voorstelling/new-belcanto-opera-meets-jazz'
   - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-05 20:00:00
     location: Theater
     venue: Hoorn (NL)
-    url: >-
-      https://www.hetpark.nl/voorstellingen/10224/New_Belcanto_Opera_Meets_Jazz/Mike_del_Ferro_Trio_ft_Claron_McFadden/?gclid=CjwKCAjwu5veBRBBEiwAFTqDwZ9gG_D35ZCzxKD65c1x3yg626grq_eRW5q2fHr2FdT9GptJ-V11xhoCzJ8QAvD_BwE&type=show
+    url: 'https://www.ntk.nl/voorstelling/new-belcanto-opera-meets-jazz'
   - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-09 20:00:00
     location: Nieuwe Luxor
     venue: Rotterdam (NL)
-    url: >-
-      https://www.luxortheater.nl/voorstellingen/4332/Mike_del_Ferro_Trio_ft_Claron_McFadden_en_het_Metropole_Orkest/Opera_meets_Jazz/
+    url: 'https://www.ntk.nl/voorstelling/new-belcanto-opera-meets-jazz'
   - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-10 20:00:00
     location: Theater
     venue: Enschede (NL)
-    url:
+    url: 'https://www.ntk.nl/voorstelling/new-belcanto-opera-meets-jazz'
   - title: 'Tour Norway, more details soon'
     date: 2019-05-04 20:00:00
     location: Norway
@@ -83,17 +64,7 @@ gigs:
     location: Pianino
     venue: Den Haag (NL)
     url: 'https://www.facebook.com/pianinotheater/'
-  - title: 'Mike del Ferro & Mike Boddé,, Mike Kwadraat'
-    date: 2018-11-16 20:00:00
-    location: Tivoli Vredenburg
-    venue: Utrecht
-    url: 'https://www.tivolivredenburg.nl/agenda/mike-kwadraat-16-11-2018/'
-  - title: 'Mike del Ferro & Mike Boddé, Mike kwadraat'
-    date: 2018-11-20 22:00:00
-    location: Jazz at the the Tower
-    venue: Zutphen (NL)
-    url: 'https://www.facebook.com/jazzatthetower/'
-  - title: solo recital in Amsterdam
+  - title: solo recital in Amsterdam with Visuals
     date: 2019-02-02 20:30:00
     location: Splendor
     venue: Amsterdam
