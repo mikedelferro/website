@@ -4,26 +4,21 @@ gigs:
     location:
     venue: Japan
     url:
-  - title: Mike del Ferro & David Linx
-    date: 2018-12-15 20:30:00
-    location: Splendor
+  - title: Mike del Ferro & Dodo Kis -Bimhuis Lab
+    date: 2019-01-28 20:30:00
+    location: Bimhuis
     venue: Amsterdam (NL)
-    url: 'https://www.splendoramsterdam.com'
-  - title: 'The Magic of Nomads from Kazachstan, with Mike del Ferro'
-    date: 2018-11-30 20:30:00
-    location: Splendor
-    venue: Amsterdam (NL)
-    url: 'https://www.facebook.com/events/344345936136996/'
-  - title: Mike del Ferro & Maya friedman
+    url: 'https://www.bimhuis.com'
+  - title: Mike del Ferro & Maya Fridman
     date: 2019-02-16 20:30:00
     location: Munganga
     venue: Amsterdam (NL)
     url: 'https://www.munganga.nl'
-  - title: 'Mike Boddé & Mike del Ferro, Mike Kwadraat'
-    date: 2018-12-21 20:00:00
-    location: Lantaren Venster
-    venue: Rotterdam (NL)
-    url: 'https://www.lantarenvenster.nl/programma/mike-kwadraat/'
+  - title: 'Mike Boddé & Mike del Ferro, Podium Witteman, live Television'
+    date: 2019-01-06 18:00:00
+    location:
+    venue:
+    url:
   - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
     date: 2019-01-11 20:00:00
     location: Meervaart
@@ -59,7 +54,9 @@ gigs:
     location: Norway
     venue:
     url:
-  - title: 'Mike del Ferro & Mike Boddé , Mike Kwadraat'
+  - title: >-
+      Mike del Ferro & André Heuvelman, Infinite Now: Concerts with beautiful
+      Visuals
     date: 2018-11-28 20:00:00
     location: Pianino
     venue: Den Haag (NL)
@@ -74,31 +71,26 @@ gigs:
     location: Pernissimo
     venue: Pernis (NL)
     url: www.pernissimo.org
-  - title: Mike del Ferro trio  & David Linx
-    date: 2018-12-05 20:00:00
-    location: De Observant
-    venue: Amersfoort
-    url: www.deobservant.nl
-  - title: Mike del Ferro trio and David Linx Concert at 1PM!)
-    date: 2018-12-09 13:00:00
-    location: Beauforthuis
-    venue: Austerlitz
-    url: www.beauforthuis.nl
+  - title: Mike del Ferro & Friends
+    date: 2019-03-23 20:00:00
+    location: Hot Clube
+    venue: Lisbon (Portugal)
+    url: 'https://www.hcp.pt'
+  - title: Mike del Ferro trio and Andre Heuvelman
+    date: 2019-03-07 21:00:00
+    location: Le poisson Rouge
+    venue: New York City (US)
+    url: 'https://www.lpr.com'
   - title: Mike del Ferro tba
-    date: 2019-03-22 13:00:00
+    date: 2019-03-22 20:00:00
     location: Hot Clube
     venue: Lissabon (Portugal)
-    url:
+    url: 'https://www.hcp.pt'
   - title: 'Tour USA , more details soon'
     date: 2019-03-04 13:00:00
     location: USA
     venue:
     url:
-  - title: with Michael Moore
-    date: 2018-12-01 20:00:00
-    location: Splendor
-    venue: Amsterdam
-    url: 'https://www.splendoramsterdam.com'
   - title: 'Duo with Jeroen van Veen, Canto Ostinato and Beyond'
     date: 2019-02-15 20:00:00
     location: Tenclub
@@ -110,8 +102,3 @@ gigs:
     venue: Culemborg (NL)
     url: >-
       https://www.degelderlandfabriek.nl/events/event/muziek-jam-jazz-pizza-josee-koning-mike-del-ferro/
-  - title: CD recordings in Belgium with David Linx
-    date: 2018-12-17 20:00:00
-    location:
-    venue:
-    url:
