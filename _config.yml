@@ -14,41 +14,6 @@ gigs:
     location: Munganga
     venue: Amsterdam (NL)
     url: 'https://www.munganga.nl'
-  - title: 'Mike Boddé & Mike del Ferro, Podium Witteman, live Television'
-    date: 2019-01-06 18:00:00
-    location:
-    venue:
-    url:
-  - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
-    date: 2019-01-11 20:00:00
-    location: Meervaart
-    venue: Amsterdam (NL)
-    url: 'https://www.ntk.nl/voorstelling/new-belcanto-opera-meets-jazz'
-  - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
-    date: 2019-01-03 20:00:00
-    location: Flint
-    venue: Amersfoort (NL
-    url: 'https://www.ntk.nl/voorstelling/new-belcanto-opera-meets-jazz'
-  - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
-    date: 2019-01-04 20:00:00
-    location: De Vereeniging
-    venue: Nijmegen (NL)
-    url: 'https://www.ntk.nl/voorstelling/new-belcanto-opera-meets-jazz'
-  - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
-    date: 2019-01-05 20:00:00
-    location: Theater
-    venue: Hoorn (NL)
-    url: 'https://www.ntk.nl/voorstelling/new-belcanto-opera-meets-jazz'
-  - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
-    date: 2019-01-09 20:00:00
-    location: Nieuwe Luxor
-    venue: Rotterdam (NL)
-    url: 'https://www.ntk.nl/voorstelling/new-belcanto-opera-meets-jazz'
-  - title: 'with the Metropole orchestra & Claron McFadden, Opera meets Jazz!!'
-    date: 2019-01-10 20:00:00
-    location: Theater
-    venue: Enschede (NL)
-    url: 'https://www.ntk.nl/voorstelling/new-belcanto-opera-meets-jazz'
   - title: 'Tour Norway, more details soon'
     date: 2019-05-04 20:00:00
     location: Norway
@@ -61,7 +26,9 @@ gigs:
     location: Pianino
     venue: Den Haag (NL)
     url: 'https://www.facebook.com/pianinotheater/'
-  - title: solo recital in Amsterdam with Visuals
+  - title: >-
+      Mike del Ferro & André Heuvelman, Infinite Now: Concerts with beautiful
+      Visuals
     date: 2019-02-02 20:30:00
     location: Splendor
     venue: Amsterdam
@@ -87,7 +54,7 @@ gigs:
     venue: Lissabon (Portugal)
     url: 'https://www.hcp.pt'
   - title: 'Tour USA , more details soon'
-    date: 2019-03-04 13:00:00
+    date: 2019-02-28 13:00:00
     location: USA
     venue:
     url:
