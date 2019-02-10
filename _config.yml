@@ -19,13 +19,11 @@ gigs:
     location: Norway
     venue:
     url:
-  - title: >-
-      Mike del Ferro & André Heuvelman, Infinite Now: Concert with beautiful
-      Visuals
-    date: 2019-02-08 20:00:00
-    location: Pianino
-    venue: Den Haag (NL)
-    url: 'https://www.facebook.com/pianinotheater/'
+  - title: Holland Americas Group
+    date: 2019-03-08 20:00:00
+    location: ShapeShifter Lab
+    venue: New York City (USA)
+    url: 'https://shapeshifterlab.com/'
   - title: Mike del Ferro trio
     date: 2019-03-03 20:30:00
     location: Velvet Note
