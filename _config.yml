@@ -5,16 +5,16 @@ gigs:
     venue: New York City (US)
     url: >-
       https://lpr.com/lpr_events/holland-americas-group-march-10-2019/?fbclid=IwAR2aZ_JvuaiGPU5yBcsPoO8Wj4gpru3onaUU1wL3h4It25RKbOBWQtAtCDE
-  - title: 'Tour Japan, May 2019, more details soon'
-    date: 2019-05-12 20:00:00
-    location:
-    venue: Japan
-    url:
   - title: Mike del Ferro solo and with Leslie Christopher (Concert at 5PM!)
     date: 2019-03-02 17:00:00
     location: 'Ken Gregory Studios, 800 East Ave Northeast, Atlanta, GA 30312-1412'
     venue: Atlanta (USA)
     url: 'https://app.eventsframe.com/e/m39GQuHiE/mike-del-ferro-live/'
+  - title: 'Tour Japan, May 2019, more details soon'
+    date: 2019-05-12 20:00:00
+    location:
+    venue: Japan
+    url:
   - title: Mike del Ferro & Maya Fridman-Jobim and more
     date: 2019-02-16 20:30:00
     location: Munganga
@@ -45,21 +45,21 @@ gigs:
     location: Le poisson Rouge
     venue: New York City (US)
     url: 'https://www.lpr.com'
-  - title: 'Mike del Ferro 4tet with Ricardo Pinheiro, Massimo Cavalli and Joel Silva'
-    date: 2019-03-22 20:00:00
-    location: Hot Clube
-    venue: Lissabon (Portugal)
-    url: 'https://www.hcp.pt'
   - title: Holland Americas Group with Andre Heuvelman and Santiago Cimadevilla
     date: 2019-03-08 18:00:00
     location: Areté Venue & Gallery
     venue: New York (USA)
     url: 'https://www.aretevenue.com'
-  - title: 'Duo with Jeroen van Veen, Canto Ostinato and Beyond'
-    date: 2019-02-15 20:00:00
-    location: Tenclub
-    venue: Amsterdam
-    url: 'https://www.facebook.com/onbehalfoftenclub/'
+  - title: 'Mike del Ferro 4tet with Ricardo Pinheiro, Massimo Cavalli and Joel Silva'
+    date: 2019-03-22 20:00:00
+    location: Hot Clube
+    venue: Lissabon (Portugal)
+    url: 'https://www.hcp.pt'
+  - title: With Maya Fridman and Sebastian Netta (afternoon)
+    date: 2019-04-14 15:00:00
+    location: TBA
+    venue: Münster (Germany)
+    url:
   - title: 'Duo with Josee Koning, Brazilian Songs (Afternoon Concert!)'
     date: 2019-02-17 20:00:00
     location: Gelderlandfabriek
