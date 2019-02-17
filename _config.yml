@@ -15,17 +15,17 @@ gigs:
     location: Body and Soul
     venue: Tokyo- Japan
     url: www.bodyandsoul.co.jp
-  - title: with Zoumana Diarra
-    date: 2019-06-01 20:30:00
-    location: Munganga
-    venue: Amsterdam (NL)
-    url: 'https://www.munganga.nl'
   - title: Holland Americas Group
     date: 2019-03-08 20:00:00
     location: ShapeShifter Lab
     venue: New York City (USA)
     url: 'https://shapeshifterlab.com/'
-  - title: Mike del Ferro trio
+  - title: with Zoumana Diarra
+    date: 2019-06-01 20:30:00
+    location: Munganga
+    venue: Amsterdam (NL)
+    url: 'https://www.munganga.nl'
+  - title: Mike del Ferro trio and special guest Nikolai Panov
     date: 2019-03-03 20:30:00
     location: Velvet Note
     venue: Atlanta (USA)
@@ -40,16 +40,6 @@ gigs:
     location: Hot Clube
     venue: Lisbon (Portugal)
     url: 'https://www.hcp.pt'
-  - title: Holland Americas Group with Andre Heuvelman and Santiago Cimadevilla
-    date: 2019-03-10 11:00:00
-    location: Le poisson Rouge
-    venue: New York City (US)
-    url: 'https://www.lpr.com'
-  - title: Holland Americas Group with Andre Heuvelman and Santiago Cimadevilla
-    date: 2019-03-08 18:00:00
-    location: Areté Venue & Gallery
-    venue: New York (USA)
-    url: 'https://www.aretevenue.com'
   - title: 'Mike del Ferro 4tet with Ricardo Pinheiro, Massimo Cavalli and Joel Silva'
     date: 2019-03-22 20:00:00
     location: Hot Clube
@@ -60,12 +50,11 @@ gigs:
     location: TBA
     venue: Münster (Germany)
     url:
-  - title: 'Duo with Josee Koning, Brazilian Songs (Afternoon Concert!)'
+  - title: Mike del Ferro trio with Sebastiaan Kaptein and Yasuhito Mori
     date: 2019-02-17 20:00:00
-    location: Gelderlandfabriek
-    venue: Culemborg (NL)
-    url: >-
-      https://www.degelderlandfabriek.nl/events/event/muziek-jam-jazz-pizza-josee-koning-mike-del-ferro/
+    location: TBA
+    venue: Hamamatsu-Japan
+    url:
   - title: Clinic "selfmanagement and networking for musicians"
     date: 2019-03-11 18:00:00
     location: Berklee
