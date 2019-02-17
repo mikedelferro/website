@@ -1,4 +1,10 @@
 gigs:
+  - title: Holland Americas Group
+    date: 2019-03-10 17:00:00
+    location: Le Poisson Rouge
+    venue: New York City (US)
+    url: >-
+      https://lpr.com/lpr_events/holland-americas-group-march-10-2019/?fbclid=IwAR2aZ_JvuaiGPU5yBcsPoO8Wj4gpru3onaUU1wL3h4It25RKbOBWQtAtCDE
   - title: 'Tour Japan, May 2019, more details soon'
     date: 2019-05-12 20:00:00
     location:
@@ -14,11 +20,6 @@ gigs:
     location: Munganga
     venue: Amsterdam (NL)
     url: 'https://www.munganga.nl'
-  - title: 'Tour Norway, more details soon'
-    date: 2019-05-04 20:00:00
-    location: Norway
-    venue:
-    url:
   - title: Holland Americas Group
     date: 2019-03-08 20:00:00
     location: ShapeShifter Lab
