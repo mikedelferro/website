@@ -50,16 +50,16 @@ gigs:
     location: TBA
     venue: Münster (Germany)
     url:
-  - title: Mike del Ferro trio with Sebastiaan Kaptein and Yasuhito Mori
-    date: 2019-02-17 20:00:00
-    location: TBA
-    venue: Hamamatsu-Japan
-    url:
   - title: Clinic "selfmanagement and networking for musicians"
     date: 2019-03-11 18:00:00
     location: Berklee
     venue: Boston (USA)
     url: 'https://bostonconservatory.berklee.edu'
+  - title: Mike del Ferro trio with Sebastiaan Kaptein and Yasuhito Mori
+    date: 2019-05-16 20:00:00
+    location: TBA
+    venue: Hamamatsu-Japan
+    url:
   - title: Mike del Ferro Solo recital (at Noon!)
     date: 2019-03-13 12:00:00
     location: Lafayette College
