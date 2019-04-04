@@ -9,7 +9,7 @@ gigs:
     location: City Hall
     venue: Hirado (Japan)
     url:
-  - title: Mike del Ferro trio with Sebastiaan Kaptein and Yasuhito Mori
+  - title: Mike del Ferro and Yasuhito Mori
     date: 2019-05-24 20:00:00
     location: Body and Soul
     venue: Tokyo- Japan
@@ -24,65 +24,63 @@ gigs:
     location: Munganga
     venue: Amsterdam (NL)
     url: 'https://www.munganga.nl'
-  - title:
-    date: 2019-03-03 20:30:00
-    location: Velvet Note
-    venue: Atlanta (USA)
-    url: 'https://thevelvetnote.com/'
+  - title: Mike del Ferro & Yasuhito Mori
+    date: 2019-05-21 20:30:00
+    location: Umeda Always
+    venue: Osaka (Japan)
+    url: 'http://www.always-live.info'
   - title: 'The Infinite now, Mesmerizing Visuals with Live Music'
     date: 2019-04-11 20:00:00
     location: Pernissimo
     venue: Pernis (NL)
     url: www.pernissimo.org
-  - title: 'Mike del Ferro 4tet with Ricardo Pinheiro, Massimo Cavalli and Joel Silva'
-    date: 2019-03-23 20:00:00
-    location: Hot Clube
-    venue: Lisbon (Portugal)
-    url: 'https://www.hcp.pt'
-  - title: 'Mike del Ferro 4tet with Ricardo Pinheiro, Massimo Cavalli and Joel Silva'
-    date: 2019-03-22 20:00:00
-    location: Hot Clube
-    venue: Lissabon (Portugal)
-    url: 'https://www.hcp.pt'
+  - title: Mike del Ferro and Yasuhito Mori
+    date: 2019-05-20 19:00:00
+    location: Tamachi Salong
+    venue: Hamamatsu (Japan)
+    url: 'http://08artforme.com'
+  - title: Mike del Ferro and Yasuhito Mori
+    date: 2019-05-23 19:00:00
+    location: Jazz Flash
+    venue: Niigata (Japan)
+    url: 'https://r.goope.jp/jazzflash'
   - title: With Maya Fridman and Sebastian Netta (afternoon)
     date: 2019-04-14 15:00:00
     location: TBA
     venue: Münster (Germany)
     url:
-  - title: Clinic "selfmanagement and networking for musicians"
-    date: 2019-03-11 18:00:00
-    location: Berklee
-    venue: Boston (USA)
-    url: 'https://bostonconservatory.berklee.edu'
-  - title: Mike del Ferro trio with Sebastiaan Kaptein and Yasuhito Mori
-    date: 2019-05-16 20:00:00
+  - title: >-
+      Piano duo Mike del Ferro & Jeroen van Veen - Gershwin program-afternoon
+      Concert
+    date: 2019-05-26 16:30:00
+    location: Grote Kerk
+    venue: Edam (NL)
+    url: 'http://www.piano-edam.nl/home/4'
+  - title: Mike del Ferro
+    date: 2019-05-22 20:00:00
     location: TBA
-    venue: Hamamatsu-Japan
+    venue: Kobe-(Japan)
     url:
-  - title: Mike del Ferro Solo recital (at Noon!)
-    date: 2019-03-13 12:00:00
-    location: Lafayette College
-    venue: Easton (USA)
-    url: 'https://www.lafayette.edu/'
-  - title: 'Mike del Ferro trio with Bram Wijnands (bass), Pat Adams (Drums)'
-    date: 2019-03-14 20:00:00
-    location: Kansas City Bier Company
-    venue: Kansas City (USA)
-    url: 'https://kcbier.com'
-  - title: >-
-      Mike del Ferro trio with Bram Wijnands (bass), Pat Adams (Drums) & Bobby
-      Watson
-    date: 2019-03-15 20:00:00
-    location: The Majestic
-    venue: Kansas City (USA)
-    url: 'http://majestickc.com/upcoming-shows/'
-  - title: >-
-      Mike del Ferro trio with Bram Wijnands (bass), Pat Adams (Drums) & Bobby
-      Watson
-    date: 2019-03-16 20:00:00
-    location: The Majestic
-    venue: Kansas City (USA
-    url: 'http://majestickc.com/upcoming-shows/'
+  - title: The Infinite now- Water Conference morning concert
+    date: 2019-04-13 09:00:00
+    location: Tolhuistuin
+    venue: Amsterdam (NL)
+    url: 'https://www.rotary.nl/d1580/activiteiten/discon/programma/'
+  - title: Mike del Ferro and Jeroen van Veen- Canto Ostinato and Beyond
+    date: 2020-01-09 20:00:00
+    location: De Meerse
+    venue: Hoofddorp (NL)
+    url: 'https://www.demeerse.nl/'
+  - title: Mike del Ferro trio & Kwazulu Natal Heritage Choir - Mbuso Khoza
+    date: 2019-06-23 20:00:00
+    location: TBA
+    venue: Johannesburg (South Africa)
+    url:
+  - title: Mike del Ferro trio with Sebastian Netta - Yoga Concert
+    date: 2019-06-16 20:00:00
+    location: TBA
+    venue: Billerbeck - Münster area (Germany)
+    url:
   - title: with Andre Heuvelman and Trajecti Voices Choir
     date: 2019-04-06 20:00:00
     location: Church
