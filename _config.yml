@@ -1,9 +1,9 @@
 gigs:
   - title: 'Mike del Ferro , Solo Recital'
     date: 2019-05-17 19:00:00
-    location: Oguni Kirara Hall
+    location: Kiyora Hall
     venue: 'Minamioguni , Kyushu, (Japan)'
-    url:
+    url: 'https://g.co/kgs/62ze8m'
   - title: Mike del Ferro- Solo recital
     date: 2019-05-18 19:00:00
     location: City Hall
@@ -29,11 +29,14 @@ gigs:
     location: Umeda Always
     venue: Osaka (Japan)
     url: 'http://www.always-live.info'
-  - title: 'The Infinite now, Mesmerizing Visuals with Live Music'
-    date: 2019-04-11 20:00:00
-    location: Pernissimo
-    venue: Pernis (NL)
-    url: www.pernissimo.org
+  - title: >-
+      Lying down Concert: Mike del Ferro & Jeroen van Veen, Canto Ostinato and
+      beyond
+    date: 2019-11-07 20:00:00
+    location: Wilminktheater
+    venue: Enschede  (NL)
+    url: >-
+      https://www.wilminktheater.nl/programma/!/8162/jeroen-van-veen-mike-del-ferro/canto-ostinato-and-beyond-ligconcert/
   - title: Mike del Ferro and Yasuhito Mori
     date: 2019-05-20 19:00:00
     location: Tamachi Salong
@@ -81,18 +84,28 @@ gigs:
     location: TBA
     venue: Billerbeck - Münster area (Germany)
     url:
-  - title: with Andre Heuvelman and Trajecti Voices Choir (afternoon concert!)
-    date: 2019-04-07 16:00:00
-    location: Catharina Church
-    venue: Utrecht (NL)
-    url: 'https://www.trajectivoces.net'
-  - title: with daughter Ella del Ferro and her band
-    date: 2019-04-08 20:00:00
-    location: Melkweg
-    venue: Amsterdam (NL)
-    url: 'https://www.melkweg.nl'
+  - title: Yoga Concert with Sebastian Netta
+    date: 2019-07-07 20:00:00
+    location: TBA
+    venue: Reelkichen (Münsterland - Germany)
+    url: 'http://wuw.netta.de/project/yoga-und-achtsamkeit'
+  - title: Classic meets Jazz with Maya Fridman and Sebastian Netta
+    date: 2019-07-06 20:00:00
+    location: Monastery
+    venue: Reelkirchen (Münsterland - Germany)
+    url: 'http://wuw.netta.de/project/jazz-meets-klassik'
   - title: Mike del Ferro & Yasuhito Mori
     date: 2019-05-16 19:00:00
     location: Hermit Dolphin
     venue: Hamamatsu (Japan)
     url: 'http://www3.tokai.or.jp/hermitdolphin/'
+  - title: 'Classic meets Jazz, with Maya Fridman and Sebastian Netta'
+    date: 2019-07-20 19:00:00
+    location:
+    venue: Dulmen (Münsterland) Germany
+    url: 'http://wuw.netta.de/project/jazz-meets-klassik'
+  - title: Yoga Concert with Maya Fridman and Sebatian Netta
+    date: 2019-07-13 19:00:00
+    location: Kloster Bentlage
+    venue: Bentlage (Münsterland - Germany)
+    url: 'http://wuw.netta.de/project/yoga-und-achtsamkeit'
