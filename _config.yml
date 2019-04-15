@@ -47,14 +47,14 @@ gigs:
     location: Jazz Flash
     venue: Niigata (Japan)
     url: 'https://r.goope.jp/jazzflash'
-  - title: With Maya Fridman and Sebastian Netta (afternoon)
-    date: 2019-04-14 15:00:00
-    location: TBA
-    venue: Münster (Germany)
-    url:
+  - title: With André Heuvelman - Nachtgeluiden
+    date: 2019-07-20 15:00:00
+    location: Wonderfeel Festival
+    venue: s'Graveland (NL)
+    url: 'https://www.wonderfeel.nl'
   - title: >-
-      Piano duo Mike del Ferro & Jeroen van Veen - Gershwin program-afternoon
-      Concert
+      Piano duo Mike del Ferro & Jeroen van Veen - Bernstein & Gershwin
+      program-afternoon Concert
     date: 2019-05-26 16:30:00
     location: Grote Kerk
     venue: Edam (NL)
@@ -64,11 +64,11 @@ gigs:
     location: TBA
     venue: Kobe-(Japan)
     url:
-  - title: The Infinite now- Water Conference morning concert
-    date: 2019-04-13 09:00:00
-    location: Tolhuistuin
-    venue: Amsterdam (NL)
-    url: 'https://www.rotary.nl/d1580/activiteiten/discon/programma/'
+  - title: With Anders Bergcrantz and Hans de Waard
+    date: 2019-08-07 20:00:00
+    location: TBA
+    venue: Gällivare (Sweden)
+    url:
   - title: Mike del Ferro and Jeroen van Veen- Canto Ostinato and Beyond
     date: 2020-01-09 20:00:00
     location: De Meerse
@@ -104,8 +104,24 @@ gigs:
     location:
     venue: Dulmen (Münsterland) Germany
     url: 'http://wuw.netta.de/project/jazz-meets-klassik'
-  - title: Yoga Concert with Maya Fridman and Sebatian Netta
+  - title: Yoga Concert with Maya Fridman and Sebastian Netta
     date: 2019-07-13 19:00:00
     location: Kloster Bentlage
     venue: Bentlage (Münsterland - Germany)
     url: 'http://wuw.netta.de/project/yoga-und-achtsamkeit'
+  - title: With Anders Bergcrantz and Hans de Waard
+    date: 2019-08-08 19:00:00
+    location: TBA
+    venue: Gällivare (Sweden)
+    url:
+  - title: with Anders Bergcrantz
+    date: 2019-08-09 19:00:00
+    location: TBA
+    venue: Jokkmokk (Sweden)
+    url:
+  - title: With Anders Bergcrantz and Hans de Waard
+    date: 2019-08-10 19:00:00
+    location: Seajazz Festival
+    venue: Holmön (Sweden)
+    url: >-
+      https://www.facebook.com/story.php?story_fbid=2089312967783762&id=201487546566323
