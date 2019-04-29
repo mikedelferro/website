@@ -76,9 +76,9 @@ gigs:
     url: 'https://www.demeerse.nl/'
   - title: Mike del Ferro trio & Kwazulu Natal Heritage Choir - Mbuso Khoza
     date: 2019-06-23 20:00:00
-    location: TBA
+    location: Joburg Theatre
     venue: Johannesburg (South Africa)
-    url:
+    url: 'https://www.joburgtheatre.com/'
   - title: Mike del Ferro trio with Sebastian Netta - Yoga Concert
     date: 2019-06-16 20:00:00
     location: TBA
@@ -130,3 +130,38 @@ gigs:
     venue: Holmön (Sweden)
     url: >-
       https://www.facebook.com/story.php?story_fbid=2089312967783762&id=201487546566323
+  - title: with Mbuso Khoza
+    date: 2019-06-21 19:00:00
+    location: Headroom Studio
+    venue: Durban (South Africa)
+    url:
+  - title: with Mbuso Khoza
+    date: 2019-06-28 19:00:00
+    location: Alliance Francaise
+    venue: Durban (South Africa)
+    url:
+  - title: with Wayne Escoffery
+    date: 2019-08-10 19:00:00
+    location: Hnita Jazz
+    venue: Heist op den Berg (Belgium)
+    url: 'https://www.hnitajazzclub.be/'
+  - title: with Wayne Escoffery
+    date: 2019-06-09 16:00:00
+    location: Archiduc
+    venue: Brussels (Belgium)
+    url: 'http://www.archiduc.net/nl'
+  - title: Infinite now- Mezmerizing Visuals with live concert
+    date: 2019-06-14 20:00:00
+    location: Tenclub
+    venue: Amsterdam (NL)
+    url: 'https://www.facebook.com/onbehalfoftenclub/'
+  - title: 'infinite now-mesmerizing Visuals, with Jeoren van Veen and Andre Heuvelman'
+    date: 2019-07-10 20:00:00
+    location: Pernissio
+    venue: Pernis (Rotterdam area)
+    url: www.pernissimo.org
+  - title: Canto Ostinato - Dom Tower -with Jeroen van Veen and Malgosia Fiebig
+    date: 2019-08-19 20:00:00
+    location: Dom Tower
+    venue: Utrecht
+    url: 'https://www.klokkenspelvereniging.nl/'
