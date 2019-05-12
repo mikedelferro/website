@@ -8,7 +8,8 @@ gigs:
     date: 2019-05-18 18:30:00
     location: City Hall
     venue: Hirado (Japan)
-    url:
+    url: >-
+      https://www.facebook.com/photo.php?fbid=10161843721770066&set=a.230920300065&type=3&theater
   - title: Mike del Ferro and Yasuhito Mori
     date: 2019-05-24 20:00:00
     location: Body and Soul
@@ -16,7 +17,7 @@ gigs:
     url: www.bodyandsoul.co.jp
   - title: Mike del Ferro and Yasuhito Mori (afternoon concert!)
     date: 2019-05-19 15:00:00
-    location: U3Chi
+    location: U3Chi  u3chi@yahoo.co.jp
     venue: 'Saitama, Tokyo Region (Japan)'
     url:
   - title: with Zoumana Diarra
@@ -63,7 +64,8 @@ gigs:
     date: 2019-05-22 20:00:00
     location: Request Club
     venue: Kobe-(Japan)
-    url:
+    url: >-
+      https://www.facebook.com/photo.php?fbid=2226118000798024&set=a.208192395923938&type=3&theater
   - title: With Anders Bergcrantz and Hans de Waard
     date: 2019-08-07 20:00:00
     location: TBA
