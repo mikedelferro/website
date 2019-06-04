@@ -52,13 +52,6 @@ gigs:
     location: Wonderfeel Festival
     venue: s'Graveland (NL)
     url: 'https://www.wonderfeel.nl'
-  - title: >-
-      Piano duo Mike del Ferro & Jeroen van Veen - Bernstein & Gershwin
-      program-afternoon Concert
-    date: 2019-05-26 16:30:00
-    location: Grote Kerk
-    venue: Edam (NL)
-    url: 'http://www.piano-edam.nl/home/4'
   - title: Mike del Ferro
     date: 2019-05-22 20:00:00
     location: Request Club
@@ -151,7 +144,7 @@ gigs:
     location: Archiduc
     venue: Brussels (Belgium)
     url: 'http://www.archiduc.net/nl'
-  - title: Nachtgeluiden (Night SOunda)- with Andre Heuvelman
+  - title: Nachtgeluiden (Night Sounds)- with Andre Heuvelman
     date: 2019-09-06 20:00:00
     location: Open Air Theatre / Forest
     venue: Kwintelooijen (NL)
