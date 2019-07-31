@@ -6,12 +6,12 @@ gigs:
     url: 'https://www.swingopdebrink.nl/klassiek-op-de-brink/'
   - title: Meditative Concert with Mesmerizing Visuals
     date: 2019-11-09 20:00:00
-    location: Tenclun
+    location: Tenclub
     venue: Amsterdam
     url: 'https://www.tenclub.nl/'
   - title: with Andre Heuvelman - Nachtgeluiden
     date: 2019-08-30 20:00:00
-    location: TBA
+    location: Schuur
     venue: Wassenaar (NL)
     url: 'https://andreheuvelman.com'
   - title: with Gabriel Grossi
@@ -47,11 +47,6 @@ gigs:
     location: Agnietenhof Theater
     venue: Tiel (NL)
     url: www.agnietenhof.nl
-  - title: With André Heuvelman - Nachtgeluiden
-    date: 2019-07-20 15:00:00
-    location: Wonderfeel Festival
-    venue: s'Graveland (NL)
-    url: 'https://www.wonderfeel.nl'
   - title: 'Mike del Ferro with Andrea Caruso, Classic meets Jazz (afternoon concert)'
     date: 2019-09-29 15:00:00
     location: TBA
@@ -86,11 +81,6 @@ gigs:
     location: Rogner Hotel
     venue: Tirana (Albania)
     url:
-  - title: Yoga Concert with Maya Fridman and Sebastian Netta
-    date: 2019-07-13 19:00:00
-    location: Kloster Bentlage
-    venue: Bentlage (Münsterland - Germany)
-    url: 'http://wuw.netta.de/project/yoga-und-achtsamkeit'
   - title: With Anders Bergcrantz and Hans de Waard
     date: 2019-08-08 19:00:00
     location: TBA
