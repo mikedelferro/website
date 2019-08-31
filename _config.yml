@@ -63,13 +63,6 @@ gigs:
     location: Barbara Kerk
     venue: Culemborg (NL)
     url: 'http://www.pianoculemborg.nl/jubileum-concert/'
-  - title: >-
-      Slow Water Music - Live Concert with Mesmerizing Visuals of Water and
-      Light-with Jeroen van Veen, Andre Heuvelman and Frans de Rond
-    date: 2019-08-22 20:00:00
-    location: Beauforthuis
-    venue: Austerlitz (NL
-    url: www.beauforthuis.nl
   - title: 'Mike del Ferro Trio, Albania Jazz festival'
     date: 2019-10-12 20:00:00
     location: Rogner Hotel
@@ -85,8 +78,3 @@ gigs:
     location: Open Air Theatre / Forest
     venue: Kwintelooijen (NL)
     url: 'https://www.andreheuvelman.nl'
-  - title: Canto Ostinato - Dom Tower -with Jeroen van Veen and Malgosia Fiebig
-    date: 2019-08-19 20:00:00
-    location: Dom Tower
-    venue: Utrecht
-    url: 'https://www.klokkenspelvereniging.nl/'
