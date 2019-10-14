@@ -1,13 +1,8 @@
 gigs:
-  - title: with Johan van der Linden (afternoon concert!)
-    date: 2019-09-08 14:00:00
-    location: Brink
-    venue: Muiderberg (NL)
-    url: 'https://www.swingopdebrink.nl/klassiek-op-de-brink/'
-  - title: 'With Maya Fridman and others, Details TBA'
-    date: 2019-10-17 20:00:00
-    location: TBA
-    venue:
+  - title: With Maya Fridman and Farid Sheek
+    date: 2019-10-17 17:00:00
+    location: Migratie Museum
+    venue: Den Haag
     url:
   - title: Haiti Jazz Festival with James Germain
     date: 2020-01-18 19:30:00
