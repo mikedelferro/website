@@ -1,6 +1,6 @@
 gigs:
-  - title: Haiti Jazz Festival with James Germain
-    date: 2020-01-18 19:30:00
+  - title: Haiti Jazz Festival
+    date: 2020-01-23 19:30:00
     location: Port au Prince
     venue: Haiti
     url: 'http://papjazzhaiti.org/'
@@ -32,11 +32,12 @@ gigs:
     location: Agnietenhof Theater
     venue: Tiel (NL)
     url: www.agnietenhof.nl
-  - title: Mike del Ferro trio
-    date: 2019-09-29 15:00:00
-    location: OBA Zuid Oost
+  - title: Mike del Ferro trio (Afternoon Concert)
+    date: 2019-11-09 15:00:00
+    location: 'OBA Zuid Oost - free concert, sponsored by the Libary'
     venue: Amsterdam CNL)
-    url:
+    url: >-
+      https://www.facebook.com/World-Open-Jazz-Concerts-Zuidoost-110155230358874/?__tn__=%2Cd%2CP-R&eid=ARB56M57iGI_pzctPaRwYzIdgcvu6_eUDVni50GPAk9jie2JMITK_Iaq-pgqteDvFjDiYukdk4XWQ-vd
   - title: Mike del Ferro and Jeroen van Veen- Canto Ostinato and Beyond
     date: 2020-01-09 20:00:00
     location: De Meerse
@@ -44,7 +45,7 @@ gigs:
     url: 'https://www.demeerse.nl/'
   - title: Slow Water Music - Mezmerizing Visuals with live Concert
     date: 2019-11-09 20:00:00
-    location: Ten Club
+    location: TenClub
     venue: Amsterdam
     url: 'https://www.facebook.com/events/743919619382916/'
   - title: Mike del Ferro with Mbuso Khoza from South Africa
@@ -57,3 +58,13 @@ gigs:
     location: jazzschool/jazzcampus
     venue: Basel (Switzerland)
     url: www.jazzcampus.com
+  - title: Solo Recital (Afterrnoon!!)
+    date: 2019-11-16 15:00:00
+    location: Galerie S
+    venue: Amsterdam
+    url: 'https://www.galerie-signaal.nl/'
+  - title: 'Jazz Plaza Festival, Havana , Cuba'
+    date: 2020-01-14 15:00:00
+    location: more details soon
+    venue:
+    url: 'http://festivaljazzplaza.com/en/'
