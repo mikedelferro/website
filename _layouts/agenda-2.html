@@ -527,7 +527,7 @@ function loaded() {
     class="wysiwyg growpage"><!-- InstanceBeginEditable name="content1410" -->
 
 <table cellpadding="0" cellspacing="0" style="border-bottom: 1px solid #ccc; width: 100%; font-size: 85%; line-height: 27px;">
-{% assign sorted = site.gigs | sort: 'date' %}
+{% assign sorted = site.data.gigs.items | sort: 'date' %}
 {% for item in sorted %}
 
    <tr {% if item.url!='' %}style="cursor: pointer;" onclick="window.open('{{ item.url }}');"{% endif %}>
