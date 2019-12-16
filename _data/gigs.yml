@@ -14,19 +14,17 @@ items:
     location: Steenakker
     venue: Haps (Nijmegen) NL
     url: 'http://www.desteenakker.nl'
-  - title: >-
-      Lying down Concert: Mike del Ferro & Jeroen van Veen, Canto Ostinato and
-      beyond
-    date: 2019-11-07 20:00:00
-    location: Wilminktheater
-    venue: Enschede  (NL)
+  - title: Mike del Ferro Trio
+    date: 2020-01-15 20:00:00
+    location: TBA
+    venue: 'Havana, Cuba'
     url: >-
-      https://www.wilminktheater.nl/programma/!/8162/jeroen-van-veen-mike-del-ferro/canto-ostinato-and-beyond-ligconcert/
-  - title: Mike del Ferro solo recital
-    date: 2019-12-01 15:00:00
-    location: MCO Gebouw
-    venue: Hilversum (NL)
-    url: 'https://www.mcogebouw.nl'
+      https://www.facebook.com/events/havana-music-tours/havana-jazz-plaza-2020-an-annual-jazz-festival-in-havana-cuba/524426591351115/
+  - title: 'Brel and beyond, Mike del Ferro and Micheline van Houtem'
+    date: 2020-03-13 20:30:00
+    location: Splendor
+    venue: Amsterdam
+    url: 'https://www.splendoramsterdam.com'
   - title: With Jeroen van Veen - Canto Ostinato & beyond
     date: 2019-12-07 20:00:00
     location: Agnietenhof Theater
