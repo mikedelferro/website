@@ -30,12 +30,11 @@ items:
     location: Nassau Theatre
     venue: Cape Town (South Africa)
     url: 'https://www.grooteschuurhigh.co.za/'
-  - title: Mike del Ferro trio (Afternoon Concert)
-    date: 2019-11-09 15:00:00
-    location: 'OBA Zuid Oost - free concert, sponsored by the Libary'
-    venue: Amsterdam CNL)
-    url: >-
-      https://www.facebook.com/World-Open-Jazz-Concerts-Zuidoost-110155230358874/?__tn__=%2Cd%2CP-R&eid=ARB56M57iGI_pzctPaRwYzIdgcvu6_eUDVni50GPAk9jie2JMITK_Iaq-pgqteDvFjDiYukdk4XWQ-vd
+  - title: Mike del Ferro trio
+    date: 2020-02-04 21:00:00
+    location: Smederij Jazz Club
+    venue: Groningen
+    url:
   - title: Mike del Ferro and Jeroen van Veen- Canto Ostinato and Beyond
     date: 2020-01-09 20:00:00
     location: De Meerse
