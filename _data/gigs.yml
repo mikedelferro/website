@@ -4,7 +4,7 @@ items:
     location: Port au Prince
     venue: Haiti
     url: 'http://papjazzhaiti.org/'
-  - title: Mike del Ferro / Joris Teepe / Rogerio Beccato
+  - title: Mike del Ferro / Joris Teepe / Rogerio Boccato
     date: 2020-02-14 20:30:00
     location: TBA
     venue: Amstelveen
@@ -70,14 +70,13 @@ items:
     location: Quartier Latin
     venue: Petionville - Haiti
     url: www.papjazzhaiti.org
-  - title: Yoga Experience Concert with André Heuvelman
-    date: 2019-12-21 18:00:00
-    location: Down Town
-    venue: Veenendaal (NL)
-    url: >-
-      https://www.facebook.com/photo.php?fbid=10158960942733272&set=a.10152481657578272&type=3&theater
-  - title: Masterclass (morning!!)  at Pianofest
-    date: 2019-12-22 11:00:00
-    location: Conservatory of Amsterdam
-    venue: Amsterdam
-    url: 'https://www.pianofest.nl/programma'
+  - title: 'Jazz Plaza Festival , Havana, Cuba'
+    date: 2019-12-16 18:00:00
+    location:
+    venue: Havana
+    url:
+  - title: 'Jazzplaza, Havana, Cuba'
+    date: 2020-01-17 11:00:00
+    location:
+    venue: 'Havana, Cuba'
+    url:
