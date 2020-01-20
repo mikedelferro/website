@@ -14,12 +14,11 @@ items:
     location: Steenakker
     venue: Haps (Nijmegen) NL
     url: 'http://www.desteenakker.nl'
-  - title: Mike del Ferro Trio
-    date: 2020-01-15 20:00:00
-    location: TBA
-    venue: 'Havana, Cuba'
-    url: >-
-      https://www.facebook.com/events/havana-music-tours/havana-jazz-plaza-2020-an-annual-jazz-festival-in-havana-cuba/524426591351115/
+  - title: Yoga Concert with Andre Heuvelman
+    date: 2020-03-19 20:00:00
+    location: Geertekert
+    venue: Utrecht (NL)
+    url:
   - title: 'Jacques Brel and Beyond, Mike del Ferro and Micheline van Houtem'
     date: 2020-03-12 20:30:00
     location: Splendor
