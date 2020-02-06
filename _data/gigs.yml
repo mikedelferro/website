@@ -69,10 +69,10 @@ items:
     location: de Sjoel
     venue: Amsterdam
     url: www.splendoramsterdam.com
-  - title: 'Jazz Plaza Festival , Havana, Cuba'
-    date: 2020-01-16 18:00:00
-    location:
-    venue: Havana
+  - title: 'DOM concert, DOM Tower'
+    date: 2020-08-24 20:00:00
+    location: Dom Tower
+    venue: Utrecht
     url:
   - title: 'Jazzplaza, Havana, Cuba'
     date: 2020-01-17 11:00:00
