@@ -19,12 +19,14 @@ items:
     location: Geertekert
     venue: Utrecht (NL)
     url: 'https://laydowntown.com/'
-  - title: 'Jacques Brel and Beyond, Mike del Ferro and Micheline van Houtem'
+  - title: >-
+      to be postponed due to Corona Crisis -Jacques Brel and Beyond, Mike del
+      Ferro and Micheline van Houtem
     date: 2020-03-12 20:30:00
     location: Splendor
     venue: Amsterdam
     url: 'https://www.splendoramsterdam.com'
-  - title: Mike del Ferro trio  & Luca Ciarla
+  - title: Mike del Ferro trio
     date: 2020-04-26 20:00:00
     location: Nassau Theatre
     venue: Cape Town (South Africa)
@@ -72,7 +74,7 @@ items:
     location: Howard College Theatre
     venue: Durban (South Africa)
     url:
-  - title: Mike del Ferro and Luca Ciarla
+  - title: Mike del Ferro
     date: 2020-04-30 20:00:00
     location: TBA
     venue: Lusaka (Zambia)
@@ -87,3 +89,9 @@ items:
     location:
     venue:
     url:
+  - title: Film Concert - live music under a silent Hitchcock Movie
+    date: 2020-05-15 20:00:00
+    location: Cinema at Corendon Village Hotel
+    venue: Amsterdam / Badhoevedorp
+    url: >-
+      https://www.corendonhotels.com/corendon-village-hotel-amsterdam/corendon-cinema/
