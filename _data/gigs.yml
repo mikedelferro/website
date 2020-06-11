@@ -4,16 +4,6 @@ items:
     location: De Hallen
     venue: Amsterdam
     url: www.popuppodium.com
-  - title: to be postponed due to Corona Crisis Slow Water Music - Film Concert
-    date: 2020-03-15 15:30:00
-    location: Steenakker
-    venue: Haps (Nijmegen) NL
-    url: 'http://www.desteenakker.nl'
-  - title:
-    date: 2020-03-19 20:00:00
-    location:
-    venue:
-    url:
   - title: Yoga Concert with Andre Heuvelman
     date: 2020-09-10 20:00:00
     location: Geertekerk
@@ -24,13 +14,3 @@ items:
     location: Pelgrimsvaderkerk
     venue: Rotterdam
     url: 'https://laydowntown.com/'
-  - title: Mike del Ferro and Luca Ciarla
-    date: 2020-06-27 20:00:00
-    location: TBA
-    venue: Rome (Italy)
-    url:
-  - title:
-    date: 2020-04-21 20:00:00
-    location:
-    venue:
-    url:
