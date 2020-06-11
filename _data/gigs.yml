@@ -15,9 +15,14 @@ items:
     venue: Rotterdam
     url: 'https://laydowntown.com/'
   - title: >-
-      Many canceled concerts are being scheduled again, stay tuned for new
+      Many cancelled concerts are being scheduled again, stay tuned for new
       dates!
     date: 2020-05-31 19:00:00
     location:
+    venue:
+    url:
+  - title: Yoga Concert with Andre Heuvelman
+    date: 2020-12-03 19:00:00
+    location: Amsterdam
     venue:
     url:
