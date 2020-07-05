@@ -1,7 +1,7 @@
 items:
   - title: With André Heuvelman
     date: 2020-07-15 20:00:00
-    location: Emmerstrand
+    location: Ermer strand
     venue: Drenthe (NL)
     url: 'https://www.wij-zijn-tijdloos.nl/'
   - title: Yoga Concert with Andre Heuvelman
@@ -26,7 +26,7 @@ items:
     url:
   - title: With Andre Heuvelman
     date: 2020-07-10 20:00:00
-    location: Erm
+    location: Ermer Strand
     venue: Drenthe (NL)
     url: 'https://www.wij-zijn-tijdloos.nl/'
   - title: With Andre Heuvelman
@@ -39,3 +39,8 @@ items:
     location: Splendor   2 sets with different audience  /corona rules  19.30 and 21.00
     venue: Amsterdam
     url: www.splendoramsterdam.com
+  - title: With Andre Heuvelman
+    date: 2020-07-17 19:30:00
+    location:
+    venue: Rhenen
+    url:
